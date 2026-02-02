@@ -1,0 +1,40 @@
+{
+  "slug": "tpms",
+  "title": "TPMS",
+  "shortDescription": "Soluciones completas para sistemas TPMS, incluyendo herramientas de diagnóstico y programación, sensores y válvulas para monitoreo de presión de neumáticos.",
+  "order": 3,
+  "logo": "/images/products/tpms/logo/logo.svg",
+  "enableHoverPreview": true,
+  "isActive": true,
+  "template": "tpms",
+  "defaultSections": [
+    "highlights",
+    "applications",
+    "functions",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "filters": [
+    "tipo-de-producto",
+    "frecuencia",
+    "aplicacion"
+  ],
+  "tags": [
+    "tpms",
+    "presion-neumaticos",
+    "sensores",
+    "valvulas",
+    "diagnostico"
+  ],
+  "seo": {
+    "title": "Herramientas y sensores TPMS para talleres",
+    "description": "Herramientas TPMS, sensores y válvulas para diagnóstico, programación y mantenimiento de sistemas de monitoreo de presión de neumáticos."
+  },
+  "featuredHeroProductSlug": "crt-511s-v2",
+  "categoryBanner": {
+    "mode": "auto-from-products",
+    "imageIndex": 1,
+    "limit": 12
+  }
+}

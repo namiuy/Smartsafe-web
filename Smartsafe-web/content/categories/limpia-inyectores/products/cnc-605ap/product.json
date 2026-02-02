@@ -1,0 +1,102 @@
+{
+  "categorySlug": "limpia-inyectores",
+  "slug": "cnc-605ap",
+  "title": "SmartSafe CNC-605AP – Inyectores GDI / PIEZO",
+  "shortDescription": "Equipo profesional para limpieza ultrasónica y prueba de inyectores, compatible con inyectores convencionales (EFI 12V), GDI (65V/12V) y piezoeléctricos (140V). Integra control por microprocesador y control de presión para simular condiciones de motor, con pruebas de estanqueidad, uniformidad/rociado y medición de caudal.",
+  "badge": "EFI 12V / GDI 65V-12V / PIEZO 140V",
+  "order": 1,
+  "isFeatured": true,
+  "isActive": true,
+  "seo": {
+    "title": "SmartSafe CNC-605AP – Limpia inyectores GDI y PIEZO",
+    "description": "Máquina profesional para limpieza ultrasónica y prueba de inyectores EFI 12V, GDI (65V/12V) y piezoeléctricos 140V. Incluye pruebas de estanqueidad, uniformidad/rociado, medición de caudal y simulación de condiciones de motor."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLACNC605AP"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Compatible con inyectores convencionales, GDI y piezoeléctricos (selección de modo EFI/GDI/PIEZO).",
+        "Limpieza ultrasónica potente para remover depósitos de carbón y residuos del inyector y filtro.",
+        "Control por microcomputadora para automatizar procesos y monitorear desempeño en tiempo real.",
+        "Simulación de condiciones de motor con control de presión para pruebas seguras.",
+        "Pantalla color de 7\" para visualización clara y operación más cómoda.",
+        "Conectores para limpieza sin desarme (non-dismantle) para múltiples modelos; kit side-feed opcional."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Limpieza y prueba de inyectores EFI (12V) de inyección convencional.",
+        "Limpieza y prueba de inyectores GDI (65V/12V).",
+        "Limpieza y prueba de inyectores piezoeléctricos (140V).",
+        "Diagnóstico de fallas típicas: suciedad/obstrucción, diferencias de caudal, pérdidas/filtraciones, problemas eléctricos (abierto/corto)."
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Compatibilidad y funciones de prueba",
+      "items": [
+        "Selección de modo de trabajo por tipo de inyector: EFI (12V), GDI (65V) o PIEZO (140V).",
+        "Ultrasonic Cleaning: limpieza ultrasónica simultánea de múltiples inyectores.",
+        "Sealing Test: prueba de sellado/filtración bajo presión del sistema.",
+        "Uniformity/Spray Test: prueba de uniformidad y observación del patrón de atomización con luz de fondo.",
+        "Fuel Injection Quantity Detection: medición de cantidad de inyección bajo condición constante de 15 segundos.",
+        "Automatic Cleaning & Testing: ciclo automático con parámetros definidos para simular condiciones reales.",
+        "Reverse Flush: contralavado para remover contaminantes internos y residuos en el filtro del inyector (con adaptador).",
+        "Non-Dismantle Cleaning: limpieza y mantenimiento sin desarme con adaptadores específicos.",
+        "Low resistance testing: detección de circuito abierto/corto en inyectores (prueba de baja resistencia)."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación: AC 110V / AC 220V, 50Hz / 60Hz.",
+        "Potencia del equipo (host): 500 W.",
+        "Capacidad del tanque de combustible: 2500 ml.",
+        "Potencia de ultrasonido: 100 W.",
+        "Presión de trabajo: 0.1 – 9 bar.",
+        "Velocidad de simulación: 100 – 9900 rpm (paso 10 rpm).",
+        "Ancho de pulso: 0.1 – 25 ms (paso 0.1 ms).",
+        "Rango de prueba de resistencia: 0 – 100 Ω.",
+        "Precisión de prueba de resistencia: 1%.",
+        "Pantalla: color 7\".",
+        "Dimensiones del equipo: 412 × 398 × 550 mm."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de uso",
+      "items": [
+        "Usar en superficie estable y área bien ventilada.",
+        "Operación por personal capacitado en inyección/diagnóstico automotriz.",
+        "Conectar a red eléctrica con puesta a tierra y tensión adecuada (110/220V).",
+        "Seleccionar el modo correcto (EFI/GDI/PIEZO) según el tipo de inyector antes de iniciar pruebas.",
+        "Trabajar con presión dentro del rango indicado (0.1–9 bar) para operar en condiciones seguras."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "El documento del fabricante identifica el producto como CNC605+; en la web se publica como CNC-605AP (nombre interno).",
+        "Incluye accesorios/adaptadores para distintos tipos de inyectores; kit side-feed disponible como opcional.",
+        "Entre los accesorios listados se mencionan adaptadores específicos (por ejemplo: Benz piezo adaptor, Plug for BUICK injector, adaptadores para top-supply y adaptador de reverse flush)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "categorySlug": "linea-pesada",
+  "slug": "smartlink-hd",
+  "title": "SmartLink HD – Interfaz de Diagnóstico Línea Pesada",
+  "shortDescription": "Interfaz de diagnóstico Launch SmartLink HD para línea pesada, que incluye set completo de conectores HD y permite diagnóstico local y remoto en camiones, ómnibus y maquinaria, sin necesidad de adquirir un scanner completo.",
+  "badge": "Interfaz Línea Pesada",
+  "order": 4,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "interfaz-de-diagnostico",
+    "tipo-de-vehiculo": "linea-pesada",
+    "aplicacion": "diagnostico"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Interfaz profesional SmartLink para diagnóstico de línea pesada",
+        "Compatible con camiones, ómnibus y maquinaria",
+        "Permite diagnóstico local y remoto",
+        "Incluye set completo de conectores para vehículos pesados",
+        "Solución flexible para talleres y flotas",
+        "Ideal para combinar con software X-431 HD"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Diagnóstico de camiones y ómnibus",
+        "Servicio técnico en flotas",
+        "Soporte remoto de diagnóstico",
+        "Centros de mantenimiento de vehículos pesados",
+        "Talleres que requieren movilidad y flexibilidad"
+      ]
+    },
+    {
+      "type": "connectors",
+      "title": "Conectores incluidos",
+      "items": [
+        "OBD-16",
+        "BENZ-14",
+        "MITSUBISHI 12+16",
+        "CUMMINS-12",
+        "CAT-9",
+        "ISUZU-20",
+        "ISUZU-3",
+        "OBD-6",
+        "OBD-9",
+        "VOLVO-8",
+        "RENAULT-12",
+        "IVECO-30",
+        "IVECO-38",
+        "MAN-12",
+        "MAN-37",
+        "HYUNDAI-16",
+        "WP-3",
+        "DONGFENG-16"
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Interfaz SmartLink HD",
+        "Cable de interfaz de diagnóstico",
+        "Cable de red (Ethernet)",
+        "Set completo de conectores para línea pesada"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas importantes",
+      "items": [
+        "El set de conectores es el mismo que el del X-431 HD III",
+        "No incluye tablet o scanner principal",
+        "Requiere software compatible de línea pesada",
+        "Permite diagnóstico local y remoto según configuración",
+        "Diseñado para uso profesional intensivo"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Launch SmartLink HD Interfaz de Diagnóstico Línea Pesada",
+    "description": "Interfaz Launch SmartLink HD para diagnóstico de línea pesada con set completo de conectores y soporte para diagnóstico local y remoto."
+  },
+  "cta": {
+    "secondaryLabel": "Consultar compatibilidad"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "connectors",
+    "included",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLAINTHDLINK"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "ep-101",
+  "title": "EP-101 – Equipo portátil de carga, descarga y prueba de celdas de batería",
+  "shortDescription": "Equipo portátil profesional para carga, descarga, prueba de capacidad y medición de resistencia interna de celdas individuales de baterías de litio, diseñado para mantenimiento, diagnóstico y evaluación del estado de celdas en vehículos eléctricos.",
+  "badge": "Equipo EV profesional",
+  "order": 14,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "prueba-de-celdas",
+    "aplicacion": "diagnostico-y-mantenimiento-de-celdas",
+    "nivel-de-tension": "celda-individual"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Equipo portátil para pruebas a nivel de celda individual",
+        "Carga y descarga de alta corriente hasta 50 A",
+        "Prueba de capacidad para evaluación de degradación de celdas",
+        "Medición de resistencia interna DC para análisis de salud",
+        "Diseño liviano y compacto para trabajo en banco o en campo",
+        "Protecciones múltiples para pruebas seguras y confiables"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Diagnóstico de celdas individuales de baterías EV",
+        "Evaluación de capacidad y estado de salud de celdas de litio",
+        "Clasificación y selección de celdas para armado de packs",
+        "Mantenimiento y reacondicionamiento de celdas",
+        "Pruebas en procesos de reciclaje y segunda vida de baterías",
+        "Uso en talleres EV, laboratorios y centros técnicos"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Carga y descarga de celdas en modos de corriente constante y voltaje constante",
+        "Prueba de capacidad mediante ciclos completos de carga y descarga",
+        "Medición de resistencia interna DC para detección de degradación",
+        "Monitoreo en tiempo real de voltaje, corriente, capacidad, resistencia interna y temperatura",
+        "Visualización continua de datos durante el proceso de prueba",
+        "Almacenamiento local de datos de prueba",
+        "Exportación de datos mediante unidad USB",
+        "Protecciones integradas contra sobrevoltaje, subtensión, sobrecorriente, cortocircuito, inversión de polaridad, desconexión y sobretemperatura"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación de entrada: AC 110 / 220 V, 50 / 60 Hz",
+        "Rango de voltaje de prueba: 1 ~ 5 V",
+        "Rango de corriente: 0.5 ~ 50 A",
+        "Potencia máxima de carga y descarga: 250 W",
+        "Precisión de voltaje: ±0.2% FS + 5 mV (rango máximo 5 V)",
+        "Resolución de voltaje: 0.001 V",
+        "Precisión de corriente: ±0.5% FS + 0.1 A (rango máximo 50 A)",
+        "Resolución de corriente: 0.1 A",
+        "Pantalla: LCD color de 4.3 pulgadas",
+        "Método de control: Perilla + botones",
+        "Refrigeración: Ventilación forzada",
+        "Comunicación y exportación de datos: USB",
+        "Temperatura de trabajo: −10 °C ~ 60 °C",
+        "Temperatura de almacenamiento: −20 °C ~ 70 °C",
+        "Humedad ambiente: 10% ~ 90% RH",
+        "Grado de protección: IP21"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñado para uso profesional en pruebas de baterías de litio",
+        "Protecciones eléctricas integrales para operación segura",
+        "Adecuado para mantenimiento y diagnóstico técnico EV"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo diseñado exclusivamente para pruebas de celdas individuales",
+        "No trabaja a nivel de módulo ni de pack completo",
+        "Permite evaluar rápidamente degradación y consistencia de celdas",
+        "Ideal como complemento de ecualizadores y equipos de mantenimiento de packs",
+        "Uso recomendado por personal técnico capacitado en baterías de litio"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "EP-101 Equipo portátil de prueba de celdas para baterías EV",
+    "description": "Equipo profesional portátil para carga, descarga, prueba de capacidad y medición de resistencia interna de celdas individuales de baterías de litio en vehículos eléctricos."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "categorySlug": "gomeria",
+  "slug": "kwb-821",
+  "title": "LAUNCH KWB-821 – Balanceadora automática para autos y camiones",
+  "shortDescription": "Balanceadora automática avanzada para automóviles y camiones, con elevador neumático, pantalla grande vertical, posicionamiento láser y amplia capacidad para ruedas pesadas.",
+  "badge": "Equipo pesado",
+  "order": 7,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH KWB-821 Balanceadora para autos y camiones",
+    "description": "Balanceadora LAUNCH KWB-821 automática para autos y camiones, con elevador neumático, pantalla vertical, posicionamiento láser y alta capacidad de carga."
+  },
+  "filters": {
+    "tipo-de-equipo": "balanceadora",
+    "tipo-de-vehiculo": "camion-y-automovil"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Ventajas principales",
+      "items": [
+        "Balanceadora automática para automóviles y camiones",
+        "Amplio rango de balanceo para ruedas de gran tamaño",
+        "Elevador neumático integrado controlado por pedal",
+        "Pantalla vertical grande para visualización clara de datos",
+        "Posicionamiento láser preciso para contrapesos adhesivos",
+        "Balanza inteligente para ingreso automático de datos",
+        "Opción de modo AUTO o TRUCK desde el panel de control"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Gomerías de autos y camiones",
+        "Talleres de vehículos pesados",
+        "Flotas de transporte",
+        "Centros de servicio para ómnibus y camiones"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Balanceo dinámico y estático (DYN / STA)",
+        "Modos de balanceo ALU1 / ALU2 / ALUS",
+        "Medición automática de distancia y diámetro de llanta",
+        "Posicionamiento láser de contrapesos",
+        "Control por pedal del elevador neumático",
+        "Ocultamiento de contrapesos adhesivos entre rayos adyacentes"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tensión de trabajo: 380 V",
+        "Potencia: 300 W",
+        "Presión de trabajo: 0.6 – 0.8 MPa",
+        "Rango de diámetro de llanta: 13” – 24”",
+        "Ancho de llanta admitido: 4” – 20”",
+        "Diámetro máximo de rueda: 1200 mm",
+        "Peso máximo de rueda: 150 kg",
+        "Velocidad de rotación: 160 rpm",
+        "Tiempo de ciclo de balanceo: 10 s",
+        "Diámetro del eje principal: 40 mm",
+        "Dimensiones de operación: 1300 × 1700 × 1900 mm"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo de nivel avanzado para trabajo pesado",
+        "Diseñada para ruedas de automóviles y camiones",
+        "Incluye elevador neumático para ruedas pesadas",
+        "Indicada para talleres con alto volumen y flotas"
+      ]
+    }
+  ],
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLAKWB-821"
+  }
+}

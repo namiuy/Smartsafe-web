@@ -1,0 +1,107 @@
+{
+  "categorySlug": "adas",
+  "slug": "adas-radar-3-in-1",
+  "title": "ADAS Radar 3 in 1 – Sistema de Calibración de Radares",
+  "shortDescription": "Sistema profesional de calibración ADAS diseñado específicamente para radares automotrices. El ADAS Radar 3 in 1 integra target de radar ACC, reflector de esquina y simulador Doppler en una única solución modular, permitiendo calibrar múltiples sistemas de radar de forma precisa y conforme a estándares OEM.",
+  "badge": "Radar ACC · BSD · LCA",
+  "order": 6,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "ADAS Radar 3 in 1 – Calibración profesional de radares ADAS",
+    "description": "Equipo profesional Launch ADAS Radar 3 in 1 para calibración de radares ACC, BSD y LCA, con target ACC, reflector de esquina y simulador Doppler."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "compatibility",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Solución 3 en 1 para calibración de radares ADAS.",
+        "Incluye target de radar ACC, reflector de esquina y simulador Doppler.",
+        "Diseñado para calibraciones estáticas de radar conforme a estándares OEM.",
+        "Sistema modular compatible con estructuras ADAS Launch.",
+        "Alta precisión en alineación mediante láser de cinco líneas.",
+        "Ideal para talleres especializados y centros ADAS."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Calibración de radar ACC (Adaptive Cruise Control).",
+        "Calibración de radar BSD (Blind Spot Detection).",
+        "Calibración de sistemas LCA (Lane Change Assist).",
+        "Calibración de FCR (Front Corner Radar)."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con software ADAS Launch.",
+        "Soporte para marcas europeas, asiáticas y americanas.",
+        "Compatible con escáneres Launch X-431 con función ADAS.",
+        "Uso combinado con marcos ADAS Mobile, Pro y Pro+."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Superficie del piso perfectamente nivelada.",
+        "Espacio frontal suficiente según procedimiento OEM.",
+        "Iluminación adecuada durante la calibración.",
+        "Uso obligatorio de escáner Launch compatible con ADAS.",
+        "Técnico capacitado en calibración de radares ADAS."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tipo de calibración: estática (radares).",
+        "Componentes principales: target ACC, reflector de esquina, simulador Doppler.",
+        "Sistema de alineación: láser de cinco líneas.",
+        "Montaje: modular sobre estructura ADAS Launch.",
+        "Configuración: estándar 3 en 1."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluido en la configuración estándar",
+      "items": [
+        "Unidad principal (soporte vertical).",
+        "Target de radar ACC (LAM05-02).",
+        "Reflector de esquina (LAC05-03).",
+        "Simulador Doppler (LAC05-04).",
+        "Dispositivo láser de cinco líneas.",
+        "Soporte de montaje y accesorios.",
+        "Fuentes de alimentación y cables.",
+        "Maletas de transporte y bolsa protectora."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Los procedimientos de calibración varían según marca y modelo del vehículo.",
+        "Algunos sistemas requieren combinaciones específicas de targets.",
+        "Equipo orientado exclusivamente a calibración de radares ADAS.",
+        "Requiere escáner Launch con función ADAS activa."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Consultar disponibilidad",
+    "url": ""
+  }
+}

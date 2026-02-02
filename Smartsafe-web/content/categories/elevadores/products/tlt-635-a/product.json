@@ -1,0 +1,129 @@
+{
+  "categorySlug": "elevadores",
+  "slug": "tlt-635-a",
+  "title": "TLT-635-A – Elevador tijera empotrado",
+  "shortDescription": "Elevador automotriz tipo tijera empotrado (small scissor), diseñado para optimizar espacio de trabajo en talleres de diagnóstico y mantenimiento. Capacidad de 3.5 toneladas con sistema electrohidráulico seguro y sincronizado.",
+  "badge": "Tijera · Empotrado",
+  "order": 9,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "TLT-635-A – Elevador tijera empotrado 3.5T",
+    "description": "Elevador tijera empotrado 3.5 toneladas, altura máxima 2130 mm, control 24V y pruebas de carga dinámica 120% y estática 150%."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "capacity",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Elevador automotriz tipo tijera empotrado (in-ground)",
+        "Diseño ahorra espacio, queda al ras del piso en posición baja",
+        "Sistema electrohidráulico con plataformas sincronizadas",
+        "Control eléctrico de bajo voltaje (24V) con limit switch",
+        "Prueba de carga dinámica al 120% y estática al 150%",
+        "Plataformas extensibles para cubrir mayor rango de vehículos",
+        "Funcionamiento estable y seguro para uso profesional"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Diagnóstico vehicular",
+        "Mantenimiento general",
+        "Revisión y servicios rápidos",
+        "Talleres con espacio reducido",
+        "Centros de inspección y diagnóstico"
+      ]
+    },
+    {
+      "type": "capacity",
+      "title": "Capacidad y configuración",
+      "items": [
+        "Capacidad máxima de elevación: 3500 kg",
+        "Altura máxima de elevación: 2130 mm",
+        "Altura mínima: 330 mm",
+        "Altura de trabajo: 330–2130 mm",
+        "Tiempo de elevación: ≤ 55 s",
+        "Tiempo de descenso: ≥ 20 s",
+        "Ancho de plataforma: 550 mm",
+        "Largo de plataforma: estándar 1550–1740 mm / doble extensión 1650–2040 mm"
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Instalación empotrada en fosa (in-ground)",
+        "Preparación de fundación según plano del fabricante",
+        "Alimentación eléctrica trifásica o monofásica (según versión)",
+        "Uso en interiores",
+        "Instalación y operación por personal técnico capacitado"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Modelo: TLT-635-A",
+        "Tipo: elevador tijera empotrado",
+        "Accionamiento: electrohidráulico",
+        "Sistema de control: 24V",
+        "Peso operativo: estándar 696 kg / doble extensión 722 kg",
+        "Certificación CE"
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Elevador tijera TLT-635-A",
+        "Plataformas extensibles",
+        "Unidad hidráulica",
+        "Sistema de control",
+        "Manual de usuario"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Los colores del equipo pueden variar según disponibilidad y lote de fabricación. Las imágenes son ilustrativas y pueden no coincidir exactamente con el producto entregado.",
+        "Las especificaciones pueden variar según versión o mercado.",
+        "Las dimensiones indicadas corresponden a instalación empotrada."
+      ]
+    }
+  ],
+  "filters": {
+    "tipo-de-elevador": [
+      "tijera"
+    ],
+    "capacidad": [
+      "3.5t"
+    ],
+    "aplicacion": [
+      "diagnostico",
+      "mantenimiento"
+    ]
+  },
+  "tags": [
+    "elevador",
+    "tijera",
+    "empotrado",
+    "diagnostico",
+    "launch"
+  ]
+}

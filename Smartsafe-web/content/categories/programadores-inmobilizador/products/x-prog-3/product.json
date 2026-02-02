@@ -1,0 +1,129 @@
+{
+  "categorySlug": "programadores-inmovilizador",
+  "slug": "x-prog-3",
+  "title": "LAUNCH X-PROG 3 – Programador profesional EEPROM y MCU",
+  "shortDescription": "Programador profesional LAUNCH para lectura y escritura de memorias EEPROM, MCU y ECU, diseñado para trabajos avanzados de inmovilizador, clonación y recuperación de módulos electrónicos.",
+  "badge": "IMMO PROG",
+  "order": 5,
+  "isFeatured": false,
+  "isActive": true,
+
+  "filters": {
+    "tipo-de-programacion": "eeprom-mcu",
+    "metodo": "bench-programming",
+    "marca-vehiculo": "multimarca"
+  },
+
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Descripción general",
+      "items": [
+        "Programador profesional para memorias EEPROM y MCU",
+        "Diseñado para trabajos avanzados de inmovilizador y electrónica automotriz",
+        "Compatible con plataformas X-431 IMMO Pro e IMMO PAD",
+        "Soporte para lectura y escritura de datos de módulos electrónicos",
+        "Uso en programación, clonación y recuperación de sistemas IMMO",
+        "Arquitectura orientada a trabajos fuera del vehículo (bench mode)",
+        "Herramienta destinada a uso profesional especializado"
+      ]
+    },
+
+    {
+      "type": "functions",
+      "title": "Funciones principales",
+      "items": [
+        "Lectura de memorias EEPROM",
+        "Escritura de memorias EEPROM",
+        "Lectura de unidades MCU",
+        "Escritura de unidades MCU",
+        "Lectura de datos de ECU",
+        "Soporte para clonación de módulos electrónicos",
+        "Recuperación de módulos IMMO y ECU",
+        "Trabajo directo sobre módulos fuera del vehículo"
+      ]
+    },
+
+    {
+      "type": "functions",
+      "title": "Funciones IMMO avanzadas",
+      "items": [
+        "Soporte para escenarios All Keys Lost (AKL)",
+        "Lectura y escritura de datos de inmovilizador",
+        "Extracción de información de llaves y transponders",
+        "Soporte para reemplazo de módulos IMMO",
+        "Uso conjunto con software guiado X-431",
+        "Ampliación de cobertura mediante actualizaciones"
+      ]
+    },
+
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Programación avanzada de inmovilizadores",
+        "Clonación de ECU",
+        "Clonación de TCU",
+        "Recuperación de módulos electrónicos dañados",
+        "Reemplazo de módulos electrónicos",
+        "Uso en talleres especializados y laboratorios electrónicos"
+      ]
+    },
+
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con LAUNCH X-431 IMMO Pro",
+        "Compatible con LAUNCH X-431 IMMO PAD",
+        "Integración directa con plataforma X-431",
+        "Cobertura dependiente del tipo de módulo y memoria",
+        "Funciones disponibles según arquitectura electrónica"
+      ]
+    },
+
+    {
+      "type": "specs",
+      "title": "Plataforma de trabajo",
+      "items": [
+        "Tipo de trabajo: Bench programming",
+        "Conexión mediante interfaz dedicada",
+        "Uso con software especializado LAUNCH",
+        "Soporte para múltiples tipos de memorias",
+        "Diseñado para operaciones de alta precisión"
+      ]
+    },
+
+    {
+      "type": "notes",
+      "title": "Requisitos y consideraciones técnicas",
+      "items": [
+        "Uso exclusivo profesional",
+        "Requiere conocimientos avanzados en electrónica automotriz",
+        "Errores en lectura o escritura pueden dañar módulos",
+        "La cobertura depende del módulo y tipo de memoria",
+        "Se recomienda verificar compatibilidad antes de operar",
+        "Herramienta orientada a técnicos especializados"
+      ]
+    }
+  ],
+
+  "seo": {
+    "title": "LAUNCH X-PROG 3 Programador EEPROM y MCU",
+    "description": "Programador profesional LAUNCH X-PROG 3 para lectura y escritura de EEPROM, MCU y ECU, orientado a trabajos avanzados de inmovilizador y electrónica automotriz."
+  },
+
+  "sectionsOrder": [
+    "highlights",
+    "functions",
+    "applications",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+
+  "purchase": {
+    "label": "Consultar",
+    "url": ""
+  }
+}

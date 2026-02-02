@@ -1,0 +1,90 @@
+{
+  "categorySlug": "gomeria",
+  "slug": "twc-521",
+  "title": "LAUNCH TWC-521 – Desenllantadora automática",
+  "shortDescription": "Desenllantadora automática de alto rendimiento para automóviles, con brazo basculante inclinable (tilt swing arm), mesa autocentrante y capacidad para neumáticos run-flat y de perfil bajo.",
+  "badge": "Equipo premium",
+  "order": 3,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH TWC-521 Desenllantadora automática profesional",
+    "description": "Desenllantadora automática LAUNCH TWC-521 con tilt swing arm, mesa autocentrante y compatibilidad con neumáticos run-flat y low-profile."
+  },
+  "filters": {
+    "tipo-de-equipo": "desenllantadora",
+    "tipo-de-vehiculo": "automovil"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Ventajas principales",
+      "items": [
+        "Desenllantadora automática para automóviles",
+        "Brazo basculante inclinable (tilt swing arm) de libre movimiento",
+        "Compatible con neumáticos run-flat y de perfil bajo",
+        "Mesa de trabajo autocentrante",
+        "Brazo auxiliar derecho 5A (opcional)",
+        "Columna horizontal actualizada con diseño totalmente mecánico",
+        "Cilindro destalonador con resorte en la torre",
+        "Sistema de pedales metálicos, más estable y resistente",
+        "Sistema de doble capa estructural, 2 veces más fuerte y con menor vibración"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Gomerías de alto volumen",
+        "Talleres automotrices profesionales",
+        "Centros de servicio con neumáticos de perfil bajo y run-flat",
+        "Servicio intensivo de montaje y desmontaje de neumáticos"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Montaje y desmontaje automático de neumáticos",
+        "Destalonado mediante cilindro de alta eficiencia",
+        "Sujeción de rueda mediante mesa autocentrante",
+        "Operación completa mediante sistema de pedales"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Diámetro de llanta admitido: 9” – 24”",
+        "Diámetro máximo de rueda: 1050 mm",
+        "Ancho máximo de rueda: 4” – 13”",
+        "Presión de trabajo: 0.8 – 1 MPa",
+        "Alimentación eléctrica: 220 V / 230 V / 380 V / 400 V",
+        "Peso bruto / neto: 292 kg / 252 kg",
+        "Dimensiones del embalaje: 1150 × 950 × 980 mm",
+        "Fuerza máxima de sujeción: 360 kg"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo de nivel avanzado",
+        "Diseñada para neumáticos run-flat y de perfil bajo",
+        "Brazo auxiliar 5A disponible como opcional",
+        "Funcionamiento totalmente automático"
+      ]
+    }
+  ],
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLATWC-521"
+  }
+}

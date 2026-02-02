@@ -1,0 +1,99 @@
+{
+  "categorySlug": "limpia-inyectores",
+  "slug": "cnc-603-lite",
+  "title": "SmartSafe CNC-603 Lite – Limpia y Prueba de Inyectores",
+  "shortDescription": "Equipo semi-automático para limpieza ultrasónica y prueba de inyectores de combustible, capaz de simular condiciones de funcionamiento del motor. Permite limpiar y testear hasta 6 inyectores simultáneamente, evaluando caudal, pulverización, estanqueidad y uniformidad.",
+  "badge": "EFI",
+  "order": 3,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "SmartSafe CNC-603 Lite – Limpia inyectores automotriz",
+    "description": "Máquina semi-automática para limpieza ultrasónica y prueba de inyectores EFI. Permite test de caudal, pulverización, estanqueidad, limpieza sin desarme y simulación de condiciones de motor."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLACNC603LITE"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Equipo semi-automático para limpieza y prueba de inyectores automotrices.",
+        "Limpieza ultrasónica profunda para eliminar residuos de carbón y depósitos del inyector y del filtro.",
+        "Capaz de limpiar y testear hasta 6 inyectores simultáneamente.",
+        "Descarga de aceite manual (one-key manual oil discharge).",
+        "Control por microcomputadora y monitoreo en tiempo real.",
+        "Simulación de condiciones de funcionamiento del motor para pruebas más realistas."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Limpieza ultrasónica de inyectores EFI.",
+        "Prueba de pulverización y uniformidad de inyección.",
+        "Diagnóstico de caudal y rendimiento de inyectores.",
+        "Detección de pérdidas y problemas de sellado.",
+        "Limpieza sin desarme (non-dismantle cleaning) mediante adaptadores."
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones principales",
+      "items": [
+        "Ultrasonic Cleaning: limpieza ultrasónica de múltiples inyectores.",
+        "Uniformity / Spray Testing: evaluación del patrón de pulverización con iluminación de fondo.",
+        "Sealing Test: prueba de estanqueidad y pérdidas bajo presión del sistema.",
+        "Fuel Injection Quantity Detection: medición de cantidad de inyección bajo condición constante de 15 segundos.",
+        "Automatic Cleaning and Testing: limpieza y prueba automática bajo parámetros definidos.",
+        "Reverse Flush: contralavado con adaptador para remover contaminantes internos y residuos del filtro.",
+        "Non-Dismantle Cleaning: limpieza y mantenimiento sin desarme para múltiples modelos."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación: AC 110V / AC 220V – 50/60Hz.",
+        "Potencia principal del equipo: 240 W.",
+        "Potencia de limpieza ultrasónica: 50 W.",
+        "Velocidad de simulación: 10 a 9990 rpm (paso 10 rpm).",
+        "Ancho de pulso: 0.5 a 25 ms (paso 0.1 ms).",
+        "Rango de temporizador: 1 a 10 minutos.",
+        "Capacidad del tanque: 2 L.",
+        "Dimensiones: 352 × 305 × 345 mm."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de uso",
+      "items": [
+        "Utilizar en área bien ventilada y sobre superficie estable.",
+        "Operación por personal capacitado en sistemas de inyección.",
+        "Conectar a red eléctrica con tensión y frecuencia adecuadas.",
+        "No operar el ultrasonido sin líquido en el tanque.",
+        "Verificar correcta instalación de inyectores y adaptadores antes de iniciar pruebas."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Modelo CNC603 LITE: descarga de aceite manual (one-key manual oil discharge).",
+        "Diseñado para inyectores de combustible convencionales (EFI).",
+        "Incluye accesorios/adaptadores para múltiples modelos (top-supply) y adaptador de reverse flush, además de cables de pulso y o-rings.",
+        "Las especificaciones pueden variar según versión o mercado."
+      ]
+    }
+  ]
+}

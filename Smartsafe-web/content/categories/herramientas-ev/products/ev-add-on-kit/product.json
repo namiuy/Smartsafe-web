@@ -1,0 +1,118 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "ev-add-on-kit",
+  "title": "Kit EV de diagnóstico para baterías de vehículos eléctricos",
+  "shortDescription": "Kit profesional de expansión para diagnóstico de baterías de vehículos eléctricos, diseñado para análisis avanzado de módulos, celdas y packs de batería mediante conexión directa y herramientas Launch compatibles.",
+  "badge": "Kit EV profesional",
+  "order": 11,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "kit-de-diagnostico-ev",
+    "aplicacion": "diagnostico-baterias-ev",
+    "nivel-de-tension": "pack-y-modulos-de-bateria"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Kit completo de expansión para diagnóstico de baterías EV",
+        "Cobertura para más de 150 packs de baterías de autos eléctricos",
+        "Compatible con más de 90 packs de baterías de vehículos comerciales",
+        "Soporte para más de 20 marcas de baterías",
+        "Diagnóstico a nivel de pack, módulo y celda",
+        "Incluye cables y conectores especiales para vehículos Tesla",
+        "Maletín profesional con organización por color y tipo de conector"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Diagnóstico avanzado de baterías de vehículos eléctricos",
+        "Análisis del estado de carga (SOC) y estado de salud (SOH)",
+        "Lectura de voltaje, temperatura y datos de cada celda",
+        "Diagnóstico de módulos de batería y sistemas de gestión (BMS)",
+        "Soporte técnico en talleres EV y centros especializados",
+        "Complemento para diagnóstico profundo con scanners Launch"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Conexión directa a módulos y packs de batería mediante conectores dedicados",
+        "Diagnóstico por conectores especiales y cables de acceso directo",
+        "Diagnóstico a través de interfaz OBD en vehículos compatibles",
+        "Diagnóstico mediante puentes eléctricos cuando el acceso directo no está disponible",
+        "Lectura de parámetros clave de batería: voltaje, temperatura y flujo de datos",
+        "Visualización de datos a nivel de celda cuando el vehículo lo permite",
+        "Compatibilidad con mapeo de topología en scanners Launch compatibles"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tipo de producto: Kit de expansión para diagnóstico EV",
+        "Compatibilidad de vehículos:",
+        "  - Más de 150 packs de baterías de autos eléctricos",
+        "  - Más de 90 packs de baterías de vehículos comerciales",
+        "  - Más de 20 marcas de baterías",
+        "Métodos de diagnóstico:",
+        "  - Conectores y cables dedicados",
+        "  - Interfaz OBD",
+        "  - Puentes eléctricos",
+        "Incluye cables especiales para Tesla:",
+        "  - Model S",
+        "  - Model 3",
+        "  - Model X",
+        "  - Model Y",
+        "Compatibilidad con scanners Launch:",
+        "  - Serie X-431 PAD",
+        "  - X-431 PRO",
+        "  - X-431 PRO3",
+        "  - X-431 PRO3 SE",
+        "  - X-431 IMMO PAD",
+        "Presentación: Maletín rígido profesional"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñado para uso profesional en diagnóstico EV",
+        "Compatible con herramientas Launch originales",
+        "Pensado para trabajos técnicos en alto voltaje"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Requiere scanner Launch compatible para su funcionamiento",
+        "No funciona como equipo independiente",
+        "Debe ser utilizado por personal capacitado en sistemas EV",
+        "El acceso a datos depende de la arquitectura del vehículo",
+        "Ideal como complemento de P01, P03 y CE-39"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Kit EV de diagnóstico para baterías de vehículos eléctricos Launch",
+    "description": "Kit profesional de diagnóstico EV para análisis de baterías, módulos y celdas en vehículos eléctricos, compatible con scanners Launch X-431."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLAEVEXP"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "categorySlug": "limpia-inyectores",
+  "slug": "cnc-605a",
+  "title": "SmartSafe CNC-605A – Limpia Inyectores y Tester",
+  "shortDescription": "Equipo profesional para limpieza por ultrasonido y prueba de inyectores, capaz de simular condiciones reales de funcionamiento del motor. Diseñado para trabajar con inyectores EFI y GDI, permite limpieza profunda, pruebas de caudal, estanqueidad y pulverización con control preciso.",
+  "badge": "EFI / GDI",
+  "order": 1,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "SmartSafe CNC-605A – Limpia inyectores EFI y GDI",
+    "description": "Máquina profesional para limpieza ultrasónica y prueba de inyectores EFI y GDI. Permite test de caudal, pulverización, estanqueidad y limpieza on-vehicle."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLACNC605A"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Compatible con inyectores EFI y GDI mediante selección de tipo desde el sistema.",
+        "Limpieza por ultrasonido para eliminar depósitos de carbón y residuos internos.",
+        "Simulación de condiciones reales de funcionamiento del motor.",
+        "Control electrónico por microprocesador con monitoreo en tiempo real.",
+        "Pantalla LCD con botones táctiles para operación guiada."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Limpieza profunda de inyectores EFI y GDI fuera del vehículo.",
+        "Prueba de pulverización y uniformidad de caudal entre inyectores.",
+        "Diagnóstico de pérdidas y problemas de estanqueidad.",
+        "Limpieza del sistema de inyección directamente en el vehículo (on-vehicle cleaning)."
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones principales",
+      "items": [
+        "Limpieza ultrasónica.",
+        "Prueba de uniformidad y pulverización.",
+        "Prueba de estanqueidad (leakage test).",
+        "Medición de caudal en 15 segundos.",
+        "Test automático con múltiples condiciones de operación.",
+        "Limpieza del sistema de inyección en el vehículo."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación: AC 110V / AC 220V – 50/60Hz.",
+        "Potencia ultrasónica: 60 W.",
+        "Presión de combustible: 0.1 a 10 bar.",
+        "Presión de aire de entrada: 5 a 8 bar.",
+        "Temperatura de trabajo: -10 a 40 °C.",
+        "Humedad relativa máxima: <85%."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de uso",
+      "items": [
+        "Uso por personal capacitado en sistemas de inyección.",
+        "Área de trabajo bien ventilada y libre de fuentes de ignición.",
+        "No operar el sistema ultrasónico sin detergente en el tanque.",
+        "Verificar conexión correcta de mangueras y adaptadores antes de iniciar pruebas."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "El equipo incluye configuración básica de adaptadores; algunos inyectores GDI pueden requerir accesorios adicionales.",
+        "Las especificaciones pueden variar según mercado o versión del equipo.",
+        "Diseñado para uso profesional en talleres automotrices."
+      ]
+    }
+  ]
+}

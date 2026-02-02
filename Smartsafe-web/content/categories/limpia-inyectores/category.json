@@ -1,0 +1,39 @@
+{
+  "slug": "limpia-inyectores",
+  "title": "Limpia Inyectores",
+  "shortDescription": "Máquinas profesionales para limpieza, prueba y diagnóstico de inyectores de combustible, diseñadas para mejorar el rendimiento y la eficiencia del motor.",
+  "order": 8,
+  "logo": "/images/products/limpia-inyectores/logo/logo.svg",
+  "isActive": true,
+  "template": "equipment",
+  "defaultSections": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "filters": [
+    "tipo-de-combustible",
+    "cantidad-de-inyectores",
+    "funciones"
+  ],
+  "tags": [
+    "limpia-inyectores",
+    "inyectores",
+    "combustible",
+    "ultrasonido",
+    "diagnostico"
+  ],
+  "seo": {
+    "title": "Máquinas limpia inyectores para talleres",
+    "description": "Equipos profesionales para limpieza por ultrasonido, prueba y diagnóstico de inyectores nafta y diésel en talleres automotrices."
+  },
+  "featuredHeroProductSlug": "cnc-605ap",
+  "categoryBanner": {
+    "mode": "auto-from-products",
+    "imageIndex": 1,
+    "limit": 12
+  }
+}

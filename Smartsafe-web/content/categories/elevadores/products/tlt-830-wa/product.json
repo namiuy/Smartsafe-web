@@ -1,0 +1,140 @@
+{
+  "categorySlug": "elevadores",
+  "slug": "tlt-830wa",
+  "title": "TLT-830WA – Elevador tijera doble para alineación",
+  "shortDescription": "Elevador automotriz tipo tijera doble con plataforma principal y elevador secundario integrado, diseñado para trabajos de alineación y mantenimiento. Capacidad de 3.5 toneladas, alta precisión y sistema de seguridad redundante.",
+  "badge": "Tijera · Alineación",
+  "order": 10,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "TLT-830WA – Elevador tijera doble 3.5T para alineación",
+    "description": "Elevador tijera doble 3.5 toneladas con elevador secundario, bloqueo mecánico y control 24V. Ideal para alineación y mantenimiento profesional."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "capacity",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Elevador automotriz tipo tijera doble para alineación",
+        "Plataforma principal con elevador secundario integrado",
+        "Alta precisión horizontal, ideal para alineación de ruedas",
+        "Sistema de sincronización hidráulica bilateral",
+        "Bloqueo mecánico con seguro neumático de doble diente",
+        "Sistema de seguridad por rotura de manguera",
+        "Control eléctrico de bajo voltaje (24V)",
+        "Plataformas extensibles y adaptables a múltiples vehículos",
+        "Componentes hidráulicos y eléctricos de alta calidad",
+        "Certificación CE"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Alineación de dirección",
+        "Mantenimiento de suspensión y tren delantero",
+        "Servicios de frenos y neumáticos",
+        "Diagnóstico y reparación de chasis",
+        "Talleres profesionales de alineación"
+      ]
+    },
+    {
+      "type": "capacity",
+      "title": "Capacidad y configuración",
+      "items": [
+        "Capacidad del elevador principal: 3500 kg",
+        "Altura máxima de elevación (principal): 1850 mm",
+        "Altura inicial de plataforma: 330 mm",
+        "Tiempo de elevación (principal): ≤ 55 s",
+        "Tiempo de descenso (principal): ≥ 20 s",
+        "Capacidad del elevador secundario: 3500 kg",
+        "Altura máxima de elevación (secundario): 450 mm",
+        "Tiempo de elevación (secundario): ≤ 10 s",
+        "Tiempo de descenso (secundario): ≥ 10 s"
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Instalación sobre piso (on-ground)",
+        "Requiere conexión eléctrica trifásica 380V",
+        "Requiere suministro neumático 6–8 kg/cm²",
+        "Uso en interiores",
+        "Instalación y operación por personal capacitado"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Modelo: TLT-830WA",
+        "Tipo: elevador tijera doble para alineación",
+        "Accionamiento: electrohidráulico",
+        "Potencia del motor: 2.2 kW",
+        "Nivel de ruido: < 70 dB(A)",
+        "Presión máxima de trabajo: 28 MPa",
+        "Ancho de plataforma principal: 620 mm",
+        "Largo de plataforma principal: 4250 mm",
+        "Largo total del equipo: 4750 mm",
+        "Ancho total del equipo: 2040–2140 mm",
+        "Peso total del equipo: 2080 kg",
+        "Certificación CE"
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Elevador tijera TLT-830WA",
+        "Elevador secundario integrado",
+        "Plataformas extensibles",
+        "Unidad hidráulica",
+        "Consola de control",
+        "Sistema de bloqueo y seguridad",
+        "Manual de usuario"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Los colores del equipo pueden variar según disponibilidad y lote de fabricación. Las imágenes son ilustrativas y pueden no coincidir exactamente con el producto entregado.",
+        "Las especificaciones pueden variar según versión o mercado.",
+        "Requiere suministro neumático para el sistema de bloqueo de seguridad."
+      ]
+    }
+  ],
+  "filters": {
+    "tipo-de-elevador": [
+      "tijera"
+    ],
+    "capacidad": [
+      "3.5t"
+    ],
+    "aplicacion": [
+      "alineacion"
+    ]
+  },
+  "tags": [
+    "elevador",
+    "tijera",
+    "alineacion",
+    "doble-tijera",
+    "launch"
+  ]
+}

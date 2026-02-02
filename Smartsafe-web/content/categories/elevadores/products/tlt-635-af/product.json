@@ -1,0 +1,125 @@
+{
+  "categorySlug": "elevadores",
+  "slug": "tlt-635af",
+  "title": "TLT-635AF – Elevador tijera de piso",
+  "shortDescription": "Elevador automotriz tipo tijera de bajo perfil, diseñado para ahorrar espacio y facilitar trabajos de mantenimiento, con capacidad de hasta 3.5 toneladas y sistema electrohidráulico sincronizado.",
+  "badge": "Tijera",
+  "order": 5,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "TLT-635AF – Elevador tijera 3.5T low profile",
+    "description": "Elevador tijera de piso 3.5 toneladas, altura mínima 115 mm, doble cilindro hidráulico, control 24V y sistemas de seguridad neumáticos."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "capacity",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Elevador automotriz tipo tijera de bajo perfil",
+        "Diseño ahorra espacio con estructura tijera oculta",
+        "Doble cilindro hidráulico con funcionamiento sincronizado",
+        "Sistema de control de seguridad de bajo voltaje (24V)",
+        "Prueba de carga dinámica al 120% y estática al 150%",
+        "Extensiones tipo approach bridge para ampliar la plataforma",
+        "Instalación directa sobre el piso"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento general de vehículos livianos",
+        "Servicios rápidos de mecánica y frenos",
+        "Talleres con espacio reducido",
+        "Uso profesional en estaciones de servicio"
+      ]
+    },
+    {
+      "type": "capacity",
+      "title": "Capacidad y configuración",
+      "items": [
+        "Capacidad máxima de elevación: 3500 kg",
+        "Altura máxima de elevación: 1850 mm",
+        "Altura mínima: 115 mm",
+        "Ancho de plataforma: 650 mm",
+        "Largo de plataforma: 1475–2000 mm",
+        "Tiempo de elevación: ≤ 50 s",
+        "Tiempo de descenso: ≥ 20 s"
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Instalación sobre piso (ground type installation)",
+        "Alimentación eléctrica con sistema de control 24V",
+        "Uso en interiores",
+        "Operación por personal capacitado"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Modelo: TLT-635AF",
+        "Tipo: elevador tijera",
+        "Accionamiento: electrohidráulico",
+        "Sistema de seguridad: bloqueo neumático",
+        "Dispositivo anti-aplastamiento a 40 cm del suelo",
+        "Peso del equipo: 870 kg",
+        "Certificación CE"
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Elevador tijera TLT-635AF",
+        "Unidad hidráulica",
+        "Extensiones de plataforma (approach bridge)",
+        "Sistema de bloqueo neumático",
+        "Consola de control"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Los colores del equipo pueden variar según disponibilidad y lote de fabricación. Las imágenes son ilustrativas y pueden no coincidir exactamente con el producto entregado.",
+        "Las especificaciones pueden variar según versión o mercado.",
+        "Altura mínima indicada sin carga."
+      ]
+    }
+  ],
+  "filters": {
+    "tipo-de-elevador": [
+      "tijera"
+    ],
+    "capacidad": [
+      "3.5t"
+    ],
+    "aplicacion": [
+      "mantenimiento"
+    ]
+  },
+  "tags": [
+    "elevador",
+    "tijera",
+    "low-profile",
+    "taller"
+  ]
+}

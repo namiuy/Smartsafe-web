@@ -1,0 +1,93 @@
+{
+  "categorySlug": "aire-acondicionado",
+  "slug": "airnex-9320",
+  "title": "Brain Bee AIR-NEX 9320 – Estación de Servicio A/C (R134a)",
+  "shortDescription": "Estación A/C automática de alto rendimiento para sistemas automotrices con refrigerante R134a. Integra pantalla táctil de 7”, conectividad Wi-Fi y Bluetooth, base de datos con actualizaciones automáticas y generación de reportes vía Nexus-Print o USB, ofreciendo un flujo de trabajo guiado y profesional en taller.",
+  "badge": "R134a",
+  "order": 3,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "Brain Bee AIR-NEX 9320 – Máquina de aire acondicionado automotriz (R134a)",
+    "description": "Estación A/C automática para R134a con pantalla táctil 7”, Wi-Fi y Bluetooth. Recuperación, reciclado, vacío y carga, con reportes Nexus-Print y exportación PDF por USB. Convertible a R1234yf mediante kit."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SBBAIR-NEX9320"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Estación A/C totalmente automática para sistemas automotrices con R134a.",
+        "Pantalla táctil color de 7” de alta visibilidad con interfaz guiada.",
+        "Conectividad Wi-Fi para actualizaciones automáticas de software y base de datos.",
+        "Conectividad Bluetooth integrada.",
+        "Nexus-Print para generación de reportes e impresión vía red.",
+        "Exportación de reportes en formato PDF mediante USB.",
+        "Purga automática de gases no condensables.",
+        "Fabricada por MAHLE – Brain Bee."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento completo de sistemas de aire acondicionado automotriz con R134a.",
+        "Recuperación y reciclado de refrigerante.",
+        "Generación de vacío y recarga precisa del sistema A/C.",
+        "Servicio profesional en talleres que requieren automatización y trazabilidad."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tipo de refrigerante: R134a.",
+        "Equipo R1234yf READY: convertible mediante kit específico.",
+        "Capacidad del tanque de refrigerante: 12 L.",
+        "Pantalla: Touchscreen color de 7”.",
+        "Conectividad: Wi-Fi y Bluetooth.",
+        "Purga de gases no condensables: automática.",
+        "Flushing: disponible mediante kit opcional.",
+        "Función para vehículos híbridos: disponible mediante kit opcional.",
+        "Test de fugas N-Leak: disponible mediante kit opcional.",
+        "Función Agri & Work: incluida en AIR-NEX 9320.",
+        "Impresora térmica: opcional.",
+        "Identificador de gas: opcional.",
+        "Dimensiones (An x Prof x Al): 544 x 617 x 957 mm.",
+        "Peso en vacío: aprox. 65 kg."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de uso",
+      "items": [
+        "Operar en áreas bien ventiladas o en exteriores.",
+        "Uso exclusivo por personal capacitado en A/C automotriz.",
+        "Verificar tipo de refrigerante presente en el vehículo antes de cada ciclo.",
+        "Conectar correctamente las mangueras de alta y baja presión.",
+        "Utilizar únicamente refrigerante R134a puro, salvo conversión oficial del equipo.",
+        "Usar elementos de protección personal según normativa."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "La conversión a R1234yf requiere kit específico aprobado por el fabricante.",
+        "Funciones como flushing, híbridos y N-Leak requieren kits opcionales.",
+        "La impresora térmica es opcional; los reportes pueden exportarse en PDF vía USB.",
+        "Las especificaciones pueden variar según versión o mercado."
+      ]
+    }
+  ]
+}

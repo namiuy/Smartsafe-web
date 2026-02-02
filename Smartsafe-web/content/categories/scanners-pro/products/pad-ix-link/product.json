@@ -1,0 +1,174 @@
+{
+  "categorySlug": "scanners-pro",
+  "slug": "pad-ix-link",
+  "title": "X-431 PAD IX LINK",
+  "shortDescription": "Scanner flagship de alta gama con SmartLink C V3.0, escaneo multi-sistema de alta velocidad, topología de red y soporte de protocolos modernos (CANFD/DoIP/J2534).",
+  "badge": "Más potente",
+  "order": 1,
+  "isFeatured": true,
+  "isActive": true,
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLAXPADIXLINK"
+  },
+  "seo": {
+    "title": "X-431 PAD IX LINK | Scanner profesional Launch (Flagship)",
+    "description": "Launch X-431 PAD IX LINK con SmartLink C V3.0: diagnóstico OE-level, topología de red, control bidireccional y soporte CAN FD / DoIP / J2534. Ideal para talleres que buscan máximo rendimiento."
+  },
+  "coverage": {
+    "type": "qcar",
+    "url": "https://qcar.x431.com/qcar/#/pc/index?custom=channel&q=eyJkZWZhdWx0X2xhbiI6IjUiLCJsYW4iOiI1IiwidGhlbWUiOiJibHVlIiwiY3VzdG9tIjoiY2hhbm5lbCIsImNoYW5uZWwiOiIzIiwic291cmNlIjoiYXBwIiwicGR0QWxpYXNJZCI6IjEwMjkifQ%3D%3D"
+  },
+  "cta": {
+    "whatsappText": "Hola, vengo desde la web de Launch Uruguay. Quiero consultar por el X-431 PAD IX LINK."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "diagnose",
+    "remote",
+    "ev",
+    "toolbox",
+    "included",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Descripción General",
+      "items": [
+        "Flagship Launch para diagnóstico profesional con enfoque en velocidad, cobertura y experiencia de uso.",
+        "Incluye VCI SmartLink C V3.0 con comunicación mejorada y conexión más estable.",
+        "Escaneo multi-sistema de alta velocidad, ideal para trabajo diario con alto volumen.",
+        "Topología de red: visualización del estado de comunicación entre módulos y DTCs para diagnóstico más rápido.",
+        "Funciones avanzadas: control bidireccional, lectura/borrado de DTC, datos en vivo, reportes y actualizaciones inalámbricas.",
+        "Soporta protocolos modernos: CAN / CAN FD / DoIP y Passthru J2534."
+      ]
+    },
+    {
+      "type": "highlights",
+      "title": "Diagnóstico (Local + Inteligente)",
+      "items": [
+        "Intelligent Diagnose (cuando aplica): acceso rápido por VIN y flujo de trabajo asistido para acelerar el diagnóstico.",
+        "Local Diagnose: diagnóstico guiado paso a paso para entrar por sistema/módulo y ejecutar pruebas.",
+        "Historial de diagnósticos: acceso rápido a vehículos ya trabajados para retomar y comparar resultados.",
+        "Reportes: generación de informes para documentar reparación y entregar al cliente."
+      ]
+    },
+    {
+      "type": "highlights",
+      "title": "Diagnóstico Remoto (SmartLink)",
+      "items": [
+        "SmartLink Super Remote Diagnose: pensado para obtener asistencia o segunda opinión técnica en casos complejos.",
+        "Permite escenarios de diagnóstico remoto entre técnicos/talleres según configuración y disponibilidad.",
+        "Ideal para talleres que quieren escalar soporte técnico y reducir tiempos de resolución."
+      ]
+    },
+    {
+      "type": "highlights",
+      "title": "EV Diagnose & Service (Vehículos Eléctricos)",
+      "items": [
+        "Incluye módulo de diagnóstico y servicio para vehículos eléctricos (según licencias/mercado/software instalado).",
+        "Pensado para tareas de diagnóstico en sistemas EV y evaluación de componentes relacionados."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Toolbox y módulos opcionales (expansión)",
+      "items": [
+        "TPMS: activación, programación y reaprendizaje con hardware compatible (opcional).",
+        "ADAS: calibración de sistemas cámara/radar (requiere equipo ADAS compatible, opcional).",
+        "Osciloscopio: diagnóstico rápido de señales y cableado (requiere Scopebox, opcional).",
+        "Sensor Simulator: simulación/diagnóstico de sensores (requiere Sensorbox, opcional).",
+        "BST360 (Battery Tester): pruebas de baterías con tester Bluetooth compatible (opcional).",
+        "Immobilizer Programmer / Key Programmer: funciones relacionadas a llaves e inmovilizador (requiere hardware compatible, opcional).",
+        "Videoscopio: inspección de zonas no visibles (requiere videoscopio compatible, opcional).",
+        "Insulation Tester / Multimeter / Current Clamp: mediciones eléctricas según hardware compatible (opcionales)."
+      ]
+    },
+    {
+      "type": "highlights",
+      "title": "Qué incluye (Kit)",
+      "items": [
+        "Tablet de diagnóstico (PAD IX LINK).",
+        "VCI SmartLink C V3.0.",
+        "Cable de diagnóstico (DB15F ↔ HD15F) + adaptador HD15M ↔ OBD16.",
+        "Adaptadores de alimentación (x4).",
+        "Cable de datos Tipo A ↔ Tipo B (VCI ↔ tablet para diagnóstico).",
+        "Cable de datos Tipo A ↔ Tipo C (VCI ↔ PC para intercambio de datos).",
+        "Sobre con credenciales (S/N y código de activación).",
+        "Crossover cable (para diagnóstico remoto SmartLink en ciertos escenarios).",
+        "Cable Mini-HDMI ↔ HDMI.",
+        "Guía rápida.",
+        "Kit de adaptadores no-OBD16 para autos livianos (opcional según versión/mercado)."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Vehículos livianos (Passenger cars).",
+        "Protocolos: CAN / CAN FD / DoIP.",
+        "Passthru J2534 para escenarios compatibles de programación/reprogramación.",
+        "Soluciones extendidas disponibles para ADAS y TPMS (según configuración).",
+        "Cobertura exacta por marca/modelo: consultar en Vehicle Coverage."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Datos Técnicos",
+      "items": [
+        {
+          "label": "Sistema Operativo",
+          "value": "Android (tablet-style)"
+        },
+        {
+          "label": "CPU",
+          "value": "Octa-core 2.0 GHz"
+        },
+        {
+          "label": "Pantalla",
+          "value": "13.6\" IPS táctil (2560 × 1600)"
+        },
+        {
+          "label": "Memoria RAM",
+          "value": "12 GB"
+        },
+        {
+          "label": "Almacenamiento",
+          "value": "512 GB"
+        },
+        {
+          "label": "Cámara",
+          "value": "Trasera 20 MP / Frontal 8 MP"
+        },
+        {
+          "label": "Batería",
+          "value": "9360 mAh @ 7.6 V (71.1 Wh)"
+        },
+        {
+          "label": "Comunicación VCI",
+          "value": "Wi-Fi dual band 2.4 & 5 GHz"
+        },
+        {
+          "label": "Interfaces",
+          "value": "USB-C, USB-A, DC IN, MicroSD, Mini HDMI"
+        },
+        {
+          "label": "Temperatura de trabajo",
+          "value": "0 °C a 50 °C"
+        },
+        {
+          "label": "Dimensiones",
+          "value": "377 × 246 × 35 mm"
+        }
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "text": "La cobertura exacta y algunas funciones dependen del mercado, licencias y software instalado. Los módulos de Toolbox (TPMS/ADAS/oscilo/sensorbox/etc.) requieren el hardware compatible y pueden venderse por separado."
+    }
+  ]
+}

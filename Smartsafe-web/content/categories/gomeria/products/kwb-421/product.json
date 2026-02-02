@@ -1,0 +1,88 @@
+{
+  "categorySlug": "gomeria",
+  "slug": "kwb-421",
+  "title": "LAUNCH KWB-421 – Balanceadora de ruedas",
+  "shortDescription": "Balanceadora de ruedas para automóviles, simple y confiable, con posicionamiento láser, precisión de 1 g y múltiples modos de balanceo para llantas de aleación y acero.",
+  "badge": "Equipo económico",
+  "order": 5,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH KWB-421 Balanceadora de ruedas profesional",
+    "description": "Balanceadora LAUNCH KWB-421 para automóviles, con posicionamiento láser, precisión de 1 g y modos STA, ALU y ALUS."
+  },
+  "filters": {
+    "tipo-de-equipo": "balanceadora",
+    "tipo-de-vehiculo": "automovil"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Ventajas principales",
+      "items": [
+        "Balanceadora diseñada para automóviles",
+        "Posicionamiento láser para colocación precisa de contrapesos",
+        "Alta estabilidad y sensibilidad, con precisión de balanceo de 1 g",
+        "Panel 2 en 1 de visualización y operación",
+        "Protector de rueda para mayor seguridad durante el trabajo",
+        "Pedal de freno para control preciso de la posición de la rueda"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Gomerías",
+        "Talleres mecánicos",
+        "Centros de servicio automotriz",
+        "Balanceo de ruedas de automóviles y vehículos livianos"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Balanceo dinámico y estático",
+        "Posicionamiento láser del contrapeso adhesivo",
+        "Ingreso manual de parámetros",
+        "Medición rápida de distancia y diámetro de la llanta",
+        "Control de freno por pedal para posicionamiento de contrapesos"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tensión de trabajo: 220 V",
+        "Rango de diámetro de llanta: 12” – 24”",
+        "Ancho de llanta admitido: 1.5” – 22”",
+        "Diámetro máximo de rueda: 650 mm",
+        "Peso máximo de rueda: 75 kg",
+        "Velocidad de balanceo: 180 rpm",
+        "Tiempo de ciclo de balanceo: 7 s",
+        "Precisión de balanceo: ±1 g"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo de nivel inicial dentro de la línea de balanceadoras",
+        "Funcionamiento simple y robusto",
+        "Ideal para gomerías y talleres con volumen medio",
+        "Compatible con llantas de acero y aleación"
+      ]
+    }
+  ],
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLAKWB-421"
+  }
+}

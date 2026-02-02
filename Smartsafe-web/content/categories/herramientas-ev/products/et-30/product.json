@@ -1,0 +1,109 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "et-30",
+  "title": "ET-30 – Equipo de prueba de hermeticidad para baterías de vehículos eléctricos",
+  "shortDescription": "Equipo profesional de detección de fugas y prueba de hermeticidad en packs de baterías de vehículos eléctricos, mediante ensayo neumático de baja presión con alta precisión y registro digital.",
+  "badge": "Equipo EV profesional",
+  "order": 7,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "prueba-de-hermeticidad",
+    "aplicacion": "diagnostico-baterias-ev",
+    "nivel-de-tension": "pack-de-bateria"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Equipo específico para prueba de hermeticidad en packs de baterías EV",
+        "Ensayo no destructivo mediante aire comprimido de baja presión",
+        "Alta sensibilidad y precisión en detección de fugas",
+        "Pantalla táctil de 10.1 pulgadas con visualización en tiempo real",
+        "Registro histórico de pruebas con exportación de datos",
+        "Operación inteligente con parámetros configurables"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Pruebas de sellado en packs de baterías para vehículos eléctricos",
+        "Control de calidad en fabricación y ensamblaje de baterías EV",
+        "Diagnóstico de fugas en carcasas de baterías",
+        "Mantenimiento y verificación en talleres especializados EV",
+        "Ensayos de hermeticidad post-reparación de packs"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Prueba de hermeticidad por método neumático de baja presión",
+        "Configuración de parámetros del pack: volumen, presión y tiempos de prueba",
+        "Detección automática de fugas mediante variación de presión",
+        "Visualización en tiempo real de presión y curva de ensayo",
+        "Indicador visual del estado del proceso mediante barra luminosa",
+        "Almacenamiento automático de registros históricos",
+        "Exportación de datos a USB en formato Excel",
+        "Exportación de reportes en PDF mediante código QR o correo",
+        "Actualización de software, firmware y sistema vía red Wi-Fi",
+        "Autodiagnóstico interno del equipo"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Modelo: ET-30",
+        "Método de prueba: Presión neumática (baja presión)",
+        "Rango de presión de prueba: 0 ~ 30 kPa",
+        "Resolución del sensor: 1 Pa",
+        "Precisión de medición: ±5 Pa",
+        "Potencia máxima: 20 W",
+        "Pantalla: LCD táctil de 10.1 pulgadas",
+        "Alimentación: AC 90–264 V / 50–60 Hz",
+        "Suministro de aire: 0.1 ~ 1.0 MPa (aire comprimido seco)",
+        "Conexiones de aire: Entrada φ6 mm / Salida φ6 mm",
+        "Interfaces de comunicación: RJ45 ×1, USB ×2",
+        "Almacenamiento de datos: Memoria interna y USB",
+        "Temperatura de trabajo: −5 °C ~ 45 °C",
+        "Humedad de trabajo: 5% ~ 93%",
+        "Dimensiones: 360.5 × 329.0 × 323.0 mm"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñado para uso profesional en sistemas de baterías EV",
+        "Cumple normas de seguridad eléctrica industrial",
+        "Ensayo no destructivo y libre de contaminación"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo diseñado exclusivamente para pruebas de hermeticidad",
+        "No realiza pruebas eléctricas ni mediciones de aislamiento",
+        "Requiere suministro externo de aire comprimido seco",
+        "El pack de batería debe estar desconectado eléctricamente durante la prueba",
+        "Operación recomendada por personal técnico capacitado"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "ET-30 Prueba de hermeticidad para baterías de vehículos eléctricos",
+    "description": "Equipo profesional de detección de fugas y prueba de hermeticidad en packs de baterías EV mediante ensayo neumático de alta precisión."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ]
+}

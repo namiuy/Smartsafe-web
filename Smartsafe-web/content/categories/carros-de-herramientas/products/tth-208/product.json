@@ -1,0 +1,88 @@
+{
+  "categorySlug": "carros-de-herramientas",
+  "slug": "tth-208",
+  "title": "TTH-208 – Carro de herramientas para reparación rápida (208 piezas)",
+  "shortDescription": "Kit de herramientas universal para talleres de reparación rápida y 4S. Incluye una selección amplia para mantenimiento general y un carro moderno orientado a mejorar la eficiencia y la organización.",
+  "badge": "208 piezas – Reparación rápida",
+  "order": 2,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "TTH-208 – Carro de herramientas para reparación rápida (208 piezas)",
+    "description": "Kit de 208 piezas para reparación rápida y mantenimiento general en talleres y 4S, con carro moderno para ordenar herramientas y acelerar el trabajo."
+  },
+  "purchaseUrl": "https://www.herramientas.nami.com.uy/productos/SLATTH-208",
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Aplicable para talleres de reparación rápida y 4S.",
+        "Combinación de herramientas universales para cubrir mantenimiento general.",
+        "Solución simple y práctica para tareas de fast repair.",
+        "Incluye un carro moderno orientado a mejorar la organización y el flujo de trabajo."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento general (tareas universales).",
+        "Reparación rápida (fast repair).",
+        "Soporte de herramientas y organización del área de trabajo."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones",
+      "items": [
+        "Tipo: carro de herramientas con kit universal.",
+        "Cantidad de piezas: 208.",
+        "Enfoque: reparación rápida y mantenimiento general."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Qué incluye (resumen del kit)",
+      "items": [
+        "Dados 12.5mm DR 6PT (20 pcs) 8–32mm.",
+        "Dados largos 12.5mm DR 6PT (8 pcs) 10–22mm.",
+        "Dados largos de impacto 12.5mm 6PT (3 pcs) 17–21mm.",
+        "Dados 10mm DR 6PT (12 pcs) 8–19mm.",
+        "Dados 6.3mm DR 6PT (13 pcs) 4–14mm.",
+        "Criques rápidos (3 pcs): 6.3mm, 10mm, 12.5mm.",
+        "Set de puntas para destornillador (61 pcs).",
+        "Accesorios de dados (12 pcs): extensiones, spinner handle, manija en L, etc.",
+        "Sockets para bujías (3 pcs): 14/16/21mm.",
+        "Juego punch & chisel (5 pcs).",
+        "Grupo de ajuste de cilindro de rueda (12 pcs).",
+        "Destornilladores (8 pcs): plano y Phillips.",
+        "Llaves combinadas antideslizantes (11 pcs).",
+        "Set de pinzas y pinzas retainer.",
+        "Llaves Allen ball-end (9 pcs).",
+        "Pinza de presión curved-jaw (1 pc).",
+        "Add-on: herramienta magnética flexible + llave T (8/10/12mm).",
+        "Carro/soporte (carrier)."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Kit orientado a reparación rápida; prioriza cobertura amplia y practicidad.",
+        "El listado resume los sets principales del kit (no detalla cada herramienta individual)."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLATTH-208"
+  }
+}

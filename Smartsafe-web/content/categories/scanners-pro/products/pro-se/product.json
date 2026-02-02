@@ -1,0 +1,158 @@
+{
+  "categorySlug": "scanners-pro",
+  "slug": "pro-se",
+  "title": "X-431 PRO SE",
+  "shortDescription": "Scanner profesional Launch para diagnóstico completo de vehículos livianos, con funciones de servicio avanzadas, diagnóstico remoto y soporte para módulos adicionales.",
+  "badge": "Profesional confiable",
+  "order": 3,
+  "isFeatured": false,
+  "isActive": true,
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SX431-PROSE"
+  },
+  "seo": {
+    "title": "X-431 PRO SE | Scanner profesional Launch",
+    "description": "Scanner profesional Launch X-431 PRO SE para diagnóstico completo, funciones de servicio avanzadas, diagnóstico remoto y uso diario en talleres."
+  },
+  "coverage": {
+    "type": "qcar",
+    "url": "https://qcar.x431.com/qcar/#/pc/index"
+  },
+  "cta": {
+    "whatsappText": "Hola, vengo desde la web de Launch Uruguay. Quiero consultar por el X-431 PRO SE."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "diagnosis",
+    "remote",
+    "service",
+    "addons",
+    "compatibility",
+    "included",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Descripción General",
+      "items": [
+        "Scanner de diagnóstico profesional basado en la plataforma Launch X-431.",
+        "Cobertura amplia de vehículos livianos con diagnóstico de sistema completo.",
+        "Comunicación inalámbrica o por cable entre la tablet y el VCI.",
+        "Diseñado para el trabajo diario en talleres automotrices."
+      ]
+    },
+    {
+      "type": "highlights",
+      "title": "Funciones de Diagnóstico",
+      "items": [
+        "Lectura y borrado de códigos de falla (DTC).",
+        "Lectura de datos en vivo con visualización en valores, gráficos y combinados.",
+        "Pruebas de actuadores (control bidireccional, según vehículo).",
+        "Escaneo completo de sistemas y Health Report (Quick Test).",
+        "Generación de reportes de diagnóstico pre y post reparación."
+      ]
+    },
+    {
+      "type": "highlights",
+      "title": "Diagnóstico Inteligente y Remoto",
+      "items": [
+        "Diagnóstico inteligente mediante lectura automática de VIN.",
+        "Acceso al historial de diagnósticos del vehículo.",
+        "Diagnóstico remoto dispositivo a dispositivo.",
+        "Diagnóstico remoto dispositivo a PC mediante plataforma Launch."
+      ]
+    },
+    {
+      "type": "highlights",
+      "title": "Funciones de Servicio",
+      "items": [
+        "Reset de mantenimiento (Oil Reset).",
+        "Reset de freno electrónico (EPB).",
+        "Reset de ángulo de dirección (SAS).",
+        "Purgado de ABS.",
+        "Codificación de inyectores.",
+        "Adaptación de batería (BMS).",
+        "Regeneración de DPF y GPF.",
+        "Aprendizaje de mariposa, caja y sensores.",
+        "Funciones IMMO básicas (según vehículo)."
+      ]
+    },
+    {
+      "type": "highlights",
+      "title": "Módulos y Expansión",
+      "items": [
+        "Soporte para calibración ADAS (requiere equipo específico).",
+        "Funciones TPMS mediante módulo adicional.",
+        "Compatible con módulos opcionales: Videoscope, BST360 Battery Tester, Sensorbox S2-2 y Multímetro."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Vehículos livianos (Passenger Cars).",
+        "Protocolos OBD II y sistemas electrónicos del vehículo.",
+        "Cobertura dependiente de marca, modelo, año y software instalado."
+      ]
+    },
+    {
+      "type": "highlights",
+      "title": "Qué incluye",
+      "items": [
+        "Tablet de diagnóstico X-431 PRO SE.",
+        "VCI de comunicación vehículo.",
+        "Cable de diagnóstico OBD.",
+        "Adaptadores HD15F a OBD II.",
+        "Cable USB tipo A a tipo C.",
+        "Sobre con número de serie y código de activación.",
+        "Guía rápida de inicio."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Datos Técnicos",
+      "items": [
+        {
+          "label": "Sistema Operativo",
+          "value": "Android"
+        },
+        {
+          "label": "Pantalla",
+          "value": "8\" táctil capacitiva (1280 × 800)"
+        },
+        {
+          "label": "Memoria RAM",
+          "value": "4 GB"
+        },
+        {
+          "label": "Almacenamiento",
+          "value": "64 GB"
+        },
+        {
+          "label": "Cámara",
+          "value": "Trasera 8 MP"
+        },
+        {
+          "label": "Conectividad",
+          "value": "Wi-Fi 802.11 a/b/g/n/ac, Bluetooth"
+        },
+        {
+          "label": "Voltaje VCI",
+          "value": "DC 9–18 V"
+        },
+        {
+          "label": "Temperatura de trabajo",
+          "value": "0 °C a 50 °C"
+        }
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "text": "Las funciones disponibles, cobertura de vehículos y módulos compatibles dependen del mercado, del software instalado y de las licencias activas. Algunas funciones avanzadas requieren equipos o módulos adicionales."
+    }
+  ]
+}

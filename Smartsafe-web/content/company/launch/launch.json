@@ -1,0 +1,66 @@
+{
+  "social": {
+    "title": "Seguinos",
+    "links": [
+      {
+        "slug": "instagram",
+        "label": "Instagram",
+        "url": "https://www.instagram.com/launchuruguay/"
+      },
+      {
+        "slug": "tiktok",
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@launch.uruguay"
+      },
+      {
+        "slug": "youtube",
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@namiuruguay277"
+      }
+    ]
+  },
+  "consultation": {
+    "title": "Consultar disponibilidad",
+    "description": "Contactate con nuestro equipo para asesoramiento y disponibilidad del producto.",
+    "locations": [
+      {
+        "slug": "centro",
+        "name": "Local Centro",
+        "map": {
+          "googleMapsUrl": "https://www.google.com/maps/place/Nami/",
+          "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3272.2469208596526!2d-56.187195624390455!3d-34.90025247284947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x959f812397dde80d%3A0x20c71ffaaed49ea4!2sNami!5e0!3m2!1ses-419!2sau!4v1768822132011!5m2!1ses-419!2sau"
+        },
+        "contacts": [
+          {
+            "name": "Facundo Génova",
+            "role": "Ventas",
+            "phone": "092748865",
+            "whatsapp": "https://wa.me/59892748865"
+          },
+          {
+            "name": "Luis Panasco",
+            "role": "Ventas",
+            "phone": "098155763",
+            "whatsapp": "https://wa.me/59898155763"
+          }
+        ]
+      },
+      {
+        "slug": "bulevar",
+        "name": "Local Bulevar",
+        "map": {
+          "googleMapsUrl": "https://share.google/w6FllUi5baqyz3JG1",
+          "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.428149214788!2d-56.17882272424795!3d-34.870593572859825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x959f80723da6282f%3A0x873db6ef78557d7!2sNami%20Bulevar!5e0!3m2!1ses-419!2sau!4v1768822069557!5m2!1ses-419!2sau"
+        },
+        "contacts": [
+          {
+            "name": "Luis Rodríguez",
+            "role": "Ventas",
+            "phone": "098829026",
+            "whatsapp": "https://wa.me/59898829026"
+          }
+        ]
+      }
+    ]
+  }
+}

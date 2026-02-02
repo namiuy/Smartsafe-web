@@ -1,0 +1,99 @@
+{
+  "categorySlug": "tpms",
+  "slug": "crt511sv2",
+  "title": "LAUNCH Creader TPMS 511S V2",
+  "shortDescription": "Herramienta profesional y autónoma para servicio TPMS: activación, lectura, reaprendizaje y programación de sensores, con funciones OBDII/EOBD y actualización por Wi-Fi.",
+  "badge": "TPMS Pro",
+  "order": 1,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH TPMS 511S V2 – Diagnóstico y programación TPMS",
+    "description": "Servicio TPMS completo en un solo equipo: activá, leé y re-aprendé sensores (315/433 MHz), programá sensores LAUNCH ilimitadamente y realizá funciones OBDII/EOBD con reportes y actualización Wi-Fi."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLACRT511S"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Equipo autónomo para servicio TPMS con sistema Android 8.1.",
+        "Soporta hasta 99% de cobertura en vehículos con TPMS (según cobertura del equipo).",
+        "Activa, lee y realiza reaprendizaje de sensores TPMS; programa sensores LAUNCH de forma ilimitada.",
+        "Diagnóstico TPMS con lectura/borrado de códigos de falla.",
+        "Funciones OBDII/EOBD incluidas y actualización de software por Wi-Fi (de por vida, sin costo según fabricante).",
+        "Visualización en tiempo real de presión, temperatura y estado de batería del sensor."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Talleres mecánicos y gomerías que realizan mantenimiento y diagnóstico TPMS.",
+        "Reemplazo de sensores TPMS y asistencia de reaprendizaje mediante OBD.",
+        "Verificación rápida del estado del sensor (presión/temperatura/batería) y reportes de diagnóstico."
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Cobertura TPMS: hasta 99% en vehículos con TPMS (según fabricante).",
+        "Activación de sensores: 315/433 MHz (100% activados según fabricante).",
+        "Consulta OE (OE Inquiry): ingreso de part number del sensor OE para activación/programación.",
+        "Programación ilimitada de sensores LAUNCH para reemplazo de sensores originales.",
+        "Reaprendizaje (relearn) y matching mediante conexión OBD con guía paso a paso en la app.",
+        "Diagnóstico del sistema TPMS: lectura y borrado de DTC.",
+        "Escaneo OBDII/EOBD integrado.",
+        "Actualización por Wi-Fi (lifetime free según fabricante).",
+        "Compartir reportes y capturas (diagnostic reports, feedback y screenshots)."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Sensores TPMS 315 MHz y 433 MHz (según fabricante).",
+        "Programación orientada a sensores LAUNCH.",
+        "Reaprendizaje por OBD compatible con procedimientos asistidos por el equipo (según vehículo/TPMS)."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Sistema operativo: Android 8.1",
+        "Pantalla: táctil 5\", 720P",
+        "Batería: 6000 mAh",
+        "Alimentación por OBDII: 9V a 18V",
+        "Entrada DC: 5V",
+        "Conectividad/actualización: Wi-Fi 2.4 GHz (b/g/n)",
+        "Memoria: 2 GB + 32 GB",
+        "Temperatura de trabajo: 0°C a 45°C",
+        "Temperatura de almacenamiento: -20°C a 70°C",
+        "Dimensiones: 211.5 × 99 × 34.5 mm",
+        "Peso: < 650 g"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "La cobertura puede variar según versión, mercado y base de datos instalada; recomendamos confirmar compatibilidad para marcas/modelos específicos.",
+        "Las funciones de programación aplican a sensores LAUNCH; para otros sensores depende del sistema TPMS del vehículo y del tipo de sensor.",
+        "Actualizaciones por Wi-Fi: indicadas como gratuitas de por vida por el fabricante."
+      ]
+    }
+  ]
+}

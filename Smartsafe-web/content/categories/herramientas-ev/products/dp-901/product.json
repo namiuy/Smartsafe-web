@@ -1,0 +1,119 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "ep-901",
+  "title": "EP-901 – Fuente de alimentación regulable de alto voltaje",
+  "shortDescription": "Fuente de alimentación digital regulable de alto y bajo voltaje, diseñada para pruebas, mantenimiento y diagnóstico de sistemas eléctricos en vehículos eléctricos e híbridos.",
+  "badge": "Equipo EV profesional",
+  "order": 4,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "fuente-de-alimentacion",
+    "aplicacion": "pruebas-y-mantenimiento-ev",
+    "nivel-de-tension": "hasta-900v"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Fuente de alimentación regulable de alto voltaje para aplicaciones EV",
+        "Salida dual independiente de alto y bajo voltaje",
+        "Rango de salida de alto voltaje de 50 a 900 V",
+        "Potencia máxima de salida de hasta 4 kW",
+        "Protecciones eléctricas múltiples para trabajo seguro",
+        "Control local y control remoto por Bluetooth"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Pruebas de componentes de alto voltaje en vehículos eléctricos",
+        "Alimentación y verificación de ECUs y módulos electrónicos",
+        "Ensayo de compresores eléctricos de aire acondicionado",
+        "Pruebas de bombas eléctricas de dirección y sistemas auxiliares",
+        "Mantenimiento y diagnóstico en talleres EV e híbridos",
+        "Simulación de alimentación eléctrica en banco de pruebas"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Salida de bajo voltaje regulable de 0 a 50 V",
+        "Salida de alto voltaje regulable de 50 a 900 V",
+        "Ajuste independiente de voltaje y corriente en ambas salidas",
+        "Protección por sobrevoltaje, subtensión, sobrecorriente y cortocircuito",
+        "Protección por sobretemperatura",
+        "Aislamiento eléctrico entre módulos de alto y bajo voltaje",
+        "Control remoto mediante conexión Bluetooth con equipos compatibles"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación de entrada: AC 100–240 V / 50–60 Hz",
+        "Potencia máxima: 4000 W",
+        "Salida de alto voltaje (HV):",
+        "  - Rango de voltaje: 50 ~ 900 V",
+        "  - Rango de corriente: 0 ~ 5 A",
+        "  - Precisión de muestreo de voltaje: 0.1 V",
+        "  - Precisión de muestreo de corriente: 0.1 A",
+        "Salida de bajo voltaje (LV):",
+        "  - Rango de voltaje: 0 ~ 50 V",
+        "  - Rango de corriente: 0 ~ 15 A",
+        "Protecciones:",
+        "  - Protección por cortocircuito",
+        "  - Protección por sobrevoltaje y subtensión",
+        "  - Protección por sobrecorriente",
+        "  - Protección por sobretemperatura",
+        "Aislamiento eléctrico:",
+        "  - Impedancia de aislamiento ≥ 10 MΩ (DC 500 V)",
+        "Comunicación: Bluetooth",
+        "Pantalla: Display digital LED",
+        "Temperatura de trabajo: -10 °C ~ 65 °C",
+        "Temperatura de almacenamiento: -40 °C ~ 70 °C",
+        "Dimensiones: 395 × 331 × 265 mm",
+        "Peso: 11 kg"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Cumple con normas de seguridad eléctrica IEC 61010",
+        "Diseñado para uso profesional en entornos de alto voltaje",
+        "Protecciones internas según estándares industriales"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "El módulo de alto voltaje emite señal sonora durante la salida HV como advertencia de seguridad",
+        "Las salidas de voltaje y corriente no pueden ajustarse durante la operación activa",
+        "Se recomienda utilizar equipo de protección personal certificado para trabajos EV",
+        "Compatible con control remoto mediante herramientas de diagnóstico SmartSafe",
+        "Uso exclusivo por personal técnico capacitado"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "EP-901 Fuente de alimentación de alto voltaje para vehículos eléctricos",
+    "description": "Fuente de alimentación digital regulable de hasta 900 V para pruebas y mantenimiento de sistemas eléctricos en vehículos eléctricos e híbridos."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SSMEDP901"
+  }
+}

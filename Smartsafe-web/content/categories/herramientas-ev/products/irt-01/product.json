@@ -1,0 +1,116 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "irt-01",
+  "title": "IRT-01 – Medidor de resistencia de aislamiento para EV",
+  "shortDescription": "Tester profesional de resistencia de aislamiento y medición de voltaje AC/DC, diseñado para trabajo seguro y diagnóstico en sistemas de alto voltaje de vehículos eléctricos e híbridos.",
+  "badge": "Equipo EV profesional",
+  "order": 3,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "tester-aislamiento",
+    "aplicacion": "seguridad-ev",
+    "nivel-de-tension": "hasta-5000v"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Tester de aislamiento específico para vehículos eléctricos",
+        "Rango de medición de resistencia hasta 1000 GΩ",
+        "Múltiples tensiones de prueba: 500 / 1000 / 2500 / 5000 V",
+        "Medición de voltaje AC y DC hasta 600 V",
+        "Alarmas inteligentes por sobre-rango y alto voltaje",
+        "Diseño portátil con pantalla LCD retroiluminada"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Verificación de aislamiento en sistemas de alto voltaje EV",
+        "Pruebas de seguridad eléctrica en baterías, inversores y líneas HV",
+        "Mantenimiento preventivo en vehículos eléctricos e híbridos",
+        "Inspección eléctrica en talleres EV y centros técnicos",
+        "Soporte en diagnóstico previo a intervenciones de alto voltaje"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Medición de resistencia de aislamiento con modos continuo, temporizado y comparativo",
+        "Selección de tensión de prueba: 500V / 1000V / 2500V / 5000V",
+        "Medición de voltaje DC (±30 ~ ±600 V)",
+        "Medición de voltaje AC (30 ~ 600 V)",
+        "Liberación automática de carga residual de alto voltaje",
+        "Indicaciones visuales y sonoras de seguridad",
+        "Apagado automático por inactividad"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tensión de prueba de aislamiento: 500V / 1000V / 2500V / 5000V",
+        "Rango de medición de aislamiento:",
+        "  - 500V: 10 MΩ ~ 20 GΩ",
+        "  - 1000V: 10 MΩ ~ 40 GΩ",
+        "  - 2500V: 10 MΩ ~ 100 GΩ",
+        "  - 5000V: 10 MΩ ~ 1000 GΩ",
+        "Precisión de aislamiento:",
+        "  - 1 MΩ ~ 99.9 MΩ: ±(3% + 5)",
+        "  - 100 MΩ ~ 9.99 GΩ: ±(5% + 5)",
+        "  - 10 GΩ ~ 100 GΩ: ±(10% + 5)",
+        "  - >100 GΩ: ±(20% + 5)",
+        "Corriente de cortocircuito: < 3.0 mA",
+        "Medición de voltaje DC: ±30 ~ ±600 V",
+        "Medición de voltaje AC: 30 ~ 600 V",
+        "Resolución de voltaje: 1 V",
+        "Precisión de voltaje: ±2%",
+        "Pantalla: LCD de 5 pulgadas con retroiluminación",
+        "Batería: 3150 mAh / 11.4 V",
+        "Temperatura de trabajo: 0 °C ~ 50 °C",
+        "Temperatura de almacenamiento: -20 °C ~ 70 °C",
+        "Dimensiones: 190 × 207 × 72 mm"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Cumple con norma de seguridad IEC 61010",
+        "Diseñado para mediciones eléctricas profesionales",
+        "Uso seguro en entornos EV con procedimientos adecuados"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Antes de medir aislamiento, el circuito debe estar completamente desenergizado",
+        "No medir voltajes superiores a 600 V en modo AC/DC",
+        "El equipo genera tensiones de prueba elevadas: operar siguiendo procedimientos de seguridad",
+        "El tester no funciona durante la carga para proteger al operador",
+        "Recomendado como herramienta complementaria para diagnóstico EV profesional"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "IRT-01 Tester de aislamiento para vehículos eléctricos",
+    "description": "Tester profesional de resistencia de aislamiento y voltaje AC/DC para diagnóstico y seguridad en vehículos eléctricos e híbridos."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Consultar",
+    "url": ""
+  }
+}

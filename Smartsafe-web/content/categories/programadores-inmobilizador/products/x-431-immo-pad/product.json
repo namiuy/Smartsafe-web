@@ -1,0 +1,152 @@
+{
+  "categorySlug": "programadores-inmovilizador",
+  "slug": "x-431-immo-pad",
+  "title": "LAUNCH X-431 IMMO PAD – Plataforma profesional de programación IMMO",
+  "shortDescription": "Plataforma profesional avanzada para programación de llaves e inmovilizadores, con soporte OBD y EEPROM, funciones All Keys Lost, sincronización de módulos y cobertura multimarca para uso técnico especializado.",
+  "badge": "IMMO Profesional Avanzado",
+  "order": 1,
+  "isFeatured": false,
+  "isActive": true,
+
+  "filters": {
+    "tipo-de-programacion": "llaves-e-inmovilizador",
+    "metodo": "obd-eeprom",
+    "marca-vehiculo": "multimarca"
+  },
+
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Descripción general",
+      "items": [
+        "Plataforma dedicada a programación avanzada de llaves e inmovilizadores",
+        "Soporte completo para operaciones IMMO por OBD y EEPROM",
+        "Diseñado para talleres profesionales y cerrajería automotriz especializada",
+        "Base de datos IMMO integrada con procedimientos guiados",
+        "Compatible con módulos y accesorios IMMO dedicados",
+        "Arquitectura Android sobre plataforma LAUNCH X-431",
+        "Actualizaciones periódicas de funciones y cobertura"
+      ]
+    },
+
+    {
+      "type": "functions",
+      "title": "Funciones IMMO por OBD",
+      "items": [
+        "Programación de llaves nuevas vía puerto OBD",
+        "Aprendizaje de llaves adicionales",
+        "Borrado de llaves perdidas",
+        "Funciones All Keys Lost (AKL) por OBD en vehículos compatibles",
+        "Reset y adaptación de inmovilizador",
+        "Sincronización entre ECU, BCM e IMMO",
+        "Lectura de información del sistema de inmovilizador",
+        "Procedimientos guiados paso a paso según vehículo",
+        "Acceso seguro a funciones protegidas según protocolo del fabricante"
+      ]
+    },
+
+    {
+      "type": "functions",
+      "title": "Funciones IMMO por EEPROM",
+      "items": [
+        "Lectura de memorias EEPROM de módulos IMMO",
+        "Escritura de datos EEPROM",
+        "Extracción de datos de llaves y transponders",
+        "Recuperación de sistemas IMMO en casos de pérdida total de llaves",
+        "Trabajo directo sobre módulos fuera del vehículo",
+        "Soporte para múltiples tipos de memorias EEPROM",
+        "Uso conjunto con accesorios y adaptadores IMMO LAUNCH",
+        "Procedimientos guiados para minimizar errores de lectura/escritura"
+      ]
+    },
+
+    {
+      "type": "functions",
+      "title": "Funciones IMMO avanzadas",
+      "items": [
+        "Gestión de escenarios All Keys Lost (AKL)",
+        "Sincronización avanzada ECU–IMMO–BCM",
+        "Reset de módulos de inmovilizador",
+        "Adaptación de módulos reemplazados",
+        "Soporte para transponders comunes del mercado",
+        "Identificación automática del sistema IMMO",
+        "Base de datos de diagramas y ubicaciones de módulos (según cobertura)"
+      ]
+    },
+
+    {
+      "type": "compatibility",
+      "title": "Cobertura de vehículos",
+      "items": [
+        "Vehículos europeos",
+        "Vehículos asiáticos",
+        "Vehículos americanos",
+        "Automóviles de pasajeros",
+        "SUV y utilitarios livianos",
+        "Cobertura dependiente de marca, modelo, año y sistema IMMO",
+        "Funciones disponibles según arquitectura electrónica del vehículo"
+      ]
+    },
+
+    {
+      "type": "specs",
+      "title": "Plataforma de hardware",
+      "items": [
+        "Equipo tipo tablet profesional",
+        "Sistema operativo Android",
+        "Pantalla táctil de gran formato",
+        "Procesador de alto rendimiento para operaciones IMMO",
+        "Memoria y almacenamiento interno para bases de datos IMMO",
+        "Puerto USB para accesorios y transferencia de datos",
+        "Conectividad Wi-Fi para actualizaciones y servicios online"
+      ]
+    },
+
+    {
+      "type": "specs",
+      "title": "Plataforma de software",
+      "items": [
+        "Plataforma LAUNCH X-431",
+        "Software dedicado IMMO",
+        "Base de datos IMMO integrada",
+        "Procedimientos guiados por software",
+        "Actualizaciones online de funciones",
+        "Soporte multilenguaje",
+        "Gestión de licencias según región"
+      ]
+    },
+
+    {
+      "type": "notes",
+      "title": "Requisitos y consideraciones técnicas",
+      "items": [
+        "Algunas funciones requieren accesorios o módulos IMMO adicionales",
+        "La cobertura depende del sistema IMMO específico del vehículo",
+        "Funciones AKL no disponibles para todos los modelos",
+        "Algunas operaciones pueden requerir conexión a servidor",
+        "Equipo destinado exclusivamente a uso profesional",
+        "Se recomienda formación previa en sistemas de inmovilizador",
+        "Errores en operaciones EEPROM pueden dañar módulos si no se siguen los procedimientos",
+        "Siempre verificar compatibilidad antes de realizar programación"
+      ]
+    }
+  ],
+
+  "seo": {
+    "title": "LAUNCH X-431 IMMO PAD Programador profesional IMMO",
+    "description": "Plataforma profesional LAUNCH X-431 IMMO PAD para programación avanzada de llaves e inmovilizadores por OBD y EEPROM, con funciones AKL y cobertura multimarca."
+  },
+
+  "sectionsOrder": [
+    "highlights",
+    "functions",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+
+  "purchase": {
+    "label": "Consultar",
+    "url": ""
+  }
+}

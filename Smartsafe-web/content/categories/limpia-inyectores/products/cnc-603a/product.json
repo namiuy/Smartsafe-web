@@ -1,0 +1,96 @@
+{
+  "categorySlug": "limpia-inyectores",
+  "slug": "cnc-603a",
+  "title": "SmartSafe CNC-603A – Limpia y Prueba de Inyectores",
+  "shortDescription": "Equipo automático para limpieza ultrasónica y prueba de inyectores de combustible, capaz de simular condiciones reales de funcionamiento del motor. Permite limpiar y testear hasta 6 inyectores simultáneamente, evaluando caudal, pulverización, estanqueidad y uniformidad.",
+  "badge": "EFI",
+  "order": 2,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "SmartSafe CNC-603A – Limpia inyectores automotriz",
+    "description": "Máquina automática para limpieza ultrasónica y prueba de inyectores EFI. Permite test de caudal, pulverización, estanqueidad y simulación de condiciones reales de motor."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLACNC603A"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Equipo automático para limpieza y prueba de inyectores automotrices.",
+        "Limpieza ultrasónica profunda para eliminar carbón y depósitos del inyector y del filtro.",
+        "Capaz de limpiar y testear hasta 6 inyectores simultáneamente.",
+        "Control automático por microcomputadora con monitoreo en tiempo real.",
+        "Simulación de condiciones reales de funcionamiento del motor."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Limpieza ultrasónica de inyectores EFI.",
+        "Prueba de pulverización y uniformidad de inyección.",
+        "Diagnóstico de caudal y rendimiento de inyectores.",
+        "Detección de pérdidas y problemas de sellado."
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones principales",
+      "items": [
+        "Ultrasonic Cleaning: limpieza ultrasónica intensiva de múltiples inyectores.",
+        "Uniformity / Spray Testing: evaluación visual del patrón de pulverización con iluminación de fondo.",
+        "Sealing Test: prueba de estanqueidad bajo presión del sistema.",
+        "Fuel Injection Quantity Detection: medición de cantidad de inyección en condición constante de 15 segundos.",
+        "Automatic Cleaning and Testing: limpieza y prueba automática bajo parámetros definidos.",
+        "Reverse Flush: contralavado para remover contaminantes internos y residuos del filtro del inyector.",
+        "Non-Dismantle Cleaning: limpieza sin desarme mediante adaptadores específicos."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación: AC 110V / AC 220V – 50/60Hz.",
+        "Potencia principal del equipo: 300 W.",
+        "Potencia de limpieza ultrasónica: 50 W.",
+        "Velocidad de simulación: 10 a 9990 rpm (paso 10 rpm).",
+        "Ancho de pulso: 0.5 a 25 ms (paso 0.1 ms).",
+        "Rango de temporizador: 1 a 10 minutos.",
+        "Capacidad del tanque: 3 L.",
+        "Dimensiones: 396 × 380 × 446 mm."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de uso",
+      "items": [
+        "Utilizar en área bien ventilada y sobre superficie estable.",
+        "Operación por personal capacitado en sistemas de inyección.",
+        "Conectar a red eléctrica con tensión y frecuencia adecuadas.",
+        "No operar el sistema ultrasónico sin líquido en el tanque.",
+        "Verificar correcta instalación de inyectores y adaptadores antes de iniciar pruebas."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Diseñado para inyectores de combustible convencionales (EFI).",
+        "Incluye kit de adaptadores y accesorios para múltiples modelos de inyectores.",
+        "Las especificaciones pueden variar según versión o mercado."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "categorySlug": "adas",
+  "slug": "adas-mobile",
+  "title": "ADAS Mobile – Sistema Portátil de Calibración ADAS",
+  "shortDescription": "Sistema profesional y portátil para calibración ADAS, diseñado para calibraciones estáticas y dinámicas de cámaras, radares y sensores de asistencia a la conducción. Su diseño plegable y configurable permite calibrar en diferentes espacios de trabajo, ideal para talleres y servicios móviles.",
+  "badge": "Calibración Estática / Dinámica",
+  "order": 5,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "ADAS Mobile – Equipo portátil de calibración ADAS",
+    "description": "Equipo profesional Launch ADAS Mobile para calibración estática y dinámica de sistemas ADAS: cámaras, radares, LDW, ACC, BSD, AVM y más."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "compatibility",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Sistema ADAS portátil, plegable y configurable.",
+        "Diseñado para calibraciones estáticas y dinámicas.",
+        "Posicionamiento preciso mediante láser y microajustes.",
+        "Preparación rápida: listo para calibrar en aproximadamente 5 minutos.",
+        "Compatible con el software profesional ADAS de Launch.",
+        "Ideal para talleres y servicios móviles de calibración ADAS."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Calibración de cámaras frontales ADAS.",
+        "Calibración de radares delanteros y traseros.",
+        "Calibración de sistemas LDW (Lane Departure Warning).",
+        "Calibración de ACC (Adaptive Cruise Control).",
+        "Calibración de BSD (Blind Spot Detection).",
+        "Calibración de AVM 360° (Around View Monitoring).",
+        "Calibración de sistemas de visión nocturna (NV)."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con software ADAS de Launch.",
+        "Soporte para marcas asiáticas, europeas y americanas.",
+        "Cobertura multimarca en constante actualización mediante software.",
+        "Compatible con equipos de diagnosis Launch X-431."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Superficie nivelada para posicionamiento del vehículo.",
+        "Espacio frontal suficiente según procedimiento de calibración.",
+        "Uso obligatorio de equipo de diagnosis compatible Launch.",
+        "Iluminación adecuada durante el proceso de calibración.",
+        "Personal técnico capacitado en sistemas ADAS."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tipo de equipo: sistema portátil de calibración ADAS.",
+        "Estructura: base y brazos plegables.",
+        "Sistema de alineación: láser con microajustes.",
+        "Tiempo de preparación: aprox. 5 minutos.",
+        "Peso aproximado: 30 kg.",
+        "Dimensiones aproximadas: 371 × 1042 mm."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Configuraciones disponibles",
+      "items": [
+        "Configuración básica: estructura ADAS Mobile y accesorios de posicionamiento.",
+        "Configuración estándar: incluye objetivos de cámara frontal más comunes.",
+        "Configuración avanzada: incluye objetivos adicionales y calibradores de radar frontal y corner."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Los objetivos y accesorios varían según la configuración seleccionada.",
+        "Algunos sistemas ADAS requieren objetivos específicos por marca.",
+        "La cobertura depende de la versión del software de diagnosis.",
+        "Equipo orientado a uso profesional en talleres automotrices."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Consultar disponibilidad",
+    "url": ""
+  }
+}

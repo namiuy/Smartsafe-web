@@ -1,0 +1,80 @@
+{
+  "categorySlug": "accesorios",
+  "slug": "bst-560s",
+  "title": "LAUNCH BST-560S",
+  "shortDescription": "Probador de batería profesional de diseño plug-to-play para vehículos de 12 V, con display color, diagnóstico completo y múltiples pruebas eléctricas.",
+  "badge": "Probador de batería",
+  "order": 13,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH BST-560S – Probador de baterías automotrices",
+    "description": "Probador de batería LAUNCH BST-560S con pantalla LCD a color y 6 tipos de pruebas (batería, arranque, carga, voltaje, corriente, ripple) para diagnóstico rápido de sistemas de 12 V."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLABST-560S"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "functions",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Probador plug-to-play compacto con diseño intuitivo y display LCD a color. :contentReference[oaicite:1]{index=1}",
+        "Genera reporte de salud de batería en ~3 segundos. :contentReference[oaicite:2]{index=2}",
+        "Soporta múltiples estándares de medición internacional: CCA, BCI, CA, MCA, JIS, DIN, IEC, EN, SAE, GB. :contentReference[oaicite:3]{index=3}",
+        "Incluye 6 tipos de pruebas eléctricas completas sobre sistema de batería y eléctrico. :contentReference[oaicite:4]{index=4}",
+        "Funciona de forma continua y repetida para inspecciones por lote. :contentReference[oaicite:5]{index=5}"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones principales",
+      "items": [
+        "Detección de ripple en la batería. :contentReference[oaicite:6]{index=6}",
+        "Prueba de batería para verificar estado de salud. :contentReference[oaicite:7]{index=7}",
+        "Prueba de corriente eléctrica. :contentReference[oaicite:8]{index=8}",
+        "Prueba de sistema de arranque. :contentReference[oaicite:9]{index=9}",
+        "Prueba del sistema de carga (alternador). :contentReference[oaicite:10]{index=10}",
+        "Prueba de voltaje del sistema. :contentReference[oaicite:11]{index=11}"
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Diseñado para vehículos propulsados por batería tales como autos, motos, cortadoras de césped y maquinaria ligera. :contentReference[oaicite:12]{index=12}",
+        "Aplicable a baterías de 12 V (Regular Flooded, Gel, AGM, EFB y Lithium). :contentReference[oaicite:13]{index=13}",
+        "Pruebas de sistema de arranque y carga incluidas en rutinas. :contentReference[oaicite:14]{index=14}"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Pantalla: 2.4″ LCD con backlight. :contentReference[oaicite:15]{index=15}",
+        "Temperatura de operación: −18 °C a 60 °C. :contentReference[oaicite:16]{index=16}",
+        "Cable de prueba no reemplazable de ~66 cm. :contentReference[oaicite:17]{index=17}",
+        "Carcasa ABS resistente a ácido con diseño industrial. :contentReference[oaicite:18]{index=18}",
+        "Dimensiones: 155 × 85 × 32 mm. :contentReference[oaicite:19]{index=19}",
+        "Peso: ~315 g. :contentReference[oaicite:20]{index=20}"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Las pruebas pueden variar según el estado y tipo de batería. :contentReference[oaicite:21]{index=21}",
+        "No requiere desconexión de batería para pruebas. :contentReference[oaicite:22]{index=22}",
+        "Ideal para diagnóstico rápido en talleres y mantenimiento preventivo. :contentReference[oaicite:23]{index=23}"
+      ]
+    }
+  ]
+}

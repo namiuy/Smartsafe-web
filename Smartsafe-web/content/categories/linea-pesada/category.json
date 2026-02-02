@@ -1,0 +1,41 @@
+{
+  "slug": "linea-pesada",
+  "title": "Línea Pesada",
+  "shortDescription": "Equipos y soluciones profesionales para diagnóstico, mantenimiento y servicio en vehículos de línea pesada: camiones, ómnibus, maquinaria vial y agrícola.",
+  "order": 10,
+  "logo": "/images/products/linea-pesada/logo/logo.svg",
+  "isActive": true,
+  "template": "heavy-duty",
+  "defaultSections": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "filters": [
+    "tipo-de-equipo",
+    "tipo-de-vehiculo",
+    "aplicacion"
+  ],
+  "tags": [
+    "linea-pesada",
+    "camiones",
+    "omnibuses",
+    "maquinaria-pesada",
+    "agricola",
+    "industrial",
+    "diagnostico"
+  ],
+  "seo": {
+    "title": "Diagnóstico y equipos para Línea Pesada",
+    "description": "Equipos profesionales de diagnóstico y servicio para línea pesada: camiones, ómnibus y maquinaria agrícola e industrial."
+  },
+  "categoryBanner": {
+    "mode": "auto-from-products",
+    "imageIndex": 1,
+    "limit": 12
+  },
+  "featuredHeroProductSlug": "x-431-pro3-link-hd"
+}

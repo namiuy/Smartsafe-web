@@ -1,0 +1,65 @@
+{
+  "categorySlug": "tpms",
+  "slug": "ltr04hd",
+  "title": "Sensor LAUNCH LTR-04-HD",
+  "shortDescription": "Sensor TPMS programable externo (montaje por fuera del neumático) con doble frecuencia 315/433 MHz y amplia cobertura de vehículos.",
+  "badge": "TPMS Sensor",
+  "order": 4,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "Sensor TPMS Externo LAUNCH LTR-04-HD",
+    "description": "Sensor TPMS externo de LAUNCH, programable en 315/433 MHz con alta cobertura, ideal para reemplazo TPMS y servicio de programación en talleres."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Sensor TPMS externo programable LAUNCH para montaje por fuera del neumático.",
+        "Dual frecuencia 315 MHz y 433 MHz con amplia cobertura de vehículos TPMS (~99%).",
+        "Programable ilimitadamente con herramientas TPMS compatibles.",
+        "Instalación sencilla con accesorios externos de montaje.",
+        "Diseño robusto y durable para servicio profesional."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Reemplazo de sensores TPMS externos originales.",
+        "Servicio de programación y reaprendizaje TPMS en talleres y vulcanizaciones.",
+        "Compatible con herramientas TPMS LAUNCH e i-TPMS."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Frecuencia operativa: 315 MHz y 433 MHz.",
+        "Tipo de sensor: externo para montaje por fuera del neumático.",
+        "Batería integrada de larga duración.",
+        "Alcance de cobertura: ~99% (según modelo y base de datos).",
+        "Compatible con herramientas TPMS programables universales."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "La cobertura puede variar según versión, mercado y base de datos de la herramienta de programación.",
+        "Requiere herramienta compatible para programación/reaprendizaje (p.ej., Launch i-TPMS, CRT511S V2)."
+      ]
+    }
+  ]
+}

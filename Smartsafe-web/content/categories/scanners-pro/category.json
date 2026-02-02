@@ -1,0 +1,41 @@
+{
+  "slug": "scanners-pro",
+  "title": "Scanners Profesionales",
+  "shortDescription": "Scanners profesionales de la línea X-431 diseñados para diagnóstico automotriz avanzado, programación, codificación y soporte de tecnologías modernas.",
+  "order": 1,
+  "enableHoverPreview": true,
+  "logo": "/images/products/scanners-pro/logo/logo.svg",
+  "isActive": true,
+  "template": "scanner-pro",
+  "defaultSections": [
+    "highlights",
+    "compatibility",
+    "functions",
+    "coverage",
+    "specs",
+    "notes"
+  ],
+  "filters": [
+    "nivel",
+    "conectividad",
+    "soporte-avanzado"
+  ],
+  "tags": [
+    "scanner",
+    "x431",
+    "launch",
+    "diagnostico-profesional",
+    "programacion",
+    "codificacion"
+  ],
+  "seo": {
+    "title": "Scanners profesionales Launch X-431",
+    "description": "Scanners profesionales Launch X-431 para diagnóstico automotriz avanzado, programación, codificación, ADAS, EV y soporte para vehículos modernos."
+  },
+  "featuredHeroProductSlug": "pad-ix-link",
+  "categoryBanner": {
+    "mode": "auto-from-products",
+    "imageIndex": 1,
+    "limit": 12
+  }
+}

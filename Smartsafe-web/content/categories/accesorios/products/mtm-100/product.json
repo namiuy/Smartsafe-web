@@ -1,0 +1,64 @@
+{
+  "categorySlug": "accesorios",
+  "slug": "mtm-100",
+  "title": "LAUNCH MTM-100",
+  "shortDescription": "Multímetro automotriz digital True RMS multifuncional para diagnóstico y mediciones precisas en sistemas eléctricos de vehículos.",
+  "badge": "Multímetro",
+  "order": 7,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH MTM-100 – Multímetro Automotriz Profesional",
+    "description": "Multímetro automotriz LAUNCH MTM-100 con mediciones True RMS, pantalla grande de 6000 cuentas y funciones de diagnóstico eléctrico para talleres."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  },
+  "sectionsOrder": [
+    "highlights",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Multímetro automotriz digital True RMS, ideal para diagnóstico eléctrico profesional.",
+        "Pantalla grande de alto contraste con 6000 cuentas para lecturas claras.",
+        "Funciones completas: medición de voltaje AC/DC, corriente, resistencia, capacitancia, frecuencia y temperatura.",
+        "Incluye pruebas especiales como ancho de pulso, RPM y pruebas de diodos/continuidad."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con diagnóstico eléctrico de sistemas automotrices de 12 V y 24 V.",
+        "Ideal para talleres mecánicos, técnicos eléctricos y diagnóstico avanzado en campo."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Mediciones: DC/AC voltaje hasta 1000 V, corriente hasta 10 A (20 A máximo por períodos cortos).",
+        "Resistencia: hasta 60 MΩ; Capacitancia: hasta 100 mF.",
+        "Frecuencia: hasta 10 MHz.",
+        "Pulse Width: hasta 999.9 ms.",
+        "Display: digital True RMS con 6000 cuentas.",
+        "Alimentación: 2 × pilas AAA."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Requiere familiaridad básica con multímetros y normas de seguridad para diagnóstico automotriz.",
+        "La precisión y funciones avanzadas lo hacen adecuado tanto para pruebas rutinarias como para resolución de fallas complejas."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categorySlug": "scanners-independientes",
+  "slug": "crp-359-premium",
+  "title": "CRP 359 Premium – Scanner independiente avanzado",
+  "shortDescription": "Scanner automotriz independiente de alto rendimiento, con diagnóstico full system, 31 funciones de servicio y soporte CAN-FD y DoIP.",
+  "badge": "Scanner premium",
+  "order": 1,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-usuario": "taller-independiente-y-entusiasta-avanzado",
+    "nivel-de-diagnostico": "full-system",
+    "funciones-de-servicio": "31-funciones"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Diagnóstico Full System",
+        "31 funciones de servicio",
+        "Soporte CAN-FD y DoIP",
+        "Pantalla táctil de 7”",
+        "Actualizaciones de software por 2 años"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Diagnóstico multi-sistema en taller independiente",
+        "Mantenimiento y resets frecuentes",
+        "Lectura y análisis de fallas con reportes",
+        "Soporte para vehículos modernos con CAN-FD / DoIP (según modelo)"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Diagnóstico Full System",
+        "Lectura y borrado de DTCs",
+        "Datos en vivo (Live Data)",
+        "Reportes de diagnóstico",
+        "Funciones de servicio (hasta 31)",
+        "Soporte CAN-FD y DoIP (según vehículo)"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Sistema operativo: Android 10",
+        "Pantalla: 7” (1024 × 600)",
+        "Memoria RAM: 3 GB",
+        "Almacenamiento: 32 GB",
+        "Entrada OBDII: 9–18 V",
+        "Entrada DC: 5 V",
+        "Batería: Litio",
+        "Interfaz: DB15"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo independiente muy potente, ideal como solución principal en taller pequeño o como segundo scanner.",
+        "No reemplaza a la línea profesional X-431 en funciones avanzadas como programación online, ADAS o diagnósticos profundos en red."
+      ]
+    }
+  ],
+  "seo": {
+    "title": "CRP 359 Premium – Scanner independiente Launch",
+    "description": "Scanner Launch independiente con diagnóstico Full System, 31 funciones de servicio y soporte CAN-FD/DoIP."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLACRP359"
+  }
+}

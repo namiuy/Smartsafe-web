@@ -1,0 +1,85 @@
+{
+  "categorySlug": "carros-de-herramientas",
+  "slug": "tth-375",
+  "title": "TTH-375 – Carro de herramientas mecánicas (375 piezas)",
+  "shortDescription": "Kit completo para mantenimiento mecánico vehicular. Diseñado para cubrir la mayoría de modelos, incorporando sets de sockets especiales y una selección amplia de herramientas para tareas de taller.",
+  "badge": "375 piezas – Mecánica general",
+  "order": 1,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "TTH-375 – Carro de herramientas mecánicas (375 piezas)",
+    "description": "Kit de 375 piezas para mantenimiento mecánico vehicular, con sets completos y sockets especiales para modelos populares, ideal para cubrir tareas generales de taller."
+  },
+  "purchaseUrl": "https://www.herramientas.nami.com.uy/productos/SLATTH-375",
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Solución para mantenimiento mecánico vehicular.",
+        "Kit completo para cubrir la demanda de la mayoría de modelos.",
+        "Incluye sets de sockets especiales para modelos populares.",
+        "Selección amplia de herramientas para tareas de taller."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mecánica general (servicios de taller).",
+        "Trabajos con sockets, puntas, llaves, destornilladores y herramientas de extracción/ajuste.",
+        "Soporte de herramientas para estaciones de mantenimiento."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones",
+      "items": [
+        "Tipo: carro de herramientas mecánicas con kit completo.",
+        "Cantidad de piezas: 375.",
+        "Enfoque: mantenimiento mecánico vehicular."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Qué incluye (resumen del kit)",
+      "items": [
+        "Dados 12.5mm DR 6PT (22 pcs) 8–36mm.",
+        "Dados largos 12.5mm DR 6PT (10 pcs) 10–21mm.",
+        "Dados largos 12.5mm DR 12PT (7 pcs) 8–16mm.",
+        "Dados largos de impacto 12.5mm 6PT (3 pcs) 17–21mm.",
+        "Accesorios 12.5mm (9 pcs): crique, extensiones, spinner handle, manija en L, etc.",
+        "Bit sockets 12.5mm (12 pcs): 6PT, 12PT, torx.",
+        "Set de puntas para destornillador (61 pcs).",
+        "E-sockets 10mm (8 pcs) E8–E20 + E-sockets 6.3mm (5 pcs) E4–E8.",
+        "Dados 10mm DR 6PT (12 pcs) + dados largos 10mm DR 6PT (9 pcs).",
+        "Dados 6.3mm DR 6PT (13 pcs) + dados largos 6.3mm DR 6PT (10 pcs).",
+        "Llaves combinadas antideslizantes (13 pcs) + flare nut wrenches (3 pcs) + doble anillo (7 pcs) + llaves caño (3 pcs).",
+        "Destornilladores (11 pcs) + Torx (5 pcs) + oil seal screwdriver set (4 pcs) + impact screwdriver set (18 pcs).",
+        "Herramientas varias: set de pinzas (incluye retainer pliers), herramientas de extracción y desarme de trim, extractores de tornillos, etc.",
+        "Add-on: pistola de aire (dust gun), herramienta magnética flexible y llave T (8/10/12/13mm).",
+        "Carro/soporte (carrier)."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "El listado resume los grupos principales de herramientas (por sets).",
+        "Kit pensado para uso profesional y cobertura amplia de tareas mecánicas."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLATTH-375"
+  }
+}

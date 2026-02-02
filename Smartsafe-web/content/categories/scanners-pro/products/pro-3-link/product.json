@@ -1,0 +1,132 @@
+{
+  "categorySlug": "scanners-pro",
+  "slug": "pro-3-link",
+  "title": "X-431 PRO 3 LINK",
+  "shortDescription": "Scanner profesional con SmartLink C para diagnóstico local y remoto, funciones avanzadas de servicio y soporte de programación vía J2534.",
+  "badge": "Más vendido",
+  "order": 2,
+  "isFeatured": true,
+  "isActive": true,
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SX431PRO3LkV2"
+  },
+  "seo": {
+    "title": "X-431 PRO 3 LINK | Scanner profesional Launch",
+    "description": "Scanner profesional Launch X-431 PRO 3 LINK con SmartLink C para diagnóstico local y remoto, funciones de servicio y programación J2534."
+  },
+  "coverage": {
+    "type": "qcar",
+    "url": "https://qcar.x431.com/qcar/#/pc/index"
+  },
+  "cta": {
+    "whatsappText": "Hola, vengo desde la web de Launch Uruguay. Quiero consultar por el X-431 PRO 3 LINK."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "diagnosis",
+    "remote",
+    "compatibility",
+    "included",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Descripción General",
+      "items": [
+        "Scanner profesional diseñado para uso intensivo en talleres automotrices.",
+        "Incluye SmartLink C, que permite diagnóstico local, diagnóstico remoto y funciones Pass-Thru.",
+        "Diagnóstico completo de sistemas: lectura y borrado de DTC, datos en vivo y control bidireccional (según vehículo).",
+        "Identificación automática de vehículos mediante VIN para agilizar el flujo de trabajo.",
+        "Plataforma X-431 escalable mediante licencias y software oficial Launch."
+      ]
+    },
+    {
+      "type": "highlights",
+      "title": "Diagnóstico Local",
+      "items": [
+        "Escaneo completo de sistemas electrónicos del vehículo.",
+        "Visualización de datos en vivo con gráficos.",
+        "Pruebas de actuadores y control bidireccional para verificación de componentes.",
+        "Funciones de servicio y mantenimiento para tareas frecuentes de taller."
+      ]
+    },
+    {
+      "type": "highlights",
+      "title": "Diagnóstico Remoto (SmartLink)",
+      "items": [
+        "Soporte para diagnóstico remoto mediante la plataforma SmartLink de Launch.",
+        "Permite asistencia técnica y diagnóstico a distancia entre equipos compatibles.",
+        "Pensado para resolver casos complejos y reducir tiempos de diagnóstico."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad y Protocolos",
+      "items": [
+        "Vehículos livianos (Passenger Cars).",
+        "Protocolos de comunicación compatibles: CAN y CAN FD (según vehículo).",
+        "Soporte Pass-Thru J2534 para programación OEM mediante PC (según software del fabricante).",
+        "Cobertura dependiente de región, licencias y software instalado."
+      ]
+    },
+    {
+      "type": "highlights",
+      "title": "Qué incluye",
+      "items": [
+        "Tablet de diagnóstico X-431 PRO 3 LINK.",
+        "VCI SmartLink C.",
+        "Cable de diagnóstico OBD.",
+        "Cables USB para comunicación y carga.",
+        "Crossover cable para escenarios de diagnóstico remoto.",
+        "Sobre con credenciales (número de serie y código de activación).",
+        "Guía rápida de inicio."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Datos Técnicos",
+      "items": [
+        {
+          "label": "Sistema Operativo",
+          "value": "Android"
+        },
+        {
+          "label": "Pantalla",
+          "value": "10.1\" táctil"
+        },
+        {
+          "label": "Memoria RAM",
+          "value": "4 GB"
+        },
+        {
+          "label": "Almacenamiento",
+          "value": "64 GB"
+        },
+        {
+          "label": "Comunicación",
+          "value": "Wi-Fi y Bluetooth"
+        },
+        {
+          "label": "VCI",
+          "value": "SmartLink C"
+        },
+        {
+          "label": "Voltaje de trabajo VCI",
+          "value": "DC 9–36 V"
+        },
+        {
+          "label": "Temperatura de trabajo",
+          "value": "0 °C a 50 °C"
+        }
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "text": "Las funciones, cobertura y compatibilidad pueden variar según el mercado, las licencias activas y el software instalado. La programación OEM mediante J2534 requiere software oficial del fabricante del vehículo."
+    }
+  ]
+}

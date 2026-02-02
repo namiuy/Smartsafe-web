@@ -1,0 +1,84 @@
+{
+  "categorySlug": "aceites-y-fluidos",
+  "slug": "eoc-70",
+  "title": "EOC-70 – Extractor Neumático de Aceite de Motor",
+  "shortDescription": "Extractor neumático profesional para drenaje y recolección de aceite usado de motor, con vacío por presión negativa y estructura robusta para uso intensivo en taller.",
+  "badge": "Equipo neumático",
+  "order": 2,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "EOC-70 – Extractor neumático de aceite de motor",
+    "description": "Extractor neumático profesional EOC-70 para drenaje de aceite de motor, con vacío por presión negativa, tanque de 70 L y copa de medición resistente."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLATOC-317"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Extracción de aceite mediante vacío por presión negativa, rápida y silenciosa.",
+        "Tanque integrado de acero laminado en frío, formado en una sola pieza.",
+        "Copa de medición de vidrio templado, resistente a altas temperaturas y a la decoloración.",
+        "Bandeja recolectora de aceite de altura regulable.",
+        "Ruedas con freno, silenciosas y de fácil desplazamiento."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Drenaje de aceite de motor por gravedad desde el cárter.",
+        "Extracción de aceite mediante sondas por vacío.",
+        "Recolección y almacenamiento unificado de aceite usado.",
+        "Uso en talleres mecánicos, lubricentros y centros de mantenimiento."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Capacidad del tanque: 70 L.",
+        "Capacidad de la copa de medición: 10 L.",
+        "Capacidad de la bandeja recolectora: 10 L.",
+        "Presión de alimentación de aire: 6–8 bar.",
+        "Presión de descarga: 0.6–0.8 bar.",
+        "Consumo de aire: 150 L/min.",
+        "Grado de vacío: 0 a −65 cmHg.",
+        "Temperatura de aceite admitida: 40–80 °C.",
+        "Altura del equipo: 1380 mm.",
+        "Peso neto / bruto: 26 kg / 34 kg.",
+        "Dimensiones del embalaje: 530 × 530 × 990 mm."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de uso",
+      "items": [
+        "Requiere suministro de aire comprimido.",
+        "Uso sobre superficies planas y estables.",
+        "Vaciar el tanque de aceite usado antes de alcanzar el nivel máximo.",
+        "Verificar válvulas de seguridad antes de la operación."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Incluye múltiples sondas de succión de distintos diámetros.",
+        "Cuenta con válvulas de seguridad tanto en la copa de medición como en el tanque.",
+        "Los valores pueden variar levemente según versión o mercado."
+      ]
+    }
+  ]
+}

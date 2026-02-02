@@ -1,0 +1,107 @@
+{
+  "categorySlug": "adas",
+  "slug": "adas-pro-plus",
+  "title": "ADAS Pro+ – Sistema Profesional Avanzado de Calibración ADAS",
+  "shortDescription": "Sistema profesional avanzado de calibración ADAS de nivel OEM, diseñado para calibraciones estáticas de cámaras, radares y sistemas de asistencia a la conducción. El ADAS Pro+ incorpora estructura fija de alta precisión, ajuste multidireccional y compatibilidad extendida con targets físicos OEM.",
+  "badge": "Calibración Estática OEM",
+  "order": 2,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "ADAS Pro+ – Calibración ADAS profesional OEM",
+    "description": "Equipo Launch X-431 ADAS Pro+ para calibración estática OEM de cámaras y radares ADAS, con estructura fija, targets físicos y máxima precisión."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "compatibility",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Sistema ADAS profesional de nivel OEM con estructura fija.",
+        "Diseñado para calibraciones estáticas de máxima precisión.",
+        "Ajuste multidireccional fino: elevación, centrado, paralelismo y nivelación.",
+        "Compatibilidad extendida con targets físicos ADAS OEM.",
+        "Integración total con software ADAS Launch.",
+        "Orientado a talleres especializados y centros de calibración ADAS."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Calibración de cámaras frontales ADAS.",
+        "Calibración de cámaras traseras y laterales.",
+        "Calibración de radares delanteros (ACC, FCW).",
+        "Calibración de radares laterales y traseros (BSD, RCW).",
+        "Calibración de sistemas AVM / 360°.",
+        "Calibración de sistemas LDW, LKA, ACC, BSD, RCW y AVM."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con software ADAS Launch.",
+        "Soporte para marcas asiáticas, europeas y americanas.",
+        "Compatible con escáneres Launch X-431 PRO 3, PRO 5, PAD III y PAD V.",
+        "Uso de targets físicos específicos por marca y sistema."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Área de trabajo amplia y perfectamente nivelada.",
+        "Espacio frontal y lateral suficiente según especificaciones OEM.",
+        "Iluminación uniforme durante el proceso de calibración.",
+        "Uso obligatorio de escáner Launch compatible.",
+        "Técnico capacitado en calibración ADAS."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tipo de calibración: estática.",
+        "Estructura: marco fijo profesional.",
+        "Sistema de ajuste: elevación y alineación multidireccional.",
+        "Targets: físicos OEM específicos por sistema.",
+        "Nivel de precisión: OEM.",
+        "Configuración: modular y ampliable."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluido en el sistema",
+      "items": [
+        "Marco de calibración ADAS Pro+.",
+        "Sistema de ajuste y nivelación.",
+        "Soportes de cámara y radar.",
+        "Targets físicos estándar según configuración.",
+        "Accesorios de alineación y posicionamiento."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Los targets incluidos dependen de la configuración del kit.",
+        "Algunos sistemas ADAS requieren targets específicos adicionales.",
+        "No incluye targets digitales (propios de la versión V2).",
+        "Equipo orientado a uso profesional intensivo."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Consultar disponibilidad",
+    "url": ""
+  }
+}

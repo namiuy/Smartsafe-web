@@ -1,0 +1,75 @@
+{
+  "categorySlug": "linea-pesada",
+  "slug": "x-431-hd-iii",
+  "title": "X-431 HD III – Interfaz de Diagnóstico Línea Pesada",
+  "shortDescription": "Interfaz de diagnóstico profesional para línea pesada Launch X-431 HD III, compatible con camiones, ómnibus y maquinaria, con set completo de conectores específicos para vehículos comerciales.",
+  "badge": "VCI Línea Pesada",
+  "order": 2,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "interfaz-de-diagnostico",
+    "tipo-de-vehiculo": "linea-pesada",
+    "aplicacion": "diagnostico"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Interfaz de diagnóstico dedicada para vehículos de línea pesada",
+        "Compatible con camiones, ómnibus, maquinaria agrícola y de construcción",
+        "Conectividad con tablets Launch X-431",
+        "Soporte para múltiples protocolos de comunicación comercial",
+        "Incluye set completo de conectores específicos HD"
+      ]
+    },
+    {
+      "type": "connectors",
+      "title": "Conectores incluidos",
+      "items": [
+        "OBD-16",
+        "BENZ-14",
+        "MITSUBISHI 12+16",
+        "CUMMINS-12",
+        "CAT-9",
+        "ISUZU-20",
+        "ISUZU-3",
+        "OBD-6",
+        "OBD-9",
+        "VOLVO-8",
+        "RENAULT-12",
+        "IVECO-30",
+        "IVECO-38",
+        "MAN-12",
+        "MAN-37",
+        "HYUNDAI-16",
+        "WP-3",
+        "DONGFENG-16"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Listado de conectores basado en el manual oficial Launch X-431 HD III",
+        "La configuración puede variar según región",
+        "Algunos conectores especiales pueden depender del mercado",
+        "Diseñado para uso profesional en talleres de línea pesada"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Launch X-431 HD III Interfaz de Diagnóstico Línea Pesada",
+    "description": "Interfaz Launch X-431 HD III para diagnóstico de línea pesada con set completo de conectores para camiones, ómnibus y maquinaria."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "connectors",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLAINTHDIII"
+  }
+}

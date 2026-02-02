@@ -1,0 +1,82 @@
+{
+  "categorySlug": "carros-de-herramientas",
+  "slug": "tth-60",
+  "title": "TTH-60 – Carro de herramientas para alineación (60 piezas)",
+  "shortDescription": "Kit modular de herramientas pensado para el trabajo diario con alineadoras de 4 ruedas. Incluye herramientas específicas de alineación y un carro como soporte, optimizando tiempos y orden en el área de servicio.",
+  "badge": "60 piezas – Alineación 4 ruedas",
+  "order": 3,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "TTH-60 – Carro de herramientas para alineación (60 piezas)",
+    "description": "Kit de 60 piezas orientado a alineación y calibración de 4 ruedas, con herramientas específicas y carro como soporte para mejorar eficiencia y organización en taller."
+  },
+  "purchaseUrl": "https://www.herramientas.nami.com.uy/productos/SLATTH-60",
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Solución modular orientada a operaciones típicas de alineación 4 ruedas.",
+        "Aplicable para alineación y calibración de 4 ruedas.",
+        "Incluye herramientas especiales de alineación.",
+        "Kit completo y práctico, con cantidad total optimizada.",
+        "Carro profesional como soporte para operación más cómoda y eficiente."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Operación diaria de alineación en taller.",
+        "Calibración y ajustes relacionados a geometría de ruedas.",
+        "Soporte y organización de herramientas durante el trabajo en alineadora 4 ruedas."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones",
+      "items": [
+        "Tipo: carro de herramientas con kit modular.",
+        "Cantidad de piezas: 60.",
+        "Enfoque: alineación y calibración 4 ruedas."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Qué incluye (resumen del kit)",
+      "items": [
+        "Set de dados 12.5mm DR 6PT (14 pcs) 8–24mm.",
+        "Accesorios para dados 12.5mm (4 pcs): crique 250mm, extensión 3\", extensión articulada 10\", manija en L 10\".",
+        "Dados de impacto 12.5mm 6PT (4 pcs) 17–23mm.",
+        "Llaves para VW (10 pcs) 0#–9#.",
+        "Llaves combinadas métricas antideslizantes (12 pcs) 10–24mm.",
+        "Llave flexible 10\" (1 pc).",
+        "Llave caño reforzada 8\" (1 pc).",
+        "Pinzas y herramientas varias.",
+        "Juego de llaves Allen tipo ball-end (9 pcs).",
+        "Carro/soporte (carrier)."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Kit orientado a tareas alrededor de alineadoras 4 ruedas.",
+        "Los contenidos están organizados para minimizar cantidad total sin perder practicidad.",
+        "Ideal para estandarizar y ordenar el puesto de trabajo de alineación."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLATTH-60"
+  }
+}

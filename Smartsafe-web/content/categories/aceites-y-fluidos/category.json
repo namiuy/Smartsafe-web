@@ -1,0 +1,38 @@
+{
+  "slug": "aceites-y-fluidos",
+  "title": "Aceites y Fluidos",
+  "shortDescription": "Equipos profesionales para drenaje, recambio y mantenimiento de aceites y fluidos automotrices, diseñados para un servicio eficiente y seguro en talleres.",
+  "order": 15,
+  "logo": "/images/products/aceites-y-fluidos/logo/logo.svg",
+  "isActive": true,
+  "template": "equipment",
+  "defaultSections": [
+    "highlights",
+    "applications",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "filters": [
+    "tipo-de-equipo",
+    "fluido",
+    "aplicacion"
+  ],
+  "tags": [
+    "aceite-motor",
+    "atf",
+    "drenaje",
+    "dialisis",
+    "mantenimiento"
+  ],
+  "seo": {
+    "title": "Equipos para aceites y fluidos automotrices",
+    "description": "Máquinas profesionales para drenaje de aceite, recambio de ATF y mantenimiento de fluidos en talleres mecánicos."
+  },
+  "featuredHeroProductSlug": "atf-601",
+  "categoryBanner": {
+    "mode": "auto-from-products",
+    "imageIndex": 1,
+    "limit": 12
+  }
+}

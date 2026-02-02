@@ -1,0 +1,71 @@
+{
+  "categorySlug": "accesorios",
+  "slug": "ttm113",
+  "title": "LAUNCH TTM-113",
+  "shortDescription": "Medidor láser de profundidad de dibujo de neumáticos para análisis preciso de desgaste, generación de reportes y recomendaciones de mantenimiento.",
+  "badge": "Tread Tester",
+  "order": 3,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH TTM-113 – Medidor de desgaste de neumáticos",
+    "description": "TTM-113 de LAUNCH: medidor láser de profundidad de dibujo con escaneo multipista, pantalla táctil, reportes visuales y recomendaciones de mantenimiento."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SSMTTM113"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Medición láser precisa de la profundidad del dibujo del neumático.",
+        "Escaneo simultáneo de múltiples ranuras para análisis rápido de desgaste.",
+        "Resultados visuales por colores (verde, amarillo, rojo) según estado del neumático.",
+        "Pantalla táctil a color con interfaz intuitiva.",
+        "Generación y compartición de reportes mediante código QR."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Uso autónomo (no requiere scanner para operar).",
+        "Compatible con detección en vehículos de 4 y 6 ruedas.",
+        "Conectividad Wi-Fi y Bluetooth para transferencia de datos."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Procesador: Quad-core A53",
+        "Memoria: 2 GB RAM / 8 GB Flash",
+        "Pantalla: táctil LCD 1.7\" (240 × 280)",
+        "Comunicación inalámbrica: Wi-Fi 2.4/5 GHz y Bluetooth",
+        "Cámara: 2 MP, 30 fps",
+        "Batería: 3.7 V, 3000 mAh",
+        "Puerto de carga/datos: USB Type-C",
+        "Temperatura de trabajo: 0 °C a 45 °C",
+        "Temperatura de almacenamiento: −20 °C a 60 °C",
+        "Dimensiones: 224 × 97 × 70 mm"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Producto láser Clase II: evitar la exposición directa a los ojos.",
+        "Los valores de desgaste pueden variar según el tipo y diseño del neumático.",
+        "Las recomendaciones de mantenimiento se basan en los datos medidos por el equipo."
+      ]
+    }
+  ]
+}

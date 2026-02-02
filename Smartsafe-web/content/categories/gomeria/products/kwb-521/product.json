@@ -1,0 +1,93 @@
+{
+  "categorySlug": "gomeria",
+  "slug": "kwb-521",
+  "title": "LAUNCH KWB-521 – Balanceadora automática de ruedas",
+  "shortDescription": "Balanceadora automática para automóviles, con medición automática de parámetros, posicionamiento láser y freno automático. Alta precisión de 1 g y múltiples modos de balanceo para llantas de acero y aleación.",
+  "badge": "Automática",
+  "order": 6,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH KWB-521 Balanceadora automática profesional",
+    "description": "Balanceadora LAUNCH KWB-521 automática para automóviles, con medición automática, freno y posicionamiento láser, precisión de 1 g y modos DYN, STA y ALUS."
+  },
+  "filters": {
+    "tipo-de-equipo": "balanceadora",
+    "tipo-de-vehiculo": "automovil"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Ventajas principales",
+      "items": [
+        "Balanceadora automática para automóviles",
+        "Medición automática de distancia, diámetro y ancho de llanta",
+        "Posicionamiento láser para colocación precisa de contrapesos",
+        "Freno automático para posicionamiento exacto",
+        "Alta estabilidad y sensibilidad con precisión de balanceo de 1 g",
+        "Pantalla vertical de fácil lectura",
+        "Estructura robusta con cono de acero de alta resistencia",
+        "Pedal de freno para control preciso de la rueda"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Gomerías",
+        "Talleres mecánicos",
+        "Centros de servicio automotriz",
+        "Balanceo de ruedas de automóviles y vehículos livianos"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Balanceo dinámico y estático (DYN / STA)",
+        "Modos de balanceo para llantas de aleación ALU y ALUS",
+        "Medición automática de parámetros de la rueda",
+        "Posicionamiento láser y frenado automático",
+        "Visualización directa del peso requerido",
+        "Función OPT / HID",
+        "Tecla combinada para optimización llanta-neumático"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tensión de trabajo: 220 V",
+        "Rango de diámetro de llanta: 12” – 24”",
+        "Ancho de llanta admitido: 1.5” – 22”",
+        "Diámetro máximo de rueda: 650 mm",
+        "Peso máximo de rueda: 75 kg",
+        "Velocidad de balanceo: 180 rpm",
+        "Tiempo de ciclo de balanceo: 7 s",
+        "Precisión de balanceo: ±1 g",
+        "Diámetro del eje principal: 40 mm"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo automático, ideal para gomerías con volumen medio y alto",
+        "Más rápida y precisa que una balanceadora manual",
+        "Diseñada para automóviles (no camiones)",
+        "Excelente relación costo-prestaciones dentro de la línea LAUNCH"
+      ]
+    }
+  ],
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLAKWB-521"
+  }
+}

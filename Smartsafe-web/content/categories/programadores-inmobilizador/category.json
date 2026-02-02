@@ -1,0 +1,40 @@
+{
+  "slug": "programadores-inmovilizador",
+  "title": "Programadores",
+  "shortDescription": "Programadores profesionales para llaves e inmovilizadores, diseñados para aprendizaje, clonación y recuperación de sistemas antirrobo automotrices.",
+  "order": 9,
+  "logo": "/images/products/programadores-inmobilizador/logo/logo.svg",
+  "isActive": true,
+  "template": "specialized-diagnostic",
+  "defaultSections": [
+    "highlights",
+    "applications",
+    "functions",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "filters": [
+    "tipo-de-programacion",
+    "metodo",
+    "marca-vehiculo"
+  ],
+  "tags": [
+    "programadores",
+    "inmovilizador",
+    "llaves",
+    "antirrobo",
+    "eeprom",
+    "obd"
+  ],
+  "seo": {
+    "title": "Programadores de llaves e inmovilizadores",
+    "description": "Equipos profesionales para programación de llaves e inmovilizadores automotrices mediante OBD, EEPROM y otros métodos avanzados."
+  },
+  "categoryBanner": {
+    "mode": "auto-from-products",
+    "imageIndex": 1,
+    "limit": 12
+  },
+  "featuredHeroProductSlug": "x-431-immo-pad"
+}

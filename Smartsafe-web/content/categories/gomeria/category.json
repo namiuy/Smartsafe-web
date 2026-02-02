@@ -1,0 +1,36 @@
+{
+  "slug": "gomeria",
+  "title": "Gomería",
+  "shortDescription": "Equipos profesionales para gomerías: desenllantadoras y balanceadoras para automóviles, SUV y vehículos livianos.",
+  "order": 11,
+  "logo": "/images/products/gomeria/logo/logo.svg",
+  "isActive": true,
+  "template": "tire-shop",
+  "defaultSections": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "notes"
+  ],
+  "filters": [
+    "tipo-de-equipo",
+    "tipo-de-vehiculo"
+  ],
+  "tags": [
+    "gomeria",
+    "desenllantadora",
+    "balanceadora",
+    "neumaticos"
+  ],
+  "seo": {
+    "title": "Desenllantadoras y balanceadoras profesionales",
+    "description": "Equipos profesionales de gomería: desenllantadoras y balanceadoras para talleres y centros de servicio."
+  },
+  "categoryBanner": {
+    "mode": "auto-from-products",
+    "imageIndex": 1,
+    "limit": 12
+  },
+  "featuredHeroProductSlug": ""
+}

@@ -1,0 +1,118 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "ecs-007e",
+  "title": "Estación de carga para vehículos eléctricos 7 kW",
+  "shortDescription": "Estación de carga AC monofásica de 7 kW para vehículos eléctricos, diseñada para uso residencial, comercial y en talleres, con conectividad inteligente, protecciones avanzadas y compatibilidad con programas de incentivo energético.",
+  "badge": "Carga EV - Plan Redondo Ute",
+  "order": 1,
+  "isFeatured": true,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "estacion-de-carga",
+    "aplicacion": "carga-residencial-y-comercial",
+    "nivel-de-tension": "ac-7kw"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Estación de carga AC monofásica de 7 kW",
+        "Compatible con vehículos eléctricos e híbridos enchufables",
+        "Conector Tipo 2 estándar",
+        "Conectividad Wi-Fi, Ethernet y Bluetooth",
+        "Gestión inteligente de carga mediante app",
+        "Soporte para control por RFID",
+        "Protecciones eléctricas integrales",
+        "Diseño apto para interior y exterior (IP65)",
+        "Producto destacado para instalaciones residenciales y comerciales"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Carga domiciliaria de vehículos eléctricos",
+        "Instalación en talleres y concesionarios",
+        "Carga en estacionamientos privados o comerciales",
+        "Uso en flotas pequeñas",
+        "Puntos de carga para clientes o empleados"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Carga AC monofásica hasta 7 kW",
+        "Control de carga mediante aplicación móvil",
+        "Activación por Plug & Play, RFID o app",
+        "Indicador LED de estado de carga",
+        "Gestión de usuarios mediante tarjetas RFID",
+        "Conectividad a red mediante Wi-Fi o Ethernet",
+        "Soporte para balanceo dinámico de carga mediante CT",
+        "Comunicación con plataformas de gestión vía OCPP 1.6 (actualizable)",
+        "Registro y control del proceso de carga"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Modelo: ECS-007E",
+        "Tipo de carga: AC monofásica",
+        "Potencia máxima: 7 kW",
+        "Tensión de entrada: 230 V AC",
+        "Corriente máxima: 32 A",
+        "Frecuencia: 50 / 60 Hz",
+        "Conector de carga: Tipo 2",
+        "Longitud del cable: 4 m",
+        "Métodos de inicio de carga: Plug & Play / RFID / App",
+        "Conectividad: Wi-Fi (2.4 GHz), Ethernet, Bluetooth",
+        "Protocolo de comunicación: OCPP 1.6 (OCPP 2.0 actualizable)",
+        "Grado de protección: IP65",
+        "Protección de impacto: IK08",
+        "RCD: Tipo A + detección DC 6 mA",
+        "Instalación: Mural o pedestal",
+        "Uso: Interior / Exterior",
+        "Temperatura de operación: −30 °C ~ +50 °C",
+        "Peso aproximado: 2.8 kg"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Cumple normas IEC de seguridad para estaciones de carga",
+        "Protecciones eléctricas integradas para uso EV",
+        "Diseñada para instalación profesional"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Compatible con el Plan Redondo de UTE (en proceso de aprobación)",
+        "El Plan Redondo es un programa de UTE que incentiva la instalación de cargadores para vehículos eléctricos mediante beneficios tarifarios",
+        "Requiere instalación por electricista calificado",
+        "Puede integrarse con sistemas de balanceo de carga para evitar sobrecargas en la instalación",
+        "Ideal como solución principal de carga domiciliaria en Uruguay"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "ECS-007E Estación de carga 7 kW para vehículos eléctricos",
+    "description": "Estación de carga AC de 7 kW para vehículos eléctricos, compatible con Plan Redondo de UTE, con conectividad inteligente, RFID y protecciones avanzadas."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://electrico.nami.com.uy/productos/SLAECS007E"
+  }
+}

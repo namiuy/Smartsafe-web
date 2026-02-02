@@ -1,0 +1,111 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "eb240",
+  "title": "EB240 – Ecualizador de celdas para baterías de vehículos eléctricos",
+  "shortDescription": "Equipo profesional de ecualización, carga y descarga de celdas de baterías de litio, diseñado para mantenimiento, corrección de desbalances y extensión de la vida útil de baterías en vehículos eléctricos.",
+  "badge": "Equipo EV profesional",
+  "order": 6,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "ecualizador-de-baterias",
+    "aplicacion": "mantenimiento-baterias-ev",
+    "nivel-de-tension": "celdas-individuales"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Ecualización simultánea de hasta 24 celdas de batería",
+        "Diseñado para mantenimiento de baterías de litio en vehículos eléctricos",
+        "Alta precisión en medición de voltaje, corriente y temperatura",
+        "Funciones integradas de carga, descarga y ecualización",
+        "Pantalla táctil de 10.1 pulgadas con visualización en tiempo real",
+        "Registro, análisis y exportación de datos de ecualización"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento preventivo y correctivo de baterías EV",
+        "Corrección de desbalances de voltaje entre celdas",
+        "Recuperación de rendimiento de módulos de baterías de litio",
+        "Soporte técnico en talleres EV y centros especializados",
+        "Análisis individual de celdas en packs de baterías"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Ecualización inteligente basada en voltaje objetivo configurable",
+        "Soporte para baterías de litio NCM, LFP, LTO y LMO",
+        "Carga en modo corriente constante y voltaje constante",
+        "Descarga en modo corriente constante, potencia constante o resistencia constante",
+        "Monitoreo en tiempo real de voltaje, corriente, capacidad y temperatura por celda",
+        "Protecciones completas: sobrevoltaje, subtensión, sobrecorriente, cortocircuito, inversión de polaridad y sobretemperatura",
+        "Almacenamiento automático de registros históricos",
+        "Exportación de datos en formato PDF y Excel mediante USB",
+        "Actualización de software y firmware vía Wi-Fi"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación de entrada: AC 90–264 V / 50–60 Hz",
+        "Potencia máxima: 600 W",
+        "Rango de voltaje de carga/descarga: 1.8 ~ 4.2 V por celda",
+        "Rango de corriente de carga/descarga: 0.1 ~ 5 A",
+        "Precisión de medición de voltaje: ±(0.1% FS ± 2 mV)",
+        "Precisión de medición de corriente: ±(1% FS ± 0.05 A)",
+        "Precisión de medición de temperatura: ±2 °C (−25 °C ~ 85 °C)",
+        "Cantidad máxima de canales: 24 celdas (2 canales × 12 celdas)",
+        "Interfaz de voltaje y temperatura: 24 pines × 2",
+        "Comunicación: Wi-Fi, TCP/IP, USB",
+        "Pantalla: LCD táctil de 10.1 pulgadas (1280 × 800)",
+        "Refrigeración: Ventilación forzada",
+        "Temperatura de trabajo: −5 °C ~ 45 °C",
+        "Dimensiones: 500.5 × 337.8 × 445.7 mm"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñado para uso profesional en mantenimiento de baterías EV",
+        "Cumple con normas de seguridad eléctrica IEC 61010",
+        "Protecciones eléctricas según estándares industriales"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "El equipo trabaja a nivel de celda, no a nivel de pack completo",
+        "Evita interferencias con el sistema BMS del vehículo",
+        "Requiere conexión correcta de arneses de voltaje y sensores de temperatura",
+        "Debe ser operado por personal técnico capacitado en baterías de litio",
+        "Ideal para talleres EV que no requieren ecualización de 48 celdas"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "EB240 Ecualizador de celdas para baterías de vehículos eléctricos",
+    "description": "Ecualizador profesional de hasta 24 celdas para mantenimiento, carga, descarga y balanceo de baterías de litio en vehículos eléctricos."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SSMEEB240"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "elevadores",
+  "title": "Elevadores",
+  "shortDescription": "Elevadores automotrices profesionales para trabajos de mantenimiento, diagnóstico y alineación, disponibles en distintas configuraciones y capacidades.",
+  "order": 7,
+  "logo": "/images/products/elevadores/logo/logo.svg",
+  "isActive": true,
+  "template": "advanced-equipment",
+  "defaultSections": [
+    "highlights",
+    "applications",
+    "capacity",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "filters": [
+    "tipo-de-elevador",
+    "capacidad",
+    "aplicacion"
+  ],
+  "tags": [
+    "elevadores",
+    "dos-columnas",
+    "cuatro-columnas",
+    "tijera",
+    "taller"
+  ],
+  "seo": {
+    "title": "Elevadores automotrices para talleres",
+    "description": "Elevadores profesionales de 2 columnas, 4 columnas y tijera para talleres mecánicos, alineación y mantenimiento vehicular."
+  },
+  "featuredHeroProductSlug": "lt-150",
+  "categoryBanner": {
+    "mode": "auto-from-products",
+    "imageIndex": 1,
+    "limit": 12
+  }
+}

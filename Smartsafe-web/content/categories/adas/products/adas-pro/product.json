@@ -1,0 +1,107 @@
+{
+  "categorySlug": "adas",
+  "slug": "adas-pro",
+  "title": "ADAS Pro – Sistema Profesional de Calibración ADAS",
+  "shortDescription": "Sistema profesional de calibración ADAS de nivel OEM, diseñado para calibraciones estáticas de cámaras, radares y sistemas avanzados de asistencia a la conducción. Incluye estructura de alta precisión, targets específicos por marca y compatibilidad con una amplia gama de sistemas ADAS.",
+  "badge": "Calibración Estática OEM",
+  "order": 3,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "ADAS Pro – Equipo profesional de calibración ADAS",
+    "description": "Equipo Launch X-431 ADAS Pro para calibración estática OEM de cámaras, radares y sistemas ADAS como LDW, ACC, BSD y AVM."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "compatibility",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Equipo de calibración ADAS de nivel OEM.",
+        "Diseñado para calibraciones estáticas de alta precisión.",
+        "Estructura robusta con posicionamiento exacto mediante láser magnético.",
+        "Amplia cobertura de targets ADAS con crecimiento constante.",
+        "Compatible con múltiples sistemas de cámaras y radares.",
+        "Integración total con escáneres Launch X-431."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Calibración de cámara frontal ADAS.",
+        "Calibración de cámara trasera.",
+        "Calibración de cámaras laterales y espejo.",
+        "Calibración de sistemas AVM / 360°.",
+        "Calibración de radar de onda milimétrica.",
+        "Calibración de sistemas LDW, ACC, BSD, RCW y AVM."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con software ADAS Launch.",
+        "Soporte para marcas europeas, asiáticas y americanas.",
+        "Compatible con escáneres Launch X-431 PRO 3, PRO 5, PAD III y PAD V.",
+        "Cobertura específica mediante targets OEM por fabricante."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Superficie perfectamente nivelada.",
+        "Espacio frontal suficiente según especificaciones OEM.",
+        "Iluminación adecuada durante la calibración.",
+        "Uso obligatorio de escáner Launch compatible.",
+        "Técnico capacitado en calibración ADAS."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tipo de calibración: estática.",
+        "Sistema de alineación: láser magnético.",
+        "Estructura: marco de calibración profesional.",
+        "Targets: específicos por sistema y marca.",
+        "Configuración: modular.",
+        "Nivel de precisión: OEM."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluido en el paquete",
+      "items": [
+        "Marco de calibración ADAS x1.",
+        "Abrazaderas de rueda x2.",
+        "Reflector de radar y láser magnético x1.",
+        "Panel de calibración (target) x1.",
+        "Soporte para cámara frontal, trasera y espejo."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Los targets varían según el sistema ADAS y la marca del vehículo.",
+        "Algunos sistemas requieren accesorios adicionales no incluidos.",
+        "La cobertura aumenta con actualizaciones de software Launch.",
+        "Equipo orientado a talleres profesionales y centros especializados."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Consultar disponibilidad",
+    "url": ""
+  }
+}

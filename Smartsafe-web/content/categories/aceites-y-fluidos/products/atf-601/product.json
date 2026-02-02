@@ -1,0 +1,82 @@
+{
+  "categorySlug": "aceites-y-fluidos",
+  "slug": "atf-601",
+  "title": "ATF-601 – Limpiadora y Recambiadora de ATF",
+  "shortDescription": "Equipo profesional para limpieza y recambio completo de fluido de transmisión automática, con intercambio equivalente y control electrónico inteligente.",
+  "badge": "Equipo profesional",
+  "order": 1,
+  "isFeatured": true,
+  "isActive": true,
+  "seo": {
+    "title": "ATF-601 Máquina de recambio de ATF profesional",
+    "description": "Equipo profesional para limpieza y recambio completo de fluido de transmisiones automáticas, con intercambio equivalente, identificación automática de flujo y amplia compatibilidad."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SCAT-601"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Intercambio equivalente casi 100% del fluido de transmisión automática.",
+        "Identificación automática del sentido de flujo de entrada y retorno.",
+        "Control electrónico inteligente con visualización de presión y temperatura.",
+        "Limpieza por circulación con uso de detergente específico.",
+        "Amplia compatibilidad con transmisiones automáticas europeas, asiáticas y americanas."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Limpieza interna de transmisiones automáticas.",
+        "Recambio completo de ATF en transmisión, convertidor de par y radiador.",
+        "Ajuste preciso del nivel de fluido de transmisión.",
+        "Mantenimiento preventivo y correctivo de cajas automáticas."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación: 110–127V / 220–230V AC, 50–60 Hz.",
+        "Potencia máxima: 150 W.",
+        "Capacidad de tanques: 20 L x 2 (nuevo / usado).",
+        "Velocidad media de intercambio: 2 L/min.",
+        "Error de intercambio equivalente: ±100 ml.",
+        "Presión máxima: 0–150 psi.",
+        "Precisión de filtrado: 5 μm.",
+        "Nivel de ruido: < 70 dB.",
+        "Dimensiones: 588 × 672 × 1024 mm."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de uso",
+      "items": [
+        "Uso exclusivo por técnicos capacitados.",
+        "Área de trabajo bien ventilada.",
+        "Vehículo elevado con ruedas motrices suspendidas durante el servicio.",
+        "Uso de fluido ATF conforme a especificaciones del fabricante del vehículo."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Incluye múltiples adaptadores para diferentes marcas y modelos.",
+        "La compatibilidad específica depende del kit de adaptadores y del tipo de transmisión.",
+        "Los valores de operación pueden variar según versión y mercado."
+      ]
+    }
+  ]
+}

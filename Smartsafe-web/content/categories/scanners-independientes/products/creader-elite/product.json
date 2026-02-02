@@ -1,0 +1,78 @@
+{
+  "categorySlug": "scanners-independientes",
+  "slug": "cre-920",
+  "title": "CRE-920 – Scanner básico ABS y SRS",
+  "shortDescription": "Scanner automotriz compacto para diagnóstico básico, con soporte ABS, SRS y funciones de servicio seleccionables.",
+  "badge": "Entrada",
+  "order": 2,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-usuario": "entusiasta-y-taller-chico",
+    "nivel-de-diagnostico": "basico-abs-srs",
+    "funciones-de-servicio": "seleccionables"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Diagnóstico OBDII",
+        "ABS y SRS (lectura y borrado de fallas)",
+        "Funciones de servicio seleccionables",
+        "Equipo simple y fácil de usar"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Lectura y borrado de fallas básicas",
+        "Revisión rápida de ABS y Airbag",
+        "Uso como scanner de entrada o apoyo"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "OBDII: lectura y borrado de códigos",
+        "OBDII: datos en vivo",
+        "ABS: lectura y borrado de fallas",
+        "SRS: lectura y borrado de fallas",
+        "Funciones de servicio seleccionables"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Entrada OBDII: 9–18 V",
+        "Equipo compacto para diagnóstico básico"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Producto de entrada: no está orientado a diagnóstico Full System ni a funciones profesionales avanzadas.",
+        "El alcance final puede variar según marca, modelo y año del vehículo."
+      ]
+    }
+  ],
+  "seo": {
+    "title": "CRE-920 – Scanner básico Launch ABS y SRS",
+    "description": "Scanner Launch de entrada con OBDII, ABS, SRS y funciones de servicio seleccionables."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLACRE920"
+  }
+}

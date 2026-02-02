@@ -1,0 +1,107 @@
+{
+  "categorySlug": "adas",
+  "slug": "adas-pro-plus-v2",
+  "title": "ADAS PRO+ V2 – Calibración ADAS profesional con targets digitales",
+  "shortDescription": "Sistema profesional de calibración ADAS para vehículos livianos, equipado con pantalla digital LCD de 75 pulgadas para targets virtuales, medición láser de alta precisión y ajustes multidireccionales para calibraciones rápidas y exactas en talleres de alto nivel.",
+  "badge": "Digital Target · 75” LCD",
+  "order": 1,
+  "isFeatured": true,
+  "isActive": true,
+  "seo": {
+    "title": "ADAS PRO+ V2 – Calibración ADAS profesional con targets digitales",
+    "description": "Equipo profesional de calibración ADAS con pantalla LCD de 75”, targets digitales 1:1, medición láser y ajuste eléctrico/manual. Compatible con más del 95% de los vehículos con sistemas ADAS."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "compatibility",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Pantalla LCD de 75 pulgadas con resolución 4K para visualización digital de targets ADAS.",
+        "Targets digitales 1:1 que eliminan la necesidad de targets físicos y reducen tiempos de preparación.",
+        "Sistema de medición láser con precisión milimétrica para alineación y paralelismo.",
+        "Ajustes multidireccionales: izquierda/derecha, adelante/atrás, ángulo y altura.",
+        "Elevación eléctrica y ajuste manual fino para posicionamiento rápido (menos de 1 minuto).",
+        "Cobertura superior al 95% de los modelos de vehículos con sistemas ADAS."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Calibración de cámara frontal ADAS mediante targets digitales.",
+        "Calibración de sistemas LDW, ACC, BSD, AVM, NVS y RCW.",
+        "Uso en talleres especializados, concesionarios y centros de reparación de parabrisas.",
+        "Calibraciones posteriores a reemplazo de parabrisas, alineación o reparaciones estructurales."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con más del 95% de los vehículos con sistemas ADAS a nivel mundial.",
+        "Soporta calibración de cámara frontal mediante targets digitales.",
+        "Compatible con escáneres de diagnóstico LAUNCH para ejecución de procedimientos ADAS.",
+        "Actualizaciones continuas de software y bases de datos de calibración."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Área de trabajo amplia y despejada para calibración ADAS estática.",
+        "Piso nivelado para garantizar precisión de medición.",
+        "Iluminación adecuada sin reflejos directos sobre la pantalla.",
+        "Uso obligatorio de escáner ADAS compatible para completar el procedimiento de calibración."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Pantalla: LCD digital de 75 pulgadas.",
+        "Resolución: 4K.",
+        "Tipo de target: Digital (frontal).",
+        "Sistema de medición: Medición láser de distancia.",
+        "Ajustes: Izquierda/derecha, adelante/atrás, ángulo y altura.",
+        "Elevación: Eléctrica + ajuste manual.",
+        "Precisión de medición: ±2 mm.",
+        "Alimentación: Adaptador AC 110V–220V."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Estructura principal ADAS PRO+ V2.",
+        "Pantalla LCD digital de 75 pulgadas.",
+        "Sistema de medición láser y centrado.",
+        "Soportes y brazos de ajuste.",
+        "Ruedas con bloqueo para movilidad y estabilidad.",
+        "Conjunto estándar de accesorios según configuración de fábrica."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo diseñado para calibración estática ADAS.",
+        "La calibración dinámica depende del escáner y del fabricante del vehículo.",
+        "Las configuraciones pueden variar según región y versión del producto.",
+        "Recomendado para talleres con alto volumen de trabajos ADAS."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Consultar disponibilidad",
+    "url": ""
+  }
+}

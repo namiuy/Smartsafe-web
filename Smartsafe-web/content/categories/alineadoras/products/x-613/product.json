@@ -1,0 +1,121 @@
+{
+  "categorySlug": "alineadoras",
+  "slug": "x-613",
+  "title": "LAUNCH X-613 – Alineadora 3D Imantable Inalámbrica",
+  "shortDescription": "Alineadora 3D inalámbrica de última generación basada en unidades magnéticas y comunicación wireless. Elimina completamente beams y gabinetes, ofreciendo máxima precisión, portabilidad y rapidez de trabajo. Diseñada como solución exclusiva para talleres de alto nivel.",
+  "badge": "3D Inalámbrica • Sin instalación",
+  "order": 1,
+  "isFeatured": true,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH X-613 – Alineadora 3D inalámbrica magnética",
+    "description": "Alineadora 3D inalámbrica Launch X-613 (WA613) sin beams ni gabinetes. Unidades magnéticas, comunicación wireless, base de datos de +50.000 vehículos y resultados en segundos."
+  },
+  "purchaseUrl": "https://www.herramientas.nami.com.uy/productos/SSMWA613",
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "compatibility",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Sistema 3D completamente inalámbrico: sin beams ni gabinetes.",
+        "Unidades de medición magnéticas: no requieren instalación ni calibración.",
+        "Listo para usar desde fábrica: sin cableado ni configuración inicial.",
+        "Resultados de alineación de cuatro ruedas en aproximadamente 30 segundos.",
+        "Clamps de una sola pieza en aleación de magnesio, livianos y resistentes.",
+        "Comunicación wireless con tablet ST13 para visualización en tiempo real.",
+        "Diseño ultra compacto: peso y volumen de transporte 20–30% de una alineadora 3D tradicional.",
+        "Soporte de almacenamiento y carga mural para unidades y clamps."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Alineación completa de cuatro ruedas.",
+        "Diagnóstico de desgaste irregular de neumáticos.",
+        "Corrección de tironeos, volante torcido y falta de estabilidad.",
+        "Uso intensivo en talleres premium y centros de servicio rápido.",
+        "Ideal para talleres con espacio reducido o múltiples puestos."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con elevadores de tijera grandes.",
+        "Compatible con elevadores de cuatro columnas.",
+        "Independiente del nivel del elevador.",
+        "Compatible con flujo de trabajo móvil dentro del taller."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Uso recomendado en interiores, evitando luz solar directa intensa.",
+        "Diferencia de altura del elevador frente/fondo < 2 mm.",
+        "Temperatura de operación: 0–45 °C.",
+        "Humedad de operación: 20%–90%.",
+        "No operar en ambientes inflamables o explosivos."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tecnología: alineación 3D inalámbrica por unidades magnéticas.",
+        "Unidades de medición: 2 (izquierda y derecha).",
+        "Targets: 4 con clamps de cuatro puntos.",
+        "Base de datos: +50.000 modelos de vehículos globales.",
+        "Parámetros medidos: toe, camber, caster, SAI, thrust angle.",
+        "Mediciones adicionales: wheelbase, track width, axle offset, wheel offset, diagonal, center offset.",
+        "Rango Toe: ±20°.",
+        "Rango Camber: ±20°.",
+        "Rango Caster: ±20°.",
+        "Rango SAI: ±20°.",
+        "Ángulo máximo de dirección: ±35°.",
+        "Wheelbase soportado: 1940–4600 mm.",
+        "Trocha soportada: 1290–1900 mm.",
+        "Diámetro de rueda (clamp 4 puntos): 275–640 mm."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Unidades de medición magnéticas x2.",
+        "Clamps de cuatro puntos x4.",
+        "Tablet ST13 (terminal inteligente de conexión).",
+        "Soportes de pared para unidades y clamps.",
+        "Traba de volante.",
+        "Traba de pedal de freno.",
+        "Cargadores y adaptadores.",
+        "Guía rápida, manual y lista de empaque."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "WA613 y X-613 corresponden al mismo equipo.",
+        "No requiere calibración inicial ni recalibraciones periódicas.",
+        "El sistema permite reportes profesionales con comparación antes/después.",
+        "Equipo orientado a talleres que buscan máxima tecnología y flexibilidad.",
+        "El elevador mostrado en imágenes no está incluido."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Consultar disponibilidad",
+    "url": ""
+  }
+}

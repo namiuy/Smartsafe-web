@@ -1,0 +1,100 @@
+{
+  "categorySlug": "carros-de-herramientas",
+  "slug": "tt116",
+  "title": "TT116 – Carro de herramientas para vehículos eléctricos (EV)",
+  "shortDescription": "Carro profesional de herramientas aisladas desarrollado específicamente para mantenimiento de vehículos eléctricos. Incluye 116 piezas con aislamiento, diseñado para trabajar de forma segura en sistemas eléctricos de alta tensión.",
+  "badge": "EV • 116 piezas • Herramientas aisladas",
+  "order": 5,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "TT116 – Carro de herramientas EV con aislamiento",
+    "description": "Carro de herramientas TT116 para mantenimiento de vehículos eléctricos. Incluye 116 herramientas aisladas, diseñado para trabajos seguros en sistemas eléctricos EV."
+  },
+  "purchaseUrl": "https://www.herramientas.nami.com.uy/productos/SSMEVTT116",
+  "filters": {
+    "tipo": [
+      "carro-de-herramientas-ev"
+    ],
+    "cantidad-de-piezas": [
+      "116"
+    ],
+    "aplicacion": [
+      "vehiculos-electricos",
+      "mantenimiento-ev",
+      "alta-tension"
+    ]
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Desarrollado específicamente para mantenimiento de vehículos eléctricos.",
+        "Incluye 116 herramientas aisladas de uso común.",
+        "Diseñado para trabajos seguros en espacios reducidos de los sistemas eléctricos EV.",
+        "Herramientas aisladas para reducir riesgos eléctricos.",
+        "Incluye detector de tensión sin contacto de 1000V.",
+        "Construcción robusta en acero de alta calidad.",
+        "Mangos bicolor resistentes al aceite y a rayaduras."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento de vehículos eléctricos.",
+        "Trabajos en sistemas eléctricos de alta tensión.",
+        "Desarme y montaje de fijaciones en sistemas EV.",
+        "Tareas de diagnóstico y reparación en tren motriz eléctrico."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones generales",
+      "items": [
+        "Tipo: carro de herramientas EV.",
+        "Cantidad de piezas: 116.",
+        "Herramientas: aisladas para trabajos eléctricos.",
+        "Detector de tensión: lápiz detector sin contacto hasta 1000V.",
+        "Material del carro: acero de alta calidad.",
+        "Diseño: profesional, robusto y duradero."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Contenido del kit",
+      "items": [
+        "Herramientas aisladas para sistemas eléctricos EV.",
+        "Destornilladores aislados (planos, Phillips y Torx).",
+        "Llaves aisladas métricas.",
+        "Dados y extensiones.",
+        "Pinzas aisladas (corte, punta, universales).",
+        "Llaves Allen y Torx.",
+        "Detector de tensión sin contacto 1000V.",
+        "Carro metálico con múltiples cajones."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Producto orientado exclusivamente a mantenimiento de vehículos eléctricos.",
+        "Las herramientas cuentan con aislamiento para trabajos eléctricos.",
+        "Diseñado para combinar seguridad, practicidad y eficiencia.",
+        "La disposición exacta de las herramientas puede variar según lote."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SSMEVTT116"
+  }
+}

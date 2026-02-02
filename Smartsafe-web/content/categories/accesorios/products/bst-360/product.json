@@ -1,0 +1,79 @@
+{
+  "categorySlug": "accesorios",
+  "slug": "bst-360",
+  "title": "LAUNCH BST-360",
+  "shortDescription": "Probador de batería Bluetooth para diagnóstico rápido y preciso de baterías de 6 V y 12 V, con análisis completo del sistema eléctrico mediante app o tablets X-431.",
+  "badge": "Probador de batería",
+  "order": 14,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH BST-360 – Probador de batería Bluetooth",
+    "description": "Probador de batería LAUNCH BST-360 con conexión Bluetooth para análisis de baterías de 6 V y 12 V, pruebas de arranque, carga, voltaje y ripple."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLAXBST-360"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "functions",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Probador de batería Bluetooth con diagnóstico preciso y operación simple.",
+        "Permite descargar reportes de prueba mediante smartphone o herramientas de diagnóstico.",
+        "Conexión Bluetooth estable y de largo alcance.",
+        "Compatible con tablets de diagnóstico LAUNCH X-431.",
+        "Diseñado para análisis rápido en taller o servicio móvil."
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones principales",
+      "items": [
+        "Prueba de corriente.",
+        "Prueba de voltaje.",
+        "Detección de ripple.",
+        "Prueba del sistema de arranque.",
+        "Prueba del sistema de carga.",
+        "Prueba del estado de salud de la batería."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con tablets de diagnóstico LAUNCH X-431.",
+        "Compatible con smartphones mediante aplicación dedicada BST360.",
+        "Aplicable a una amplia gama de vehículos."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Conectividad: Bluetooth.",
+        "Voltaje de batería soportado: 6 V y 12 V.",
+        "Estándares de batería compatibles: CCA, BCI, CA, MCA, JIS, DIN, IEC, EN, SAE, GB.",
+        "Tipos de batería compatibles: plomo-ácido 6 V y 12 V, GEL y AGM.",
+        "Uso conjunto con smartphones o tablets de diagnóstico."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "El BST-360 requiere un dispositivo externo (smartphone o tablet X-431) para visualizar resultados.",
+        "La aplicación BST360 está disponible para App Store y Google Play.",
+        "Ideal para inspecciones rápidas, mantenimiento preventivo y servicios móviles."
+      ]
+    }
+  ]
+}

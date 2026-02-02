@@ -1,0 +1,66 @@
+{
+  "categorySlug": "accesorios",
+  "slug": "vsp-828",
+  "title": "LAUNCH VSP-828R",
+  "shortDescription": "VideoScope rotativo con monitor y cámara giratoria para inspecciones profesionales en zonas de difícil acceso, captura de imágenes y video.",
+  "badge": "VideoScope",
+  "order": 5,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH VSP-828R – VideoScope rotativo profesional",
+    "description": "VideoScope LAUNCH VSP-828R: cámara rotatoria y pantalla integrada para inspecciones visuales profundas, captura de imágenes y grabación de video en tiempo real."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SVSP-828R"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "VideoScope rotativo con pantalla integrada para inspecciones avanzadas.",
+        "Cámara giratoria que permite orientar la vista sin mover la sonda manualmente.",
+        "Grabación de video y captura de imágenes en tiempo real.",
+        "Tubo flexible largo para acceder a espacios estrechos en motores, cajas y componentes."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Uso independiente sin necesidad de scanner o dispositivo externo.",
+        "Ideal para inspecciones en motor, transmisión, sistemas HVAC, frenado y zonas difíciles de alcanzar."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Pantalla: integrado (aprox 2.7\" o similar).",
+        "Rotación de cámara: hasta 360° (manual/eléctrica según versión).",
+        "Resolución de cámara: HD 1280 × 720 (estimado, conforme línea VSP).",
+        "Longitud de sonda: ~1000 mm.",
+        "Protección de cámara: IP67.",
+        "Iluminación: LED con intensidad ajustable.",
+        "Alimentación: baterías AA o recargables (según kit)."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Las especificaciones aquí listadas están inferidas en base a modelos similares de VideoScope de la línea VSP.",
+        "La función rotativa de cámara puede variar según versión o lote de producto.",
+        "Recomendamos consultar el manual del equipo o ficha técnica oficial de LAUNCH para detalles específicos."
+      ]
+    }
+  ]
+}

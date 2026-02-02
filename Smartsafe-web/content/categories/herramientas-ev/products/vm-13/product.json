@@ -1,0 +1,101 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "vm-13",
+  "title": "VM-13 – Monitor inalámbrico de voltaje",
+  "shortDescription": "Monitor inalámbrico de voltaje DC de alta precisión para mediciones multipunto en vehículos eléctricos e híbridos.",
+  "badge": "Equipo EV profesional",
+  "order": 1,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "medicion-voltaje",
+    "aplicacion": "diagnostico-ev",
+    "nivel-de-tension": "hasta-1000v"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Medición de voltaje DC de 0 a 1000 V",
+        "Conexión inalámbrica multipunto (hasta 48 canales)",
+        "Visualización de curvas de voltaje en tiempo real",
+        "Pantalla digital integrada de 6 dígitos",
+        "Diseño compacto con fijación magnética"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Diagnóstico de sistemas de alto voltaje en vehículos eléctricos",
+        "Verificación de líneas de pre-carga y alto voltaje",
+        "Análisis de caídas de tensión en baterías EV",
+        "Monitoreo simultáneo de múltiples nodos eléctricos",
+        "Soporte en diagnóstico de PDU, MCU y sistemas de potencia"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Medición de voltaje DC con alta precisión",
+        "Red inalámbrica para monitoreo multicanal",
+        "Visualización de curvas de cambio de voltaje",
+        "Búsqueda y localización del dispositivo mediante buzzer",
+        "Alarmas de batería baja y estado de comunicación"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Rango de medición: DC 0~1000 V",
+        "Precisión de medición: 0.5% FS",
+        "Resolución: 10 mV",
+        "Método de visualización: Display digital de 6 dígitos",
+        "Comunicación: Wi-Fi / Bluetooth",
+        "Batería: 3000 mAh / 3.7 V",
+        "Puerto de carga: USB Type-C",
+        "Temperatura de trabajo: 0 °C ~ 45 °C",
+        "Temperatura de almacenamiento: -10 °C ~ 60 °C",
+        "Dimensiones: 78 × 100 × 31 mm"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñado para aplicaciones de alto voltaje DC",
+        "Uso profesional en diagnóstico EV",
+        "Compatible con herramientas de detección SmartSafe"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Puede utilizarse de forma independiente o en red con equipos de diagnóstico compatibles",
+        "Soporta hasta 48 dispositivos conectados simultáneamente",
+        "Incluye fijación magnética para montaje sobre superficies metálicas",
+        "La conexión inalámbrica requiere configuración inicial mediante app"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "VM-13 Monitor inalámbrico de voltaje para vehículos eléctricos",
+    "description": "Monitor de voltaje DC inalámbrico de hasta 1000 V para diagnóstico multipunto en vehículos eléctricos e híbridos."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Consultar",
+    "url": ""
+  }
+}

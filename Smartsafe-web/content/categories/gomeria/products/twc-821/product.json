@@ -1,0 +1,89 @@
+{
+  "categorySlug": "gomeria",
+  "slug": "twc-821",
+  "title": "LAUNCH TWC-821 – Desenllantadora para camiones",
+  "shortDescription": "Desenllantadora profesional para camiones y vehículos pesados, con diseño innovador que ahorra espacio, sistema de doble rodillo y operación eficiente para llantas de gran tamaño.",
+  "badge": "Equipo pesado",
+  "order": 4,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH TWC-821 Desenllantadora para camiones",
+    "description": "Desenllantadora LAUNCH TWC-821 para camiones y vehículos pesados, con doble rodillo, diseño sin puntos muertos y alta eficiencia operativa."
+  },
+  "filters": {
+    "tipo-de-equipo": "desenllantadora",
+    "tipo-de-vehiculo": "camion"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Ventajas principales",
+      "items": [
+        "Desenllantadora diseñada específicamente para camiones y vehículos pesados",
+        "Diseño innovador que reduce el espacio ocupado",
+        "Sistema avanzado sin puntos muertos durante toda la operación",
+        "Estructura soldada sin costuras para mayor durabilidad",
+        "Diseño de doble rodillo que mejora la eficiencia de trabajo",
+        "Reducción de vibraciones y ruido durante la operación",
+        "Cabezal de trabajo ajustable para diferentes tipos de llantas",
+        "Escalera de tres puntos para montaje y desmontaje seguro de distintos rines"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Gomerías de camiones",
+        "Talleres de vehículos pesados",
+        "Flotas de transporte",
+        "Centros de servicio para ómnibus y camiones"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Montaje y desmontaje de neumáticos de camión",
+        "Operación mediante sistema de doble rodillo",
+        "Ajuste del cabezal según el tipo de llanta",
+        "Trabajo continuo sin puntos muertos"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Diámetro máximo de rueda: 1300 mm",
+        "Rango de sujeción exterior: 8.5” – 9” / 11” – 11.5”",
+        "Ancho máximo de rueda: 2160 mm",
+        "Velocidad de rotación: 7 rpm",
+        "Presión de trabajo: 5 – 6 MPa",
+        "Alimentación eléctrica: 380 V",
+        "Peso bruto / neto: 555 kg / 455 kg",
+        "Dimensiones del embalaje: 1300 × 1300 × 1700 mm"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo orientado exclusivamente a vehículos pesados",
+        "No apta para automóviles",
+        "Diseño enfocado en eficiencia, robustez y reducción de fallas",
+        "Ideal para trabajo intensivo en camiones y ómnibus"
+      ]
+    }
+  ],
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLATWC-821"
+  }
+}

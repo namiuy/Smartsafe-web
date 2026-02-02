@@ -1,0 +1,66 @@
+{
+  "categorySlug": "accesorios",
+  "slug": "vsp-808",
+  "title": "LAUNCH VSP-808",
+  "shortDescription": "VideoScope autónomo con monitor integrado para inspección profesional de zonas inaccesibles, graba y captura imágenes, con tubo flexible de hasta 1 m y nivel de protección IP67.",
+  "badge": "VideoScope",
+  "order": 4,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH VSP-808 – VideoScope profesional con pantalla",
+    "description": "VideoScope LAUNCH VSP-808: cámara IP67 con tubo flexible de 1 m, pantalla integrada, grabación de video y captura de imágenes para diagnósticos visuales rápidos y detallados."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SVSP-808"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "VideoScope autónomo con pantalla integrada para inspección profesional de zonas de difícil acceso.",
+        "Graba video y captura imágenes en tiempo real para documentación de inspecciones.",
+        "Tubo flexible de hasta 1000 mm con cámara IP67 y LED con intensidad ajustable.",
+        "Pantalla integrada para visualización sin necesidad de dispositivos externos."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Uso independiente sin necesidad de scanner o dispositivo externo.",
+        "Ideal para inspecciones en motor, transmisión, frenos, carrocería y espacios confinados."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Diagonal de pantalla: 2.7\" TFT.",
+        "Resolución pantalla: 320 × 240.",
+        "Longitud del tubo: 1000 mm.",
+        "Diámetro de cámara: 5.5 mm.",
+        "Resolución de la cámara: 1280 × 720.",
+        "Iluminación LED regulable.",
+        "Protección: IP67 en cabezal de cámara.",
+        "Alimentación: 4 × 1.5 V (baterías AA)."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "La capacidad de grabación o captura puede depender de la configuración de almacenamiento.",
+        "Siempre limpiar la sonda de la cámara después de cada uso para mantener claridad de imagen."
+      ]
+    }
+  ]
+}

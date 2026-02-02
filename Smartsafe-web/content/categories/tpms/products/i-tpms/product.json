@@ -1,0 +1,94 @@
+{
+  "categorySlug": "tpms",
+  "slug": "itpms",
+  "title": "LAUNCH i-TPMS",
+  "shortDescription": "Dispositivo TPMS portátil que complementa equipos de diagnosis LAUNCH, permitiendo leer, copiar, escribir, activar y combinar IDs de sensores TPMS mediante conexión Bluetooth.",
+  "badge": "TPMS",
+  "order": 2,
+  "isFeatured": true,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH i-TPMS – Dispositivo TPMS X-431",
+    "description": "i-TPMS de LAUNCH: lectura, copia, escritura, activación y combinación de ID TPMS. Compatible con equipos de diagnosis LAUNCH y sensores OEM 315/433 MHz."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLAITPMS"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Dispositivo TPMS portátil que complementa equipos de diagnosis LAUNCH.",
+        "Lee, copia, escribe, activa y combina la ID de sensores TPMS.",
+        "Compatible con aproximadamente el 98% de los sensores OEM.",
+        "Soporta frecuencias 315 MHz y 433 MHz.",
+        "Programación ilimitada de sensores LAUNCH para reemplazo de sensores originales.",
+        "Conectividad Bluetooth para uso con equipos LAUNCH y aplicación móvil."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Talleres que ya cuentan con equipos de diagnosis LAUNCH y requieren servicio TPMS.",
+        "Lectura rápida de datos TPMS: presión, temperatura y estado de batería del sensor.",
+        "Asistencia en reemplazo y reaprendizaje de sensores TPMS."
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Lectura de datos del sensor: ID, presión de neumáticos, temperatura y estado de batería.",
+        "Activación y combinación de sensores TPMS en 315/433 MHz.",
+        "Lectura, copia y escritura de ID TPMS.",
+        "Programación ilimitada de sensores LAUNCH.",
+        "Lectura y borrado de códigos de error del sistema TPMS.",
+        "Funcionamiento mediante conexión Bluetooth con equipos y app compatibles."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con la mayoría de equipos de diagnosis LAUNCH.",
+        "Compatible con PRO1, EURODIAG y PAD V / PAD VII.",
+        "Compatible con aplicación móvil i-TPMS para dispositivos inteligentes.",
+        "Sensores OEM TPMS en 315 MHz y 433 MHz."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Pantalla: 1.77\" (168 × 128)",
+        "Batería: 3000 mAh",
+        "Voltaje de carga: DC 5 V",
+        "Amperaje de trabajo: 1 A",
+        "Temperatura de trabajo: −10 °C a 50 °C",
+        "Dimensiones: 252 × 54 × 30 mm",
+        "Peso: < 350 g",
+        "Conectividad: Bluetooth"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "La cobertura y funciones pueden variar según versión, mercado y base de datos del equipo de diagnosis utilizado.",
+        "La programación ilimitada aplica a sensores TPMS LAUNCH.",
+        "Las actualizaciones indicadas por el fabricante pueden estar sujetas a promociones temporales."
+      ]
+    }
+  ]
+}

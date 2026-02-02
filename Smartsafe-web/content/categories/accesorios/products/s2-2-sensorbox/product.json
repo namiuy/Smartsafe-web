@@ -1,0 +1,72 @@
+{
+  "categorySlug": "accesorios",
+  "slug": "s2-2-sensorbox",
+  "title": "LAUNCH S2-2 SensorBox",
+  "shortDescription": "Módulo profesional para prueba y simulación de sensores automotrices, diseñado para diagnosticar ECUs y sistemas sin reemplazar componentes.",
+  "badge": "SensorBox",
+  "order": 8,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH S2-2 SensorBox – Simulador y tester de sensores",
+    "description": "SensorBox LAUNCH S2-2 para prueba y simulación de sensores automotrices. Permite verificar ECUs, simular señales y medir parámetros eléctricos junto a scanners X-431."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLAX431SENBOX"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Diseñado para probar y simular la mayoría de los sensores automotrices sin necesidad de reemplazar piezas.",
+        "Permite verificar si la ECU funciona correctamente mediante simulación de señales reales.",
+        "Soporta simulación de condiciones de trabajo de sensores y actuadores.",
+        "Puede utilizarse como multímetro para mediciones eléctricas avanzadas.",
+        "Interfaz intuitiva integrada con scanners LAUNCH X-431."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con scanners LAUNCH X-431 PAD VII, PAD V y PAD III.",
+        "Uso conjunto con scanners para diagnóstico guiado de sensores y actuadores.",
+        "Aplicable a una amplia gama de sensores automotrices inductivos y de efecto Hall."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Número de canales: 2.",
+        "Rango de simulación de voltaje: 0–20 V.",
+        "Corriente máxima de salida: 20 mA.",
+        "Frecuencia de pulso de onda cuadrada: 0–15 kHz.",
+        "Ciclo de trabajo de onda cuadrada: 0–100%.",
+        "Simulación DCV: soportada.",
+        "Simulación de frecuencia: soportada.",
+        "Funciones de multímetro: medición de resistencia, voltaje AC/DC, capacitancia, frecuencia y señales de pulso.",
+        "Temperatura de operación: 0 °C a 50 °C.",
+        "Temperatura de almacenamiento: −30 °C a 70 °C.",
+        "Certificaciones: CE, FCC, RoHS."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "El equipo está orientado a diagnóstico avanzado y requiere conocimientos básicos de electrónica automotriz.",
+        "Las funciones de simulación y medición se gestionan desde el menú del scanner compatible.",
+        "Ideal para reducir tiempos de diagnóstico y evitar reemplazos innecesarios de sensores."
+      ]
+    }
+  ]
+}

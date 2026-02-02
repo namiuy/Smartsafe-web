@@ -1,0 +1,66 @@
+{
+  "categorySlug": "accesorios",
+  "slug": "vsp-800",
+  "title": "LAUNCH VSP-800",
+  "shortDescription": "VideoScope autónomo con pantalla integrada para inspección en zonas inaccesibles del vehículo: visualiza en tiempo real, graba y guarda fotos y videos sin desarmar componentes.",
+  "badge": "VideoScope",
+  "order": 2,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH VSP-800 – VideoScope autónomo con pantalla",
+    "description": "VideoScope LAUNCH VSP-800: pantalla 2.7\" TFT, cámara IP67 con LED regulable, resolución 1280×720 y sonda de 1.000 mm para inspección rápida de motor, caja, válvulas y más."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SVSP-800"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "VideoScope autónomo con pantalla integrada para inspección rápida y cómoda.",
+        "Visualiza en tiempo real, graba y guarda imágenes y videos.",
+        "Cabezal de cámara IP67 con iluminación LED de intensidad ajustable.",
+        "Sonda delgada para acceder a la mayoría de zonas internas sin desmontajes extensos.",
+        "Ideal para inspección previa y posterior (before/after) para documentar el trabajo."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Uso independiente (no requiere scanner para operar).",
+        "Aplicaciones típicas: motor, caja/engranajes, compresores, colectores, válvulas y componentes de carrocería."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Diámetro de lente (LEN O.D.): 5.5 mm",
+        "Pantalla: 2.7\" TFT",
+        "Longitud del tubo: 1000 mm",
+        "Resolución: 1280 × 720",
+        "Temperatura de operación: −20 °C a 60 °C",
+        "Alimentación: 4 × 1.5 V (baterías AA)",
+        "Memoria (ROM): 8 MB"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "El nivel de estanqueidad IP67 corresponde al cabezal de cámara.",
+        "La capacidad de almacenamiento puede depender del modo de guardado/configuración del equipo."
+      ]
+    }
+  ]
+}

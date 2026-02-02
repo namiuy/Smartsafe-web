@@ -1,0 +1,98 @@
+{
+  "categorySlug": "aire-acondicionado",
+  "slug": "airnex-9350",
+  "title": "Brain Bee AIR-NEX 9350 – Estación de Servicio A/C con Test UV (R134a)",
+  "shortDescription": "Estación A/C automática de nivel intermedio–avanzado para sistemas automotrices con refrigerante R134a, equipada con inyección de tinte UV, tanque de 20 L y sistema Oil Care. Ofrece conectividad Wi-Fi y Bluetooth, pantalla táctil de 7”, Nexus-Print y posibilidad de integración con herramientas de diagnóstico Brain Bee.",
+  "badge": "R134a",
+  "order": 4,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "Brain Bee AIR-NEX 9350 – Máquina de aire acondicionado automotriz con UV (R134a)",
+    "description": "Estación A/C automática R134a con tanque de 20 L, inyección UV, Oil Care System, pantalla táctil 7”, Wi-Fi y Nexus-Print. Convertible a R1234yf mediante kit."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SBBAIR-NEX9350"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Estación A/C automática para sistemas automotrices con R134a.",
+        "Inyección de tinte UV integrada para detección de fugas.",
+        "Pantalla táctil color de 7” de alta visibilidad.",
+        "Sistema One-Touch liftdoor para acceso rápido a componentes internos.",
+        "Tanque de refrigerante de 20 L para mayor autonomía de trabajo.",
+        "Oil Care System que protege el aceite contra la humedad.",
+        "Conectividad Wi-Fi y Bluetooth integrada.",
+        "Nexus-Print y exportación de reportes en PDF vía USB.",
+        "Fabricada por MAHLE – Brain Bee."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento completo de sistemas de aire acondicionado automotriz con R134a.",
+        "Detección de fugas mediante inyección de tinte UV.",
+        "Recuperación, reciclado, vacío y recarga automática de refrigerante.",
+        "Servicio profesional en talleres que requieren mayor capacidad y funciones avanzadas.",
+        "Integración con herramientas de diagnóstico Brain Bee para análisis del sistema A/C."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tipo de refrigerante: R134a.",
+        "Equipo R1234yf READY: convertible mediante kit específico.",
+        "Capacidad del tanque de refrigerante: 20 L.",
+        "Pantalla: Touchscreen color de 7”.",
+        "Conectividad: Wi-Fi y Bluetooth.",
+        "Sistema One-Touch liftdoor.",
+        "Inyección automática de tinte UV: integrada.",
+        "Oil Care System: integrado.",
+        "Purga automática de gases no condensables.",
+        "Flushing: disponible mediante kit opcional.",
+        "Función para vehículos híbridos: disponible mediante kit opcional.",
+        "Test de fugas N-Leak: disponible mediante kit opcional.",
+        "Conexión a escáner Brain Bee: disponible mediante kit opcional.",
+        "Impresora térmica: opcional.",
+        "Identificador de gas IDX500: opcional.",
+        "Dimensiones (An x Prof x Al): 700 x 750 x 1100 mm.",
+        "Peso en vacío: aprox. 85 kg."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de uso",
+      "items": [
+        "Operar en áreas bien ventiladas.",
+        "Uso exclusivo por personal capacitado en A/C automotriz.",
+        "Verificar tipo y pureza del refrigerante antes de cada servicio.",
+        "Conectar correctamente las mangueras de alta y baja presión.",
+        "Utilizar únicamente refrigerante R134a puro, salvo conversión oficial del equipo.",
+        "Usar elementos de protección personal durante la operación."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "La conversión a R1234yf requiere kit específico y software dedicado del fabricante.",
+        "Funciones como flushing, híbridos, N-Leak y conexión a escáner requieren kits opcionales.",
+        "La impresora térmica es opcional; los reportes pueden exportarse en PDF vía USB.",
+        "Las especificaciones pueden variar según versión o mercado."
+      ]
+    }
+  ]
+}

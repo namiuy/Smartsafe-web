@@ -1,0 +1,122 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "dp-750",
+  "title": "DP-750 – Fuente de alimentación regulable para vehículos eléctricos",
+  "shortDescription": "Fuente de alimentación digital regulable de alto y bajo voltaje, diseñada para pruebas, mantenimiento y diagnóstico offline de componentes eléctricos en vehículos eléctricos e híbridos.",
+  "badge": "Equipo EV profesional",
+  "order": 10,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "fuente-de-alimentacion",
+    "aplicacion": "pruebas-y-mantenimiento-ev",
+    "nivel-de-tension": "hasta-750v"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Fuente de alimentación digital regulable para aplicaciones EV",
+        "Salida dual independiente de alto y bajo voltaje",
+        "Rango de salida de alto voltaje hasta 750 V",
+        "Control manual local y control remoto por Bluetooth",
+        "Múltiples protecciones eléctricas integradas",
+        "Diseñada para mantenimiento de vehículos eléctricos y convencionales"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Pruebas offline de componentes de alto voltaje en vehículos eléctricos",
+        "Alimentación de ECUs y módulos electrónicos",
+        "Ensayo de compresores eléctricos de aire acondicionado",
+        "Pruebas de bombas eléctricas de dirección y sistemas auxiliares",
+        "Soporte técnico en talleres EV y centros de servicio",
+        "Mantenimiento eléctrico sin conexión al vehículo"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Salida de bajo voltaje DC seleccionable de 12 V o 24 V",
+        "Salida de alto voltaje DC regulable de 250 a 750 V",
+        "Ajuste independiente de voltaje y corriente en salida HV",
+        "Protección por sobrevoltaje, subtensión, sobrecorriente y cortocircuito",
+        "Protección por sobretemperatura en entrada y salidas",
+        "Diseño con aislamiento independiente entre HV y LV",
+        "Control remoto mediante Bluetooth desde equipos compatibles",
+        "Indicaciones visuales y acústicas durante la salida de alto voltaje"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación de entrada: AC 100–240 V @16 A",
+        "Potencia máxima: 3200 W",
+        "Salida de alto voltaje (HV):",
+        "  - Rango de voltaje: 250 ~ 750 V",
+        "  - Rango de corriente: 0 ~ 5 A",
+        "  - Resolución de voltaje: 0.1 V",
+        "  - Resolución de corriente: 0.1 A",
+        "Salida de bajo voltaje (LV):",
+        "  - Voltaje de salida: 12 V / 24 V",
+        "  - Corriente máxima: 1 A",
+        "Protecciones:",
+        "  - Sobrecorriente",
+        "  - Cortocircuito",
+        "  - Sobrevoltaje y subtensión",
+        "  - Sobretemperatura",
+        "Aislamiento eléctrico:",
+        "  - Entrada–salida: ≥ 10 MΩ (DC 500 V)",
+        "  - Entrada–tierra: ≥ 10 MΩ (DC 500 V)",
+        "  - Salida–tierra: ≥ 10 MΩ (DC 500 V)",
+        "Comunicación: Bluetooth",
+        "Pantalla: Display digital LED",
+        "Temperatura de trabajo: −10 °C ~ 65 °C",
+        "Temperatura de almacenamiento: −40 °C ~ 70 °C",
+        "Dimensiones: 315 × 223 × 191 mm",
+        "Peso: 4.85 kg"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñada para uso profesional en mantenimiento automotriz",
+        "Cumple normas de seguridad eléctrica industrial",
+        "Protecciones internas para trabajo seguro en alto voltaje"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Las salidas de voltaje y corriente no pueden ajustarse durante la operación activa",
+        "La salida de alto voltaje emite señal sonora como advertencia de seguridad",
+        "Requiere procedimientos y EPP adecuados para trabajos EV",
+        "Compatible con control remoto desde equipos SmartSafe como P01 y P03",
+        "Uso recomendado exclusivamente por personal técnico capacitado"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "DP-750 Fuente de alimentación regulable para vehículos eléctricos",
+    "description": "Fuente de alimentación digital regulable de hasta 750 V para pruebas y mantenimiento de componentes eléctricos en vehículos eléctricos e híbridos."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "aire-acondicionado",
+  "title": "Aire Acondicionado",
+  "shortDescription": "Máquinas profesionales para recuperación, reciclado y carga de sistemas de aire acondicionado automotriz.",
+  "order": 6,
+  "logo": "/images/products/aire-acondicionado/logo/logo.svg",
+  "isActive": true,
+  "template": "equipment",
+  "defaultSections": [
+    "highlights",
+    "applications",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "filters": [
+    "tipo-de-gas",
+    "nivel-de-automatizacion",
+    "aplicacion"
+  ],
+  "tags": [
+    "aire-acondicionado",
+    "ac",
+    "r134a",
+    "r1234yf",
+    "carga-ac",
+    "recuperacion"
+  ],
+  "seo": {
+    "title": "Máquinas de aire acondicionado automotriz",
+    "description": "Equipos profesionales para recuperación, reciclado y carga de aire acondicionado automotriz con gases R134a y R1234yf."
+  },
+  "featuredHeroProductSlug": "ac-519",
+  "categoryBanner": {
+    "mode": "auto-from-products",
+    "imageIndex": 1,
+    "limit": 12
+  }
+}

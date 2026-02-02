@@ -1,0 +1,42 @@
+{
+  "slug": "adas",
+  "title": "ADAS",
+  "shortDescription": "Soluciones profesionales para calibración de sistemas ADAS, incluyendo cámaras, radares y sensores avanzados de asistencia a la conducción.",
+  "order": 4,
+  "logo": "/images/products/adas/logo/logo.svg",
+  "isActive": true,
+  "template": "advanced-equipment",
+  "defaultSections": [
+    "highlights",
+    "applications",
+    "compatibility",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "filters": [
+    "tipo-de-calibracion",
+    "sensor",
+    "marca-vehiculo",
+    "aplicacion"
+  ],
+  "tags": [
+    "adas",
+    "calibracion",
+    "camaras",
+    "radares",
+    "seguridad",
+    "asistencia-conduccion"
+  ],
+  "seo": {
+    "title": "Equipos ADAS para calibración automotriz",
+    "description": "Equipos profesionales para calibración ADAS: cámaras, radares y sistemas de asistencia a la conducción según estándares OEM."
+  },
+  "featuredHeroProductSlug": "adas-pro-plus-v2",
+  "categoryBanner": {
+    "mode": "auto-from-products",
+    "imageIndex": 1,
+    "limit": 12
+  }
+}

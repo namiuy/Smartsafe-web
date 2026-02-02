@@ -1,0 +1,76 @@
+{
+  "categorySlug": "tpms",
+  "slug": "ltr03",
+  "title": "Sensor LAUNCH LTR-03",
+  "shortDescription": "Sensor TPMS programable universal con doble frecuencia (315/433 MHz), disponible con válvula en aluminio o goma y amplia compatibilidad vehicular.",
+  "badge": "TPMS Sensor",
+  "order": 5,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "Sensor TPMS LAUNCH LTR-03 – Programable y Dual Frecuencia",
+    "description": "Sensor LAUNCH LTR-03 para sistemas TPMS, programable en 315/433 MHz con cobertura ~99% de vehículos, disponible en válvula de aluminio o goma."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLA341180201"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "variants",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Sensor TPMS universal programable de LAUNCH con doble frecuencia 315 MHz / 433 MHz.",
+        "Alta compatibilidad vehicular (~98–99%) con sensores OEM y universales. :contentReference[oaicite:4]{index=4}",
+        "Programación ilimitada con herramientas TPMS compatibles (p. ej. i-TPMS, CRT511S V2).",
+        "Disponible con válvula interna de aluminio o con vástago de goma.",
+        "Diseño optimizado para transmisión de señal y precisión de lectura."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Reemplazo de sensores TPMS originales en ruedas de autos y SUV.",
+        "Programación y reaprendizaje de sensores TPMS en talleres mecánicos y gomerías.",
+        "Compatibilidad con herramientas de programación universales TPMS."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Frecuencia operativa: 315 MHz y 433 MHz. :contentReference[oaicite:5]{index=5}",
+        "Programación: ilimitada con herramienta compatible. :contentReference[oaicite:6]{index=6}",
+        "Cobertura de vehículos: ~98–99% (según base de datos del sensor). :contentReference[oaicite:7]{index=7}",
+        "Precisión de presión: alta (chip automotriz de precisión). :contentReference[oaicite:8]{index=8}",
+        "Batería integrada de larga duración.",
+        "Instalación con válvula metálica o goma (según versión)."
+      ]
+    },
+    {
+      "type": "variants",
+      "title": "Versiones / Variantes",
+      "items": [
+        "LTR-03 con válvula de aluminio (mayor durabilidad y acabado). :contentReference[oaicite:9]{index=9}",
+        "LTR-03 con válvula de goma (flexible y económico). :contentReference[oaicite:10]{index=10}"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "La compatibilidad y cobertura dependen del vehículo y la base de datos de la herramienta TPMS.",
+        "Requiere programación/reaprendizaje con herramientas compatibles para activar funcionalidad completa.",
+        "El sensor puede requerir accesorios (tuercas/valvulina) según montaje."
+      ]
+    }
+  ]
+}

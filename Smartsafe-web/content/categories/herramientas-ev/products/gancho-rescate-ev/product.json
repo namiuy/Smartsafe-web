@@ -1,0 +1,55 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "gancho-rescate-ev",
+  "title": "Gancho de rescate aislado para trabajos en alto voltaje",
+  "shortDescription": "Gancho de rescate aislado diseñado para operaciones de emergencia en trabajos con sistemas de alto voltaje en vehículos eléctricos e híbridos.",
+  "badge": "Seguridad EV",
+  "order": 2,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "herramienta-de-seguridad",
+    "aplicacion": "rescate-y-emergencias-ev",
+    "nivel-de-tension": "hasta-1000v"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Herramienta de rescate para trabajos EV",
+        "Material aislante para alto voltaje",
+        "Diseñado para situaciones de emergencia",
+        "Elemento obligatorio en talleres EV",
+        "Uso simple y rápido"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Rescate de operarios en contacto con sistemas energizados",
+        "Emergencias en trabajos de alto voltaje",
+        "Seguridad en talleres de vehículos eléctricos"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Uso exclusivo para situaciones de emergencia",
+        "Diseñado para trabajos hasta 1000 V",
+        "Debe estar siempre accesible en áreas EV"
+      ]
+    }
+  ],
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SSMEHOOK"
+  }
+}

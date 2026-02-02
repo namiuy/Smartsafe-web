@@ -1,0 +1,76 @@
+{
+  "categorySlug": "accesorios",
+  "slug": "bst-860",
+  "title": "LAUNCH BST-860",
+  "shortDescription": "Probador de batería inteligente de 12 V con impresora integrada para diagnóstico inmediato del estado de la batería, sistema de arranque y sistema de carga.",
+  "badge": "Probador de batería",
+  "order": 12,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH BST-860 – Probador de baterías automotrices con impresora",
+    "description": "Probador de baterías LAUNCH BST-860 con impresora térmica integrada para diagnóstico de baterías de 12 V, pruebas de arranque y carga con informe impreso."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLABST-860"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "functions",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Probador de batería automotriz con diagnóstico rápido y reporte impreso.",
+        "Impresora térmica integrada para entregar informes de prueba en el taller.",
+        "Indica estado de batería, sistema de arranque y sistema de carga.",
+        "Resultados claros y comprensibles para técnicos y clientes."
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones principales",
+      "items": [
+        "Prueba del estado general de la batería.",
+        "Prueba del sistema de arranque.",
+        "Prueba del sistema de carga (alternador).",
+        "Informe de diagnóstico impreso al instante."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Diseñado para baterías automotrices de 12 V.",
+        "Compatible con baterías de plomo-ácido y similares.",
+        "Conveniente para talleres que entregan reporte al cliente."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Rango de voltaje: 12 V.",
+        "Tipo de batería: plomo-ácido / mantenimiento.",
+        "Pantalla integrada para resultados.",
+        "Impresora térmica integrada.",
+        "Pruebas de arranque y carga."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Diseñado para uso profesional en taller.",
+        "Las funciones pueden variar según estado de la batería y conexiones.",
+        "Ideal para entrega de informes de diagnóstico al cliente."
+      ]
+    }
+  ]
+}

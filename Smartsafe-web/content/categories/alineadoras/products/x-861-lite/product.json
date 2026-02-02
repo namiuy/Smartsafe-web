@@ -1,0 +1,112 @@
+{
+  "categorySlug": "alineadoras",
+  "slug": "x-861-lite",
+  "title": "LAUNCH X-861 Lite – Alineadora 3D Estacionaria",
+  "shortDescription": "Alineadora 3D estacionaria con ajuste manual de altura del beam, basada en visión computarizada y cámaras industriales de alta definición. Solución confiable y costo-efectiva para alineación profesional en talleres.",
+  "badge": "3D • Estacionaria",
+  "order": 3,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH X-861 Lite – Alineadora 3D estacionaria",
+    "description": "Alineadora 3D Launch X-861 Lite (WA861 Lite) con ajuste manual de altura, cámaras HD y base de datos de más de 50.000 vehículos. Ideal para talleres que buscan precisión y simplicidad."
+  },
+  "purchaseUrl": null,
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "compatibility",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Sistema 3D estacionario con ajuste manual de altura del beam.",
+        "Cámaras industriales de alta definición.",
+        "Targets pasivos sin electrónica: mayor durabilidad y menor mantenimiento.",
+        "Compensación por rodado de 10–15 cm.",
+        "Diseño clásico y costo-efectivo para talleres.",
+        "Base de datos ampliada con más de 50.000 modelos de vehículos."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Alineación delantera y trasera en autos.",
+        "Servicios de neumáticos, suspensión y dirección.",
+        "Diagnóstico de desgaste irregular, tironeo y volante descentrado.",
+        "Uso diario en talleres con un puesto fijo de alineación."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con elevadores de 4 columnas.",
+        "Compatible con tijeras grandes.",
+        "Compatible con fosas (trench).",
+        "Configuración fija de puesto (no móvil)."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Superficie estable y nivelada.",
+        "Ajuste manual de altura según el elevador utilizado.",
+        "Evitar luz infrarroja directa sobre los targets.",
+        "Ambiente recomendado: 0–50 °C, humedad relativa ≤ 85%.",
+        "Diferencia de altura del elevador frente/fondo < 2 mm."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tecnología: alineación 3D por cámaras + targets pasivos.",
+        "Resolución de cámara: industrial HD.",
+        "Rango Toe: ±20° (precisión ±2').",
+        "Rango Camber: ±20° (precisión ±2').",
+        "Rango Caster: ±20° (precisión ±4').",
+        "SAI / Kingpin: ±6'.",
+        "Thrust Angle: ±2'.",
+        "Wheel Track / Wheelbase: ±2 mm.",
+        "Diámetro de llanta soportado: 10\"–23\".",
+        "Alimentación: 1PH AC220V ±10% 50Hz / AC110V ±10% 60Hz."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Columna fija con ajuste manual de altura.",
+        "Beam con cámaras 3D.",
+        "Targets x4 con clamps x4.",
+        "Platos giratorios (turntables) x2.",
+        "Traba de volante.",
+        "Traba de pedal de freno.",
+        "Cables de alimentación y comunicación."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "X-861 Lite y WA861 Lite corresponden al mismo equipo.",
+        "No cuenta con seguimiento automático del beam.",
+        "Las cámaras vienen calibradas de fábrica y no requieren calibración en sitio.",
+        "Ideal para talleres que priorizan simplicidad y costo contenido."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Consultar disponibilidad",
+    "url": ""
+  }
+}

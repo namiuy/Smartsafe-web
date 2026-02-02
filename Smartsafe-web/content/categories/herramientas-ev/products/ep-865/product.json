@@ -1,0 +1,119 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "ep-865",
+  "title": "EP-865 – Equipo de carga y descarga de packs de baterías para vehículos eléctricos",
+  "shortDescription": "Equipo profesional para carga y descarga de packs completos de baterías de vehículos eléctricos, con soporte para modos B2B y B2V, lectura avanzada de BMS y compatibilidad con protocolos de carga rápida.",
+  "badge": "Equipo EV profesional",
+  "order": 15,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "carga-y-descarga-de-packs",
+    "aplicacion": "mantenimiento-y-pruebas-de-baterias-ev",
+    "nivel-de-tension": "pack-de-bateria"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Carga y descarga de packs completos de baterías EV",
+        "Soporte de modos energéticamente eficientes B2B (batería a batería) y B2V (batería a vehículo)",
+        "Conexión directa mediante pistola de carga rápida",
+        "Compatibilidad con más de 4500 protocolos BMS",
+        "Lectura avanzada de SOC, SOH, voltaje, corriente, temperatura y estado de celdas",
+        "Registro completo de procesos y actualización OTA"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento integral de packs de baterías EV",
+        "Pruebas de capacidad y ciclos completos de carga/descarga",
+        "Diagnóstico y evaluación de salud de baterías (SOC/SOH)",
+        "Soporte en talleres EV, fábricas de packs y centros de reparación",
+        "Escenarios de mantenimiento, inspección y recarga de emergencia"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Carga y descarga de packs completos en modo corriente constante",
+        "Pruebas de capacidad y evaluación SOC/SOH",
+        "Transferencia de energía B2B para reutilización sin desperdicio",
+        "Alimentación directa del vehículo en modo B2V",
+        "Conexión directa mediante pistola de carga rápida",
+        "Lectura y adquisición de datos BMS: SOC, voltaje, corriente, temperatura y estado de celdas",
+        "Visualización gráfica en tiempo real de curvas de voltaje y corriente",
+        "Registro completo de datos del proceso y exportación",
+        "Actualización remota de software y firmware (OTA)",
+        "Amplias protecciones de seguridad por software y hardware"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Voltaje de carga: 150 ~ 1000 V",
+        "Voltaje de descarga: 200 ~ 865 V",
+        "Precisión de medición de voltaje: ±0.5% F.S",
+        "Precisión de medición de corriente: ±1% F.S",
+        "Corriente máxima de carga y descarga: 100 A",
+        "Potencia máxima de carga y descarga: 30 kW",
+        "Alimentación de entrada: AC 220 V / 380 V, 50 / 60 Hz",
+        "Pantalla: Táctil de 10 pulgadas (1280 × 800)",
+        "Almacenamiento interno: 32 GB",
+        "Comunicaciones de datos: CAN, RS485, Wi-Fi, Bluetooth",
+        "Refrigeración: Ventilación forzada",
+        "Protecciones de seguridad:",
+        "  - Inversión de polaridad",
+        "  - Advertencia por alta temperatura",
+        "  - Cortocircuito",
+        "  - Fuga eléctrica",
+        "  - Pérdida de fase",
+        "  - Sobrevoltaje y subtensión",
+        "  - Sobrecorriente",
+        "  - Sobretemperatura",
+        "  - Protección por inclinación"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñado para uso profesional en sistemas de baterías EV",
+        "Compatible con protocolos de carga rápida GB/T 27930 e ISO 15118",
+        "Protecciones completas para operación segura en alto voltaje"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo orientado a mantenimiento y pruebas de packs completos",
+        "Soporta conexión directa mediante pistola de carga rápida",
+        "Compatible con una amplia variedad de marcas y modelos EV",
+        "Requiere personal técnico capacitado en sistemas de alto voltaje",
+        "Ideal para talleres EV avanzados, fábricas de packs y centros técnicos"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "EP-865 Equipo de carga y descarga de packs de baterías EV",
+    "description": "Equipo profesional para carga y descarga de packs completos de baterías de vehículos eléctricos, con modos B2B/B2V, lectura BMS y soporte de protocolos de carga rápida."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  }
+}

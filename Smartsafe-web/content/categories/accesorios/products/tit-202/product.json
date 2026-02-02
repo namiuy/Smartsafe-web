@@ -1,0 +1,67 @@
+{
+  "categorySlug": "accesorios",
+  "slug": "tit-202",
+  "title": "LAUNCH TIT-202",
+  "shortDescription": "Cámara de imagen térmica profesional para diagnóstico automotriz, que convierte radiación infrarroja en imágenes claras y permite detectar anomalías por temperatura.",
+  "badge": "Cámara Térmica",
+  "order": 6,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH TIT-202 – Cámara de Imagen Térmica Automotriz",
+    "description": "Cámara térmica automotriz LAUNCH TIT-202 con tecnología infrarroja avanzada, captura de imágenes a color y medición de temperatura de −20 °C a 450 °C."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLATIT-202"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Cámara de imagen térmica automotriz profesional con tecnología infrarroja avanzada para visualizar diferencias de temperatura.",
+        "Convierte radiación infrarroja en imágenes a color, ayudando a detectar fallas difíciles de ver con diagnósticos tradicionales.",
+        "Permite capturar, almacenar y revisar imágenes térmicas para análisis detallado de sistemas del vehículo."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Uso autónomo y compatible con diversas aplicaciones de diagnóstico visual.",
+        "Aplicable para análisis de motor, sistema de escape, frenos, carrocería y sistemas eléctricos mediante diferencias de temperatura.",
+        "Ideal para talleres mecánicos, diagnósticos preventivos y checks de mantenimiento."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Pantalla: 3.5\" (240 × 320).",
+        "Resolución infrarroja: 220 × 160.",
+        "Formato de almacenamiento de imágenes: JPG (hasta 20 000 fotos).",
+        "Paletas de color: Rainbow, Iron Red, Cool Color, Black & White, White & Black.",
+        "Cámara visible: 300 000 px.",
+        "Interfaz USB: Micro USB 2.0.",
+        "Rango de medición de temperatura: −20 °C a 450 °C (−4 °F a 840 °F).",
+        "Dimensiones: 224 × 75 × 102 mm.",
+        "Peso: 350 g."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "La cámara térmica permite detectar anomalías térmicas difíciles de encontrar con diagnósticos tradicionales.",
+        "La capacidad de almacenamiento de imágenes depende de la configuración de la memoria interna."
+      ]
+    }
+  ]
+}

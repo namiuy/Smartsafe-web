@@ -1,0 +1,94 @@
+{
+  "categorySlug": "aire-acondicionado",
+  "slug": "airnex-9420",
+  "title": "Brain Bee AIR-NEX 9420 – Estación de Servicio A/C (R1234yf)",
+  "shortDescription": "Estación A/C automática para mantenimiento de sistemas automotrices con refrigerante R1234yf: recuperación y recarga, generación de vacío y soporte de funciones avanzadas (según kits). Integra conectividad Wi-Fi para actualizaciones y base de datos, Nexus-Print para reportes, e interfaz táctil de 7” para un flujo de trabajo rápido y guiado en taller.",
+  "badge": "R1234yf",
+  "order": 1,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "Brain Bee AIR-NEX 9420 – Máquina de aire acondicionado automotriz (R1234yf)",
+    "description": "Estación A/C automática para R1234yf: recuperación/reciclado, vacío y recarga. Wi-Fi integrado para actualizaciones y Nexus-Print para reportes. Funciones como flushing, híbridos y N-Leak disponibles con kits opcionales."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SBBAIR-NEX9420"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Equipo automático para sistemas A/C automotrices con refrigerante R1234yf.",
+        "Pantalla táctil color de 7” para operación guiada e interfaz simple.",
+        "Conectividad Wi-Fi integrada para actualizaciones de software y base de datos.",
+        "Nexus-Print para generación/impresión de reportes (impresión vía software o impresora térmica opcional).",
+        "Conexión Bluetooth.",
+        "Purga automática de gases no condensables.",
+        "Funciones avanzadas disponibles con accesorios/kits: flushing, función para vehículos híbridos y test N-Leak."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Servicio completo de A/C automotriz con R1234yf: recuperación y recarga de refrigerante.",
+        "Generación de vacío y prueba de vacío como parte del ciclo de servicio.",
+        "Soporte para flushing y procedimientos específicos para sistemas especiales (según kit/accesorios).",
+        "Prueba de performance de A/C (manual y automática)."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tipo de refrigerante (modelo 9420): R1234yf.",
+        "Capacidad de cilindro: 12 L.",
+        "Presión máxima de operación: 20 bar.",
+        "Bomba de vacío: 50 L/min.",
+        "Nivel de vacío: 0.02 mbar.",
+        "Compresor de recuperación: 14 cc.",
+        "Descarga de gases no condensables: automática (válvula solenoide).",
+        "Longitud neta de mangueras HP/LP: 3.5 m.",
+        "Manómetros HP/LP: analógicos 80 mm (clase 1.0).",
+        "Display: touch screen 7” TFT color.",
+        "Actualización de software: vía Wi-Fi.",
+        "Impresión: NexusPrint (vía Wi-Fi) o impresora térmica opcional.",
+        "Dimensiones (An x Prof x Al): 617 x 535 x 984 mm.",
+        "Peso (en vacío): aprox. 65 kg.",
+        "Alimentación: 230 VAC, 50 Hz.",
+        "Potencia: 800 W.",
+        "Condiciones de trabajo: 10 a 50 °C; 10–90% HR (sin condensación)."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de uso",
+      "items": [
+        "Operar en exterior o en área bien ventilada (el refrigerante R1234yf se considera inflamable).",
+        "Usar por personal capacitado en refrigeración/aire acondicionado automotriz.",
+        "Conectar únicamente a toma con puesta a tierra y tensión nominal indicada (230 VAC, 50 Hz).",
+        "Evitar uso en ambientes con riesgo de explosión y mantener alejado de fuentes de calor/superficies calientes.",
+        "Utilizar únicamente refrigerante puro R1234yf (no usar con mezclas ni con aire/oxígeno).",
+        "Antes de iniciar ciclos, conectar correctamente mangueras HP/LP y seguir las instrucciones en pantalla."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Flushing, función para vehículos híbridos y test N-Leak pueden requerir accesorios/kits opcionales según configuración.",
+        "La impresora térmica puede ser opcional; la impresión también puede realizarse vía NexusPrint.",
+        "Las especificaciones pueden variar por versión/mercado y por configuración del equipo."
+      ]
+    }
+  ]
+}

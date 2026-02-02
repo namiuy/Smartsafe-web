@@ -1,0 +1,78 @@
+{
+  "categorySlug": "accesorios",
+  "slug": "bst-860s",
+  "title": "LAUNCH BST-860S",
+  "shortDescription": "Probador inteligente de baterías automotrices de 12 V para diagnóstico rápido del estado de la batería, sistema de arranque y sistema de carga.",
+  "badge": "Probador de batería",
+  "order": 10,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH BST-860S – Probador de baterías automotrices",
+    "description": "Probador de baterías LAUNCH BST-860S para diagnóstico de baterías de 12 V, sistemas de arranque y carga. Ideal para talleres y servicio rápido."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLABST-860S"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "functions",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Probador profesional de baterías automotrices de 12 V.",
+        "Diagnóstico rápido y preciso del estado de la batería.",
+        "Pruebas de sistema de arranque y sistema de carga.",
+        "Pantalla clara y operación sencilla para uso en taller.",
+        "Ideal para chequeos rápidos y mantenimiento preventivo."
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones principales",
+      "items": [
+        "Prueba del estado de salud de la batería.",
+        "Prueba del sistema de arranque.",
+        "Prueba del sistema de carga (alternador).",
+        "Resultados claros con indicación de estado y recomendación.",
+        "Prueba sin necesidad de desconectar la batería del vehículo."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Baterías automotrices de 12 V.",
+        "Compatible con baterías de plomo-ácido convencionales.",
+        "Aplicable a vehículos livianos, SUVs y utilitarios."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Voltaje de batería: 12 V.",
+        "Tipo de batería: plomo-ácido.",
+        "Pruebas soportadas: batería, arranque y carga.",
+        "Pantalla: integrada.",
+        "Uso: diagnóstico rápido en taller."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo orientado a diagnóstico rápido y mantenimiento preventivo.",
+        "Las funciones pueden variar según el estado y tipo de batería.",
+        "No apto para baterías de alto voltaje o sistemas EV."
+      ]
+    }
+  ]
+}

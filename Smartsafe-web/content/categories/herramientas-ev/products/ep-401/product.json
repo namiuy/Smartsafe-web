@@ -1,0 +1,113 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "ep-401",
+  "title": "EP-401 – Equipo de carga y descarga de módulos de baterías para vehículos eléctricos",
+  "shortDescription": "Equipo profesional de carga y descarga de módulos de baterías para vehículos eléctricos, diseñado para mantenimiento offline, pruebas de rendimiento y mejora de la eficiencia en la reparación de packs de baterías.",
+  "badge": "Equipo EV profesional",
+  "order": 12,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "carga-y-descarga-de-baterias",
+    "aplicacion": "mantenimiento-baterias-ev",
+    "nivel-de-tension": "hasta-400v"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Equipo específico para carga y descarga de módulos de baterías EV",
+        "Diseñado para trabajo offline sin interferir con el sistema BMS",
+        "Soporta corrientes altas para carga y descarga rápida",
+        "Pantalla táctil de 10 pulgadas para operación intuitiva",
+        "Monitoreo en tiempo real de voltaje, corriente y temperatura",
+        "Registro automático y exportación de datos de prueba"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Carga y descarga de módulos de baterías de vehículos eléctricos",
+        "Mantenimiento preventivo y correctivo de baterías EV",
+        "Pruebas de rendimiento y capacidad de módulos de batería",
+        "Balance y acondicionamiento de módulos antes del armado de packs",
+        "Uso en talleres EV, centros técnicos y reparación de baterías"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Carga y descarga de módulos de batería en modo corriente constante",
+        "Control de carga en modo corriente constante y voltaje constante",
+        "Monitoreo individual de voltaje por celda y voltaje de terminal",
+        "Adquisición de datos de hasta 24 canales de voltaje por módulo",
+        "Protecciones completas: sobrecarga, sobredescarga y sobretemperatura",
+        "Protección por sobrevoltaje, sobrecorriente, cortocircuito y polaridad invertida",
+        "Detención automática ante condiciones anómalas",
+        "Visualización en tiempo real del estado de carga y descarga",
+        "Almacenamiento interno de registros históricos",
+        "Exportación de datos en formato Excel o PDF mediante USB o red",
+        "Actualización de software y firmware vía red"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación: AC 90–264 V / 50–60 Hz",
+        "Pantalla: LCD táctil de 10 pulgadas (1280 × 800)",
+        "Comunicación: RJ45 ×1, USB ×2",
+        "Almacenamiento interno: 32 GB",
+        "Rango de voltaje de carga y descarga: DC 2 ~ 400 V",
+        "Corriente de carga: 0 ~ 100 A (potencia máxima 4.4 kW)",
+        "Corriente de descarga: 0 ~ 100 A (potencia máxima 7.2 kW)",
+        "Precisión de voltaje por celda: ≤ ±(0.1% FS + 5 mV)",
+        "Precisión de voltaje de terminal: ≤ ±(0.5% FS + 0.3 V)",
+        "Precisión de corriente: ≤ ±(1% FS + 0.2 A)",
+        "Refrigeración: Ventilación forzada",
+        "Temperatura de trabajo: −5 °C ~ 45 °C",
+        "Humedad de trabajo: 5% ~ 93%",
+        "Dimensiones: 548 × 339 × 482 mm"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñado para uso profesional en mantenimiento de baterías EV",
+        "Cumple normas de seguridad eléctrica industrial",
+        "Protecciones integrales para trabajo seguro en alto voltaje"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo destinado a trabajo offline con módulos de batería",
+        "No interfiere con el sistema de gestión BMS del vehículo",
+        "Convierte la energía descargada en calor, requiere buena ventilación",
+        "Debe ser operado por personal técnico capacitado en sistemas EV",
+        "Ideal como complemento de equipos de diagnóstico EV"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "EP-401 Equipo de carga y descarga de módulos de baterías EV",
+    "description": "Equipo profesional para carga y descarga de módulos de baterías de vehículos eléctricos, con alta potencia, protecciones avanzadas y registro de datos."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  }
+}

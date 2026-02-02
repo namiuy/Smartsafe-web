@@ -1,0 +1,114 @@
+{
+  "categorySlug": "alineadoras",
+  "slug": "x-861-pro",
+  "title": "LAUNCH X-861 Pro – Alineadora 3D Automática",
+  "shortDescription": "Alineadora 3D profesional con sistema de seguimiento automático del beam, cámaras industriales de alta resolución y base de datos ampliada. Diseñada para talleres que buscan máxima precisión, velocidad de trabajo y flexibilidad de instalación.",
+  "badge": "3D • Tracking Automático",
+  "order": 2,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH X-861 Pro – Alineadora 3D con tracking automático",
+    "description": "Alineadora 3D Launch X-861 Pro (WA-861 Pro) con seguimiento automático, cámaras de 5 MP y base de datos de más de 50.000 vehículos. Medición precisa y rápida para talleres profesionales."
+  },
+  "purchaseUrl": null,
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "compatibility",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Sistema 3D con seguimiento automático del beam.",
+        "Cámaras industriales de 5 millones de píxeles.",
+        "Compensación por rodado de 8–12 cm, rápida y precisa.",
+        "Equipo completamente móvil, ideal para compartir entre puestos.",
+        "Base de datos ampliada con más de 50.000 modelos de vehículos.",
+        "Protección automática: el beam se detiene ante obstáculos."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Alineación completa delantera y trasera.",
+        "Servicios de neumáticos, suspensión y dirección.",
+        "Diagnóstico de desgaste irregular, volante torcido o tironeos.",
+        "Uso intensivo en talleres con múltiples elevadores."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con elevadores de 4 columnas.",
+        "Compatible con tijeras grandes y chicas.",
+        "Compatible con elevadores de dos postes.",
+        "Uso sobre fosas (trench).",
+        "Soporta uso en múltiples estaciones de trabajo."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Superficie estable y nivelada.",
+        "Evitar luz infrarroja directa sobre los targets.",
+        "Diferencia de altura del elevador frente/fondo < 2 mm.",
+        "Ambiente recomendado: 0–50 °C, humedad relativa ≤ 85%.",
+        "Operación por personal capacitado en alineación y PC."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tecnología: alineación 3D por cámaras + targets pasivos.",
+        "Resolución de cámara: 5 MP (industrial).",
+        "Rango Toe: ±20° (precisión ±2').",
+        "Rango Camber: ±20° (precisión ±2').",
+        "Rango Caster: ±20° (precisión ±4').",
+        "SAI / Kingpin: ±6'.",
+        "Thrust Angle: ±2'.",
+        "Wheel Track / Wheelbase: ±2 mm.",
+        "Diámetro de llanta soportado: 10\"–23\".",
+        "Alimentación: 1PH AC220V ±10% 50Hz / AC110V ±10% 60Hz."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Columna con sistema de elevación automática del beam.",
+        "Beam con cámaras 3D integradas.",
+        "Gabinete móvil con ruedas.",
+        "Targets x4 con clamps x4.",
+        "Platos giratorios (turntables) x2.",
+        "Traba de volante.",
+        "Traba de pedal de freno.",
+        "Cables de alimentación y comunicación."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "WA-861 Pro y X-861 Pro corresponden al mismo equipo.",
+        "Las cámaras vienen calibradas de fábrica: no requieren calibración en sitio.",
+        "La base de datos puede ampliarse y personalizarse por el usuario.",
+        "Equipo orientado a uso profesional e intensivo."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Consultar disponibilidad",
+    "url": ""
+  }
+}

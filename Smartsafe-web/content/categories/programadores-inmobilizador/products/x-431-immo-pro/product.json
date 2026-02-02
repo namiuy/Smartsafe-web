@@ -1,0 +1,169 @@
+{
+  "categorySlug": "programadores-inmovilizador",
+  "slug": "x-431-immo-pro",
+  "title": "LAUNCH X-431 IMMO Pro – Diagnóstico profesional con programación IMMO",
+  "shortDescription": "Equipo profesional Android para programación de llaves e inmovilizadores combinado con diagnóstico completo de vehículos, soporte IMMO por OBD y EEPROM (con X-PROG 3), funciones AKL y cobertura multimarca.",
+  "badge": "IMMO + Diagnóstico",
+  "order": 2,
+  "isFeatured": false,
+  "isActive": true,
+
+  "filters": {
+    "tipo-de-programacion": "llaves-e-inmovilizador",
+    "metodo": "obd-eeprom",
+    "marca-vehiculo": "multimarca"
+  },
+
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Descripción general",
+      "items": [
+        "Plataforma Android profesional con funciones IMMO y diagnóstico completo",
+        "Programación de llaves e inmovilizadores integrada en entorno X-431",
+        "Soporte para operaciones IMMO por OBD",
+        "Programación avanzada por EEPROM y MCU mediante X-PROG 3",
+        "Funciones All Keys Lost (AKL) en vehículos compatibles",
+        "Diagnóstico completo de sistemas electrónicos del vehículo",
+        "Cobertura amplia de vehículos europeos, asiáticos y americanos",
+        "Actualizaciones online de software y cobertura"
+      ]
+    },
+
+    {
+      "type": "functions",
+      "title": "Funciones IMMO (Key Immobilizer)",
+      "items": [
+        "Aprendizaje y adaptación de llaves",
+        "Programación de llaves nuevas",
+        "Borrado de llaves perdidas",
+        "Gestión de escenarios All Keys Lost (AKL)",
+        "Autorización de llaves remotas",
+        "Sincronización de sistemas antirrobo",
+        "Soporte para reemplazo de ECU, BCM, tablero e interruptor de encendido",
+        "Procedimientos guiados según marca y sistema IMMO"
+      ]
+    },
+
+    {
+      "type": "functions",
+      "title": "Funciones IMMO PROG (Programación avanzada)",
+      "items": [
+        "Lectura de datos de transponders",
+        "Generación de llaves dedicadas",
+        "Soporte para llaves infrarrojas Mercedes-Benz",
+        "Lectura y escritura de memorias EEPROM",
+        "Lectura y escritura de datos MCU y ECU",
+        "Recuperación de sistemas IMMO en pérdida total de llaves",
+        "Trabajo directo sobre módulos fuera del vehículo",
+        "Requiere programador X-PROG 3 para estas funciones"
+      ]
+    },
+
+    {
+      "type": "functions",
+      "title": "Funciones de diagnóstico",
+      "items": [
+        "Diagnóstico completo de todos los sistemas del vehículo",
+        "Lectura y borrado de códigos de falla (DTC)",
+        "Lectura de datos en tiempo real (Live Data)",
+        "Health Report (escaneo rápido de ECUs)",
+        "Escaneo automático de sistemas",
+        "Diagnóstico inteligente por VIN",
+        "Diagnóstico local manual",
+        "Historial de diagnósticos"
+      ]
+    },
+
+    {
+      "type": "functions",
+      "title": "Funciones de servicio y mantenimiento",
+      "items": [
+        "Reset de servicio de aceite",
+        "Reset de freno de estacionamiento electrónico (EPB)",
+        "Calibración de ángulo de dirección (SAS)",
+        "Purgado de ABS",
+        "Reset de TPMS",
+        "Codificación de inyectores",
+        "Reset de BMS (batería)",
+        "Regeneración de DPF",
+        "Aprendizaje de engranajes",
+        "Reset de cuerpo de mariposa electrónico"
+      ]
+    },
+
+    {
+      "type": "compatibility",
+      "title": "Cobertura de vehículos",
+      "items": [
+        "Vehículos europeos",
+        "Vehículos asiáticos",
+        "Vehículos americanos",
+        "Automóviles de pasajeros",
+        "SUV y utilitarios livianos",
+        "Cobertura dependiente de marca, modelo, año y sistema electrónico",
+        "Funciones IMMO disponibles según arquitectura del vehículo"
+      ]
+    },
+
+    {
+      "type": "specs",
+      "title": "Plataforma de hardware",
+      "items": [
+        "Sistema operativo: Android",
+        "Memoria RAM: 4 GB",
+        "Almacenamiento interno: 64 GB",
+        "Pantalla: 8 pulgadas capacitiva",
+        "Resolución: 1280 x 800 px",
+        "Cámara trasera: 8 MP",
+        "Conectividad: Wi-Fi 802.11 a/b/g/n/ac y Bluetooth",
+        "Temperatura de operación: 0 °C a 50 °C"
+      ]
+    },
+
+    {
+      "type": "specs",
+      "title": "Interfaz VCI",
+      "items": [
+        "Voltaje de trabajo: 9 a 18 V",
+        "Consumo de energía: ≤ 2.0 W",
+        "Conexión por Bluetooth o USB",
+        "Compatible con vehículos OBD II y no OBD II",
+        "Soporte para adaptadores OBD I (opcionales)"
+      ]
+    },
+
+    {
+      "type": "notes",
+      "title": "Requisitos y consideraciones técnicas",
+      "items": [
+        "Las funciones IMMO PROG requieren el programador X-PROG 3",
+        "Las funciones AKL no están disponibles para todos los vehículos",
+        "Algunas operaciones requieren conexión a servidor",
+        "Cobertura depende del sistema electrónico específico del vehículo",
+        "Uso exclusivo profesional",
+        "Errores en lectura/escritura EEPROM pueden dañar módulos",
+        "Se recomienda formación previa en sistemas IMMO",
+        "Siempre verificar compatibilidad antes de programar"
+      ]
+    }
+  ],
+
+  "seo": {
+    "title": "LAUNCH X-431 IMMO Pro Programador IMMO y diagnóstico profesional",
+    "description": "LAUNCH X-431 IMMO Pro combina programación profesional de llaves e inmovilizadores con diagnóstico completo multimarca, soporte OBD y EEPROM mediante X-PROG 3."
+  },
+
+  "sectionsOrder": [
+    "highlights",
+    "functions",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+
+  "purchase": {
+    "label": "Consultar",
+    "url": ""
+  }
+}

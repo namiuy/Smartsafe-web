@@ -1,0 +1,124 @@
+{
+  "categorySlug": "elevadores",
+  "slug": "lt-240-c",
+  "title": "LT-240-C – Elevador de dos columnas clear floor",
+  "shortDescription": "Elevador electrohidráulico de dos columnas tipo clear floor, con capacidad de 4 toneladas, diseñado para mantenimiento general, mecánica pesada y servicios rápidos en talleres profesionales.",
+  "badge": "2 columnas Lingas por Arriba",
+  "order": 3,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LT-240-C – Elevador 2 columnas clear floor 4T",
+    "description": "Elevador automotriz de dos columnas tipo clear floor. Capacidad 4.0T, sistema electrohidráulico, trabas mecánicas y doble cilindro hidráulico."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "capacity",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Elevador de dos columnas tipo clear floor (piso libre)",
+        "Capacidad de elevación de hasta 4.0 toneladas",
+        "Sistema electrohidráulico con doble cilindro",
+        "Trabas mecánicas de seguridad automáticas",
+        "Desbloqueo manual en ambos lados",
+        "Brazos ajustables para diferentes tipos de vehículos",
+        "Estructura reforzada con soldadura automatizada"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento general de vehículos livianos y utilitarios",
+        "Servicios de mecánica, suspensión y frenos",
+        "Cambios rápidos de aceite y trabajos bajo chasis",
+        "Uso en talleres mecánicos profesionales"
+      ]
+    },
+    {
+      "type": "capacity",
+      "title": "Capacidad y configuración",
+      "items": [
+        "Capacidad máxima de elevación: 4000 kg",
+        "Altura máxima de elevación: 1930 mm",
+        "Altura mínima de elevación: 100 mm",
+        "Altura total del equipo: 3740 mm",
+        "Distancia entre columnas: 2780 mm",
+        "Tiempo de elevación: ≤ 45 s"
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Alimentación eléctrica: 220V / 380V",
+        "Instalación sobre piso de hormigón reforzado",
+        "Espesor mínimo de losa recomendado: 200 mm",
+        "Resistencia del hormigón: >3000 PSI",
+        "Uso exclusivo en interiores (salvo configuración especial)"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Modelo de referencia en manual: LT240C",
+        "Tipo: elevador clear floor de dos columnas",
+        "Accionamiento: electrohidráulico",
+        "Potencia del motor: 2.2 kW",
+        "Unidad hidráulica con válvulas de seguridad",
+        "Cumple normativa CE (EN 1570-1)"
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Elevador LT-240-C (dos columnas)",
+        "Brazos de elevación ajustables",
+        "Unidad hidráulica",
+        "Sistema de trabas mecánicas",
+        "Manual de usuario"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Los colores del equipo pueden variar según disponibilidad y lote de fabricación. Las imágenes son ilustrativas y pueden no coincidir exactamente con el producto entregado.",
+        "En la documentación del fabricante puede figurar como LT240C. En Uruguay se comercializa como LT-240-C.",
+        "Las especificaciones pueden variar según versión o mercado."
+      ]
+    }
+  ],
+  "filters": {
+    "tipo-de-elevador": [
+      "2-columnas"
+    ],
+    "capacidad": [
+      "4t"
+    ],
+    "aplicacion": [
+      "mantenimiento"
+    ]
+  },
+  "tags": [
+    "elevador",
+    "2-columnas",
+    "taller",
+    "smartsafe"
+  ]
+}

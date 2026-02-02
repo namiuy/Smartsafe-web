@@ -1,0 +1,65 @@
+{
+  "categorySlug": "tpms",
+  "slug": "ltr02hd",
+  "title": "Sensor LAUNCH LTR-02-HD",
+  "shortDescription": "Sensor TPMS programable interno (dentro de la cubierta) con doble frecuencia 315/433 MHz y amplia cobertura de vehículos.",
+  "badge": "TPMS Sensor",
+  "order": 3,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "Sensor TPMS Interno LAUNCH LTR-02-HD",
+    "description": "Sensor TPMS interno de LAUNCH, programable en 315/433 MHz con alta cobertura, ideal para reemplazo original y servicio TPMS en talleres."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Sensor TPMS interno programable LAUNCH para montaje dentro de la cubierta.",
+        "Dual frecuencia 315 MHz y 433 MHz con amplia cobertura de vehículos TPMS (~99%).",
+        "Programable ilimitadamente con herramientas TPMS compatibles.",
+        "Diseño robusto para medición precisa de presión y datos TPMS.",
+        "Batería de larga duración integrada."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Reemplazo de sensores TPMS internos originales.",
+        "Servicio de programación y reaprendizaje de TPMS en talleres y vulcanizaciones.",
+        "Compatible con herramientas TPMS LAUNCH e i-TPMS."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Frecuencia operativa: 315 MHz y 433 MHz.",
+        "Tipo de sensor: interno para montaje dentro de la cubierta.",
+        "Batería integrada de larga duración.",
+        "Alcance de cobertura: ~99% (según modelo y base de datos).",
+        "Compatible con herramientas TPMS programables universales."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "La cobertura puede variar según versión, mercado y base de datos de la herramienta de programación.",
+        "Requiere herramienta compatible para programación/reaprendizaje (p.ej., Launch i-TPMS, CRT511S V2)."
+      ]
+    }
+  ]
+}

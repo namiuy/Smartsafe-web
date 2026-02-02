@@ -1,0 +1,84 @@
+{
+  "categorySlug": "aire-acondicionado",
+  "slug": "ac519",
+  "title": "SmartSafe AC519 – Estación de Servicio A/C",
+  "shortDescription": "Equipo automático para mantenimiento de aire acondicionado automotriz que integra limpieza de cañerías, recuperación/reciclado, vacío y recarga de refrigerante, con base de datos y reportes impresos para un servicio rápido y controlado en taller.",
+  "badge": "R134a / R1234yf",
+  "order": 1,
+  "isFeatured": true,
+  "isActive": true,
+  "seo": {
+    "title": "SmartSafe AC519 – Máquina de aire acondicionado automotriz (R134a / R1234yf)",
+    "description": "Estación A/C automática para limpieza de cañerías, recuperación/reciclado, vacío y recarga de refrigerante, con base de datos y reportes impresos. Compatible con R134a o R1234yf (según configuración)."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SSMVALUE519"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Modo automático con procesos en un click: limpieza, recuperación/reciclado, vacío, carga de aceite y recarga de refrigerante.",
+        "Limpieza de cañerías con funciones de limpieza hacia adelante, reversa y por pulsos para mejorar el resultado.",
+        "Base de datos de modelos y cargas de refrigerante/aceite para facilitar el servicio.",
+        "Detección de fugas por vacío y monitoreo de presión.",
+        "Impresora integrada para reportes de trabajo."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento completo de sistemas de A/C automotriz: recuperación/reciclado, vacío y recarga.",
+        "Limpieza de circuito A/C para remover residuos/aceite degradado y mejorar rendimiento del compresor.",
+        "Detección de fugas mediante prueba de vacío y observación de caída de presión."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación: AC 110V ±10% o AC 220V ±10% (50/60Hz) según placa del equipo.",
+        "Compresor: 3/8 HP.",
+        "Bomba de vacío: 42 L/min, 5 Pa (para 220V) / 50 L/min, 5 Pa (para 110V).",
+        "Balanza (tanque): precisión ±10 g.",
+        "Balanza (botella de aceite): precisión ±5 g.",
+        "Tanque: 12 L.",
+        "Botella de aceite nuevo: 300 ml.",
+        "Botella de aceite usado: 500 ml.",
+        "Pantalla: 800 × 480.",
+        "Presión de trabajo: máx. 20 bar.",
+        "Manómetro alta: -1 a 38 bar.",
+        "Manómetro baja: -1 a 18 bar.",
+        "Temperatura de trabajo: 10 a 50 °C."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de uso",
+      "items": [
+        "Uso en áreas bien ventiladas y por personal capacitado.",
+        "No exceder 30° de inclinación durante el transporte; prohibido transportar invertido.",
+        "Para primer uso, cargar aproximadamente 3 kg de refrigerante en el tanque del equipo para operar normalmente.",
+        "Conectar correctamente mangueras de alta/baja presión antes de iniciar los ciclos y verificar condiciones del sistema A/C del vehículo."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "El equipo soporta R134a o R1234yf, pero no deben mezclarse: para cambiar de tipo se debe descargar el refrigerante mediante la función correspondiente.",
+        "Las configuraciones y especificaciones pueden variar según versión/mercado y la placa del equipo."
+      ]
+    }
+  ]
+}

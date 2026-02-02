@@ -1,0 +1,76 @@
+{
+  "categorySlug": "accesorios",
+  "slug": "bst-560",
+  "title": "LAUNCH BST-560",
+  "shortDescription": "Probador de batería inteligente de 12 V para diagnóstico rápido y preciso del estado de la batería, sistema de arranque y sistema de carga.",
+  "badge": "Probador de batería",
+  "order": 11,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH BST-560 – Probador de baterías automotrices",
+    "description": "Probador de baterías LAUNCH BST-560 para diagnóstico de baterías de 12 V, pruebas de arranque y carga. Ideal para talleres y servicio rápido."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLABST-560"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "functions",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Probador de batería automotriz con diagnóstico rápido y sencillo.",
+        "Indica el estado de la batería, sistema de arranque y sistema de carga.",
+        "Resultados claros y comprensibles para uso en taller o servicio rápido.",
+        "No requiere desconexión de la batería para realizar pruebas."
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones principales",
+      "items": [
+        "Prueba del estado general de la batería.",
+        "Prueba del sistema de arranque del vehículo.",
+        "Prueba del sistema de carga (alternador).",
+        "Indicadores visuales de estado y resultados."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Diseñado para baterías automotrices de 12 V.",
+        "Compatible con baterías de plomo-ácido y similares.",
+        "Apto para automóviles, SUV y utilitarios livianos."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Rango de voltaje: 12 V.",
+        "Tipo de batería: plomo-ácido / mantenimiento.",
+        "Pantalla integrada para resultados.",
+        "Indicadores LED para estado y fallas.",
+        "Pruebas de arranque y carga."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Diseñado para uso profesional en taller.",
+        "Las funciones pueden variar según estado de la batería y conexiones.",
+        "No apto para sistemas de batería de alto voltaje (EV/Hybrid)."
+      ]
+    }
+  ]
+}

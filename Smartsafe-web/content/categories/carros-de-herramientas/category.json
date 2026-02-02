@@ -1,0 +1,38 @@
+{
+  "slug": "carros-de-herramientas",
+  "title": "Carros de herramientas",
+  "shortDescription": "Carros de herramientas profesionales para organización, movilidad y trabajo eficiente en talleres automotrices, disponibles en versiones estándar y EV.",
+  "order": 13,
+  "logo": "/images/products/carros-de-herramientas/logo/logo.svg",
+  "isActive": true,
+  "template": "tool-storage",
+  "defaultSections": [
+    "highlights",
+    "applications",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "filters": [
+    "tipo",
+    "cantidad-de-piezas",
+    "aplicacion"
+  ],
+  "tags": [
+    "carros",
+    "herramientas",
+    "organizacion",
+    "ev",
+    "taller"
+  ],
+  "seo": {
+    "title": "Carros de herramientas para talleres automotrices",
+    "description": "Carros de herramientas profesionales con distintas configuraciones, cantidad de piezas y versiones específicas para vehículos eléctricos (EV)."
+  },
+  "featuredHeroProductSlug": "tth-375",
+  "categoryBanner": {
+    "mode": "auto-from-products",
+    "imageIndex": 1,
+    "limit": 12
+  }
+}

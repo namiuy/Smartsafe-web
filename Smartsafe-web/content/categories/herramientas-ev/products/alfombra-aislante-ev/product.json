@@ -1,0 +1,55 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "alfombra-aislante-ev",
+  "title": "Alfombra aislante para trabajos en alto voltaje EV",
+  "shortDescription": "Alfombra aislante de seguridad diseñada para aislar al operario del suelo durante trabajos en sistemas de alto voltaje en vehículos eléctricos e híbridos.",
+  "badge": "Seguridad EV",
+  "order": 4,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "equipo-de-seguridad",
+    "aplicacion": "aislamiento-electrico",
+    "nivel-de-tension": "hasta-1000v"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Aislamiento eléctrico del operario respecto al suelo",
+        "Elemento fundamental en trabajos EV",
+        "Diseñada para entornos de alto voltaje",
+        "Superficie antideslizante",
+        "Uso obligatorio en protocolos de seguridad EV"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Trabajos de mantenimiento EV",
+        "Intervenciones en baterías y sistemas HV",
+        "Uso en talleres y áreas de alto voltaje"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Diseñada para trabajos hasta 1000 V",
+        "Debe utilizarse junto con EPP adecuado",
+        "Mantener limpia y seca para máxima seguridad"
+      ]
+    }
+  ],
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SSMEINSPAD"
+  }
+}

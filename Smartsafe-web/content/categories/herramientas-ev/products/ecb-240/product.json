@@ -1,0 +1,115 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "ecb-240",
+  "title": "ECB-240 – Equipo integral de carga, descarga y ecualización de baterías EV",
+  "shortDescription": "Equipo profesional todo en uno para carga, descarga y ecualización de módulos y packs de baterías de vehículos eléctricos, diseñado para mantenimiento avanzado y mejora de la vida útil del sistema de baterías.",
+  "badge": "Equipo EV profesional",
+  "order": 13,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "carga-descarga-y-ecualizacion",
+    "aplicacion": "mantenimiento-baterias-ev",
+    "nivel-de-tension": "hasta-110v"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Equipo tres en uno: carga, descarga y ecualización de baterías",
+        "Diseñado para mantenimiento de packs de baterías de gran capacidad",
+        "Ecualización sincronizada de hasta 24 celdas",
+        "Alta corriente para trabajos rápidos y eficientes",
+        "Pantalla táctil HD de 10.1 pulgadas",
+        "Registro automático de datos y generación de reportes",
+        "Múltiples protecciones de seguridad para trabajo en EV"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento de módulos y packs de baterías EV",
+        "Corrección de desbalance de celdas",
+        "Carga y descarga controlada de baterías",
+        "Pruebas de rendimiento y consistencia de packs",
+        "Talleres EV especializados y centros de reparación de baterías",
+        "Acondicionamiento de baterías antes de armado o reinstalación"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Ecualización precisa de celdas mediante control independiente por canal",
+        "Carga de módulos en modo corriente constante y voltaje constante",
+        "Descarga controlada de módulos en modo corriente constante y voltaje constante",
+        "Monitoreo en tiempo real del voltaje de cada celda",
+        "Monitoreo de corriente, voltaje total y diferencia entre celdas",
+        "Generación automática de gráficos y reportes de prueba",
+        "Almacenamiento de historial de trabajos",
+        "Exportación de datos por USB, correo electrónico o código QR",
+        "Actualización de software mediante red (OTA)",
+        "Configuración avanzada de parámetros de protección"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación: AC 100–240 V / 50–60 Hz",
+        "Voltaje del módulo de batería: DC 0–110 V",
+        "Rango de voltaje por celda: 1.6 ~ 5 V",
+        "Corriente de carga: 0.5 ~ 40 A",
+        "Potencia máxima de carga: 3.2 kW",
+        "Corriente de descarga: 0.1 ~ 20 A",
+        "Potencia máxima de descarga: 2.4 kW",
+        "Precisión de voltaje por celda: ±0.1% FS ± 5 mV",
+        "Precisión de corriente: ±0.5% FS ± 0.05 A",
+        "Canales de ecualización: 2 × 12 (24 celdas)",
+        "Pantalla: 10.1 pulgadas, resolución 1280 × 800",
+        "Comunicación: Wi-Fi, Bluetooth, USB, puerto de red RJ45",
+        "Refrigeración: Ventilación forzada",
+        "Temperatura de trabajo: −5 °C ~ 45 °C",
+        "Dimensiones: 446 × 349 × 435 mm"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñado para uso profesional en sistemas EV",
+        "Cumple normas de seguridad eléctrica industrial",
+        "Protecciones integrales para trabajo seguro en alto voltaje"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo orientado a mantenimiento offline de baterías EV",
+        "Compatible con baterías NCM, LFP y LTO",
+        "Incluye protecciones por sobrevoltaje, sobrecorriente, inversión de polaridad y sobretemperatura",
+        "Requiere personal técnico capacitado en sistemas de alto voltaje",
+        "Ideal como solución central en reparación y reacondicionamiento de baterías"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "ECB-240 Equipo integral de carga, descarga y ecualización EV",
+    "description": "Equipo profesional todo en uno para carga, descarga y ecualización de módulos y packs de baterías de vehículos eléctricos."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  }
+}

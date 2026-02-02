@@ -1,0 +1,56 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "lentes-seguridad-ev",
+  "title": "Lentes de seguridad aislantes para trabajos en vehículos eléctricos",
+  "shortDescription": "Lentes de seguridad diseñados para trabajos en vehículos eléctricos e híbridos, que brindan protección ocular durante intervenciones en sistemas de alto voltaje hasta 1000 V.",
+  "badge": "Seguridad EV",
+  "order": 1,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "equipo-de-proteccion-personal",
+    "aplicacion": "seguridad-alto-voltaje",
+    "nivel-de-tension": "hasta-1000v"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Protección ocular para trabajos en sistemas EV",
+        "Diseñados para entornos de alto voltaje",
+        "Lentes resistentes a impactos",
+        "Uso obligatorio en intervenciones EV",
+        "Compatibles con cascos y otros EPP"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Trabajos de mantenimiento en vehículos eléctricos",
+        "Diagnóstico y reparación de sistemas de alto voltaje",
+        "Intervenciones en baterías y componentes EV",
+        "Uso en talleres y centros técnicos especializados"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Parte fundamental del equipo de protección personal EV",
+        "Recomendado para trabajos hasta 1000 V",
+        "Debe utilizarse junto con otros elementos de seguridad"
+      ]
+    }
+  ],
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SSMEGLASS"
+  }
+}

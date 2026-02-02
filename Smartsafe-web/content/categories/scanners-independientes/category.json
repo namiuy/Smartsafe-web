@@ -1,0 +1,38 @@
+{
+  "slug": "scanners-independientes",
+  "title": "Scanners Independientes",
+  "shortDescription": "Scanners automotrices Launch independientes, pensados como solución intermedia entre lectores básicos y la línea profesional X-431.",
+  "order": 11,
+  "logo": "/images/products/scanners-independientes/logo/logo.svg",
+  "isActive": true,
+  "template": "scanner",
+  "defaultSections": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "notes"
+  ],
+  "filters": [
+    "tipo-de-usuario",
+    "nivel-de-diagnostico",
+    "funciones-de-servicio"
+  ],
+  "tags": [
+    "scanner",
+    "launch",
+    "diagnostico",
+    "automotriz",
+    "independiente"
+  ],
+  "seo": {
+    "title": "Scanners automotrices independientes Launch",
+    "description": "Scanners Launch independientes para diagnóstico automotriz, con funciones avanzadas y uso profesional sin llegar a la línea X-431."
+  },
+  "categoryBanner": {
+    "mode": "auto-from-products",
+    "imageIndex": 1,
+    "limit": 12
+  },
+  "featuredHeroProductSlug": "crp-359-premium"
+}

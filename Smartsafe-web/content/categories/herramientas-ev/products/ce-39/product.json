@@ -1,0 +1,117 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "ce-39",
+  "title": "CE-39 – Equipo integral de diagnóstico, ecualización y carga/descarga para vehículos eléctricos",
+  "shortDescription": "Equipo profesional todo en uno para diagnóstico completo de vehículos eléctricos, ecualización de celdas y carga/descarga de módulos de batería, diseñado para mantenimiento avanzado y control técnico en sistemas EV.",
+  "badge": "Equipo EV profesional",
+  "order": 9,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "diagnostico-y-mantenimiento-ev",
+    "aplicacion": "diagnostico-y-baterias-ev",
+    "nivel-de-tension": "modulos-y-pack-de-bateria"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Equipo cuatro en uno: diagnóstico EV, ecualización, carga y descarga",
+        "Diagnóstico completo del vehículo eléctrico con diagrama de topología",
+        "Soporte para diagnóstico offline de batería, motor y electrónica de potencia",
+        "Ecualización inteligente y sincronizada de hasta 24 celdas",
+        "Carga y descarga de alta corriente para módulos de batería",
+        "Operación simultánea de diagnóstico y mantenimiento",
+        "Interfaz táctil con tablet dedicada y monitoreo en tiempo real",
+        "Registro y exportación de informes técnicos"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Diagnóstico integral de vehículos eléctricos",
+        "Mantenimiento avanzado de módulos y packs de baterías EV",
+        "Ecualización y corrección de desbalances de celdas",
+        "Carga y descarga controlada de módulos de batería",
+        "Diagnóstico offline de componentes de alto voltaje",
+        "Talleres EV especializados y centros técnicos avanzados"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Diagnóstico completo del vehículo eléctrico (lectura y borrado de códigos, datos en tiempo real, pruebas de actuadores y funciones especiales)",
+        "Visualización de red del vehículo mediante diagrama de topología para localización precisa de fallas",
+        "Diagnóstico offline de batería, motor, electrónica de control, compresor de A/C, DCDC, OBC y PDU",
+        "Lectura avanzada del estado de batería: SOC, SOH, voltaje por celda y temperatura",
+        "Cálculo automático de diferencias de voltaje y detección de valores anómalos",
+        "Ecualización sincronizada de hasta 24 celdas con control independiente por canal",
+        "Carga de módulos en modo corriente constante y voltaje constante",
+        "Descarga de módulos en modo corriente constante y voltaje constante",
+        "Monitoreo en tiempo real de curvas de ecualización y carga/descarga",
+        "Registro histórico de trabajos con exportación de reportes por USB, QR o correo",
+        "Actualización de software y firmware mediante OTA",
+        "Protecciones múltiples: sobrevoltaje, subtensión, sobrecorriente, cortocircuito, inversión de polaridad y sobretemperatura"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación: AC 100–240 V / 50–60 Hz",
+        "Voltaje del módulo de batería: DC 0–110 V",
+        "Rango de voltaje por celda: 1.6 ~ 5 V",
+        "Corriente de carga: 0.5 ~ 40 A (potencia máxima 3.2 kW)",
+        "Corriente de descarga: 0.1 ~ 20 A (potencia máxima 2.4 kW)",
+        "Precisión de voltaje por celda: ±0.1% FS ± 5 mV",
+        "Precisión de corriente por celda: ±0.5% FS ± 0.05 A",
+        "Cantidad de canales de ecualización: 24",
+        "Pantalla: 10.1 pulgadas, resolución 1280 × 800",
+        "Comunicación: Wi-Fi, Bluetooth, USB",
+        "Sistema operativo: Android",
+        "Refrigeración: Ventilación forzada",
+        "Temperatura de trabajo: −5 °C ~ 45 °C",
+        "Dimensiones: 454.5 × 385.6 × 447.0 mm"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñado para uso profesional en sistemas EV",
+        "Cumple normas de seguridad eléctrica industrial",
+        "Protecciones integrales para operación segura en alto voltaje"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo orientado a diagnóstico y mantenimiento avanzado EV",
+        "Permite trabajar con módulos de batería sin necesidad de conexión al vehículo",
+        "Debe ser operado por personal técnico capacitado en sistemas de alto voltaje",
+        "Ideal como solución central en talleres EV especializados",
+        "Compatible con baterías de litio NCM, LFP y LTO"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "CE-39 Diagnóstico y mantenimiento integral para vehículos eléctricos",
+    "description": "Equipo profesional todo en uno para diagnóstico EV, ecualización de celdas y carga/descarga de módulos de batería en vehículos eléctricos."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SSMECE39"
+  }
+}

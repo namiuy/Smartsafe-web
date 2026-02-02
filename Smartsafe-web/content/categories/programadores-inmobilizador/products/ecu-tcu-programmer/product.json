@@ -1,0 +1,117 @@
+{
+  "categorySlug": "programadores-inmovilizador",
+  "slug": "ecu-tcu-programmer",
+  "title": "LAUNCH ECU & TCU Programmer – Programador de ECU y TCU",
+  "shortDescription": "Herramienta profesional LAUNCH para lectura y escritura de datos en unidades ECU y TCU, diseñada para trabajos técnicos avanzados de programación, clonación y recuperación de módulos electrónicos.",
+  "badge": "Programación ECU/TCU",
+  "order": 4,
+  "isFeatured": false,
+  "isActive": true,
+
+  "filters": {
+    "tipo-de-programacion": "ecu-tcu",
+    "metodo": "pc-programming",
+    "marca-vehiculo": "multimarca"
+  },
+
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Descripción general",
+      "items": [
+        "Programador profesional para unidades ECU y TCU",
+        "Diseñado para lectura y escritura de datos electrónicos",
+        "Orientado a trabajos técnicos avanzados",
+        "Arquitectura basada en PC (PC Programmer)",
+        "Uso en programación, clonación y recuperación de módulos",
+        "Compatible con múltiples sistemas electrónicos del vehículo",
+        "Herramienta destinada a uso profesional especializado"
+      ]
+    },
+
+    {
+      "type": "functions",
+      "title": "Funciones principales",
+      "items": [
+        "Lectura de datos de ECU",
+        "Escritura de datos en ECU",
+        "Lectura de datos de TCU",
+        "Escritura de datos en TCU",
+        "Soporte para clonación de módulos electrónicos",
+        "Recuperación de unidades electrónicas",
+        "Trabajo directo sobre módulos fuera del vehículo",
+        "Soporte para procedimientos guiados según sistema"
+      ]
+    },
+
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Reemplazo de ECU",
+        "Reemplazo de TCU",
+        "Clonación de módulos electrónicos",
+        "Recuperación de módulos dañados",
+        "Programación avanzada de sistemas electrónicos",
+        "Uso en talleres especializados y laboratorios electrónicos"
+      ]
+    },
+
+    {
+      "type": "compatibility",
+      "title": "Cobertura y compatibilidad",
+      "items": [
+        "Vehículos europeos",
+        "Vehículos asiáticos",
+        "Vehículos americanos",
+        "Compatibilidad dependiente del sistema ECU/TCU",
+        "Funciones disponibles según marca, modelo y arquitectura electrónica",
+        "Cobertura sujeta a actualizaciones de software"
+      ]
+    },
+
+    {
+      "type": "specs",
+      "title": "Plataforma de trabajo",
+      "items": [
+        "Arquitectura: PC Programmer",
+        "Uso mediante software dedicado",
+        "Conexión a módulos mediante interfaz específica",
+        "Trabajo fuera del vehículo (bench mode)",
+        "Integración con plataforma técnica LAUNCH"
+      ]
+    },
+
+    {
+      "type": "notes",
+      "title": "Requisitos y consideraciones técnicas",
+      "items": [
+        "Uso exclusivo profesional",
+        "Requiere conocimientos avanzados en electrónica automotriz",
+        "La cobertura depende del tipo de ECU/TCU",
+        "Errores en lectura o escritura pueden inutilizar el módulo",
+        "Siempre verificar compatibilidad antes de operar",
+        "Recomendado para talleres especializados en electrónica"
+      ]
+    }
+  ],
+
+  "seo": {
+    "title": "LAUNCH ECU & TCU Programmer Programador profesional",
+    "description": "Programador profesional LAUNCH para ECU y TCU, orientado a lectura, escritura, clonación y recuperación de módulos electrónicos automotrices."
+  },
+
+  "sectionsOrder": [
+    "highlights",
+    "functions",
+    "applications",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+
+  "purchase": {
+    "label": "Consultar",
+    "url": ""
+  }
+}

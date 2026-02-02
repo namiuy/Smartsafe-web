@@ -1,0 +1,118 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "p-01",
+  "title": "P01 – Herramienta de diagnóstico para vehículos eléctricos",
+  "shortDescription": "Herramienta profesional para diagnóstico integral de vehículos eléctricos e híbridos, con detección avanzada de batería, sistemas del vehículo y funciones de mantenimiento.",
+  "badge": "Equipo EV profesional",
+  "order": 2,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "diagnostico-ev",
+    "aplicacion": "taller-ev",
+    "nivel-de-tension": "alta-tension"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Diagnóstico profesional de baterías EV a nivel pack",
+        "Cobertura de más del 95% de los modelos de vehículos eléctricos",
+        "Lectura SOC / SOH, voltaje por celda y temperatura",
+        "Topología completa del vehículo para localización rápida de fallas",
+        "Soporte para pruebas offline y diagnóstico sin conexión",
+        "Compatible con módulos de expansión EV"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Diagnóstico avanzado de baterías en vehículos eléctricos",
+        "Inspección completa de sistemas EV e híbridos",
+        "Detección de fallas en OBC, DC-DC y sistemas de alto voltaje",
+        "Soporte técnico para talleres especializados y flotas EV",
+        "Calibración ADAS y mantenimiento en vehículos eléctricos"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Detección de batería: lectura de SOC, SOH, voltaje de celdas/módulos, temperatura y estado del pack",
+        "Diagnóstico del vehículo completo: lectura y borrado de códigos, flujo de datos y pruebas activas",
+        "Detección por puerto de carga rápida mediante conexión Bluetooth",
+        "Funciones de mantenimiento EV: prueba de OBC, DC-DC, compresor de A/C y componentes híbridos 48V",
+        "Calibración ADAS compatible con equipos ADAS PRO+, ADAS MOBILE, ADAS LITE y ADAS RADAR 3IN1",
+        "Generación de reportes: batería, vehículo completo y calibración ADAS",
+        "Actualizaciones de software, firmware y aplicaciones vía internet",
+        "Soporte para módulos externos: osciloscopio, multímetro, pinza amperométrica, fuente DC, tester de aislamiento y videoscopio"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Pantalla: 10.1 pulgadas (1920 × 1200)",
+        "CPU host: Octa-core 2.0 GHz",
+        "Memoria RAM: 4 GB",
+        "Almacenamiento interno: 128 GB",
+        "Sistema operativo: Android 11",
+        "Wi-Fi host: 2.4 GHz / 5 GHz",
+        "Cámara frontal: 8 MP",
+        "Batería host: 3.8 V / 9360 mAh",
+        "Interfaces host: USB Type-A, USB Type-C",
+        "Comunicación host: Wi-Fi, Bluetooth, USB",
+        "Dimensiones host: 318 × 40.5 × 246.5 mm",
+        "VCI – Voltaje de trabajo: DC 9~36 V",
+        "VCI – CPU: Cortex-A7 + Cortex-M7",
+        "VCI – Memoria: 256 MB",
+        "VCI – Almacenamiento: 8 GB",
+        "VCI – Sistema: Linux",
+        "VCI – Comunicación: Wi-Fi, Bluetooth, USB",
+        "VCI – Interfaces: USB Type-B, OBD-II, DC-IN",
+        "Dimensiones VCI: 197 × 40 × 83 mm"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñado para diagnóstico profesional de vehículos eléctricos",
+        "Compatible con estándares de diagnóstico EV",
+        "Uso seguro en sistemas de alto voltaje con accesorios adecuados"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Soporta cuatro métodos de detección de batería: conector especial, puerto de carga rápida (modelos chinos), conexión jumper y OBD",
+        "Incluye conector profesional dedicado para pruebas de batería",
+        "La cobertura de modelos EV se amplía mediante actualizaciones continuas",
+        "Algunas funciones EV requieren adaptadores específicos según marca/modelo",
+        "Compatible con el monitor de voltaje inalámbrico VM-13 para mediciones multipunto"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "P01 EV Detection Tool – Diagnóstico profesional para vehículos eléctricos",
+    "description": "Herramienta avanzada para diagnóstico de baterías y sistemas en vehículos eléctricos e híbridos. Soporta pruebas EV, mantenimiento y calibración ADAS."
+  },
+  "cta": {
+    "secondaryLabel": "Consultar"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SISMARTEVP01"
+  }
+}

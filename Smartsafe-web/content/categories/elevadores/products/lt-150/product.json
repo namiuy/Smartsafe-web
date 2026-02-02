@@ -1,0 +1,117 @@
+{
+  "categorySlug": "elevadores",
+  "slug": "lt-150",
+  "title": "LT-150 – Elevador de baterías para vehículos eléctricos",
+  "shortDescription": "Elevador profesional diseñado para el desmontaje, montaje y traslado seguro de packs de baterías de vehículos eléctricos, con capacidad de hasta 1.5 toneladas.",
+  "badge": "Baterías EV",
+  "order": 1,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LT-150 – Elevador de baterías EV hasta 1.5T",
+    "description": "Elevador electrohidráulico profesional para desmontaje y montaje de baterías de vehículos eléctricos. Capacidad 1500 kg, aislación HV y ruedas 360°."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SSMEVLT150"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "capacity",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Diseñado específicamente para desmontaje y montaje de baterías de vehículos eléctricos",
+        "Capacidad de elevación de hasta 1.5 toneladas",
+        "Plataforma con almohadillas de aislación para alta tensión (HV)",
+        "Sistema electrohidráulico seguro y de operación sencilla",
+        "Ruedas industriales 360° para fácil desplazamiento en el taller"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Desmontaje y montaje de packs de baterías en vehículos eléctricos",
+        "Traslado seguro de baterías desde el vehículo hasta el área de reparación",
+        "Uso en talleres especializados en vehículos eléctricos e híbridos"
+      ]
+    },
+    {
+      "type": "capacity",
+      "title": "Capacidad y configuración",
+      "items": [
+        "Capacidad máxima de elevación: 1500 kg",
+        "Altura mínima: 1100 mm",
+        "Altura máxima: 1850 mm",
+        "Dimensiones de plataforma: 1260 x 800 mm",
+        "Tiempo de elevación: 18–45 s (según configuración)"
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Alimentación eléctrica: 220V AC",
+        "Equipo móvil, no requiere anclaje al piso",
+        "Uso recomendado en superficies planas y niveladas",
+        "Operación por personal capacitado en trabajos con sistemas HV"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tipo de accionamiento: electrohidráulico",
+        "Potencia del motor: 0.75 kW",
+        "Voltaje de control: 24 V",
+        "Aceite hidráulico: ISO VG 46 (4 litros)",
+        "Estructura reforzada con soldadura robotizada"
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Elevador LT-150",
+        "Plataforma con adaptadores de aislación",
+        "Ruedas giratorias con freno",
+        "Manual de usuario"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Los colores del equipo pueden variar según disponibilidad y lote de fabricación. Las imágenes son ilustrativas y pueden no coincidir exactamente con el producto entregado.",
+        "Las especificaciones pueden variar según mercado o versión.",
+        "Se recomienda mantenimiento periódico y recambio anual del aceite hidráulico."
+      ]
+    }
+  ],
+  "filters": {
+    "tipo-de-elevador": [
+      "baterias-ev"
+    ],
+    "capacidad": [
+      "1.5t"
+    ],
+    "aplicacion": [
+      "vehiculos-electricos"
+    ]
+  },
+  "tags": [
+    "elevador",
+    "baterias-ev",
+    "vehiculos-electricos",
+    "smartsafe"
+  ]
+}

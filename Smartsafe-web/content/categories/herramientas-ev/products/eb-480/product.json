@@ -1,0 +1,111 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "eb480",
+  "title": "EB480 – Ecualizador de celdas para baterías de vehículos eléctricos",
+  "shortDescription": "Equipo profesional de ecualización y mantenimiento de celdas de baterías de litio para vehículos eléctricos, diseñado para corregir desequilibrios de voltaje y extender la vida útil del pack.",
+  "badge": "Equipo EV profesional",
+  "order": 5,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "ecualizador-de-baterias",
+    "aplicacion": "mantenimiento-baterias-ev",
+    "nivel-de-tension": "celdas-individuales"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Ecualización simultánea de hasta 48 celdas de batería",
+        "Compatible con todos los tipos de baterías de litio utilizadas en EV",
+        "Alta precisión en medición de voltaje, corriente y temperatura",
+        "Canales independientes que evitan sobrecarga y sobredescarga",
+        "Pantalla táctil de 10 pulgadas para control y visualización en tiempo real",
+        "Registro y exportación de datos en PDF y Excel"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento correctivo y preventivo de baterías de vehículos eléctricos",
+        "Recuperación de autonomía perdida por desbalance de celdas",
+        "Ecualización de módulos de baterías en talleres EV especializados",
+        "Soporte técnico en flotas y centros de servicio de vehículos eléctricos",
+        "Análisis detallado del estado de celdas en packs de baterías de litio"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Ecualización automática de celdas basada en voltaje objetivo configurable",
+        "Soporte para baterías de litio ternarias (NCM/NCA), LFP, LTO y LMO",
+        "Carga y descarga de celdas con control de corriente constante y voltaje constante",
+        "Monitoreo en tiempo real de voltaje, corriente, capacidad y temperatura",
+        "Protecciones múltiples: sobrevoltaje, subtensión, sobrecorriente, cortocircuito, inversión de polaridad y sobretemperatura",
+        "Almacenamiento automático de registros históricos de ecualización",
+        "Visualización de curvas de ecualización y análisis de datos",
+        "Actualización de software en línea vía Wi-Fi"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación de entrada: AC 90–264 V / 50–60 Hz",
+        "Potencia máxima: 1200 W",
+        "Rango de voltaje de carga/descarga: 1.8 ~ 4.5 V por celda",
+        "Rango de corriente de carga/descarga: 0.1 ~ 5 A",
+        "Precisión de medición de voltaje: ±(0.1% FS ± 2 mV)",
+        "Precisión de medición de corriente: ±(1% FS ± 0.05 A)",
+        "Precisión de medición de temperatura: ±2 °C (−25 °C ~ 85 °C)",
+        "Cantidad máxima de canales: 48 celdas (4 módulos × 12 celdas)",
+        "Interfaces de ecualización: 26 pines × 2",
+        "Interfaz de temperatura: 24 pines",
+        "Comunicación: Wi-Fi, TCP/IP, USB",
+        "Pantalla: LCD táctil de 10 pulgadas, resolución 1280 × 800",
+        "Refrigeración: Ventilación forzada",
+        "Temperatura de trabajo: −5 °C ~ 45 °C",
+        "Dimensiones: 500.5 × 335 × 643.2 mm"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñado para uso profesional en mantenimiento de baterías EV",
+        "Protecciones eléctricas conforme a estándares industriales",
+        "Seguro para operación en entornos de alto voltaje con procedimientos adecuados"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "El equipo trabaja a nivel de celda, no de pack completo",
+        "Requiere conexión correcta de arneses de ecualización y sensores de temperatura",
+        "Debe ser operado por personal técnico capacitado en baterías de litio",
+        "Ideal como complemento de herramientas de diagnóstico EV como P01 y P03",
+        "El uso incorrecto puede provocar daños en las celdas o en el equipo"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "EB480 Ecualizador de celdas para baterías de vehículos eléctricos",
+    "description": "Equipo profesional para ecualización y mantenimiento de celdas de baterías de litio en vehículos eléctricos, con soporte hasta 48 celdas y registro avanzado de datos."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Consultar",
+    "url": ""
+  }
+}

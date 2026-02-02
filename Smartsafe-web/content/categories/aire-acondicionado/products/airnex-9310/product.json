@@ -1,0 +1,93 @@
+{
+  "categorySlug": "aire-acondicionado",
+  "slug": "airnex-9310",
+  "title": "Brain Bee AIR-NEX 9310 – Estación de Servicio A/C (R134a)",
+  "shortDescription": "Estación A/C compacta y automática para mantenimiento de sistemas de aire acondicionado automotriz con refrigerante R134a. Diseñada como solución móvil o segunda unidad de taller, ofrece recuperación, reciclado, vacío y carga con alta precisión, manteniendo la tecnología MAHLE en un formato robusto y sencillo.",
+  "badge": "R134a",
+  "order": 2,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "Brain Bee AIR-NEX 9310 – Máquina de aire acondicionado automotriz (R134a)",
+    "description": "Estación A/C automática para sistemas automotrices R134a. Recuperación, reciclado, vacío y carga de refrigerante en un formato compacto y robusto, ideal como segunda unidad o solución móvil de taller."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SBBAIR-NEX9310"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Estación A/C automática para sistemas automotrices con refrigerante R134a.",
+        "Formato compacto, robusto y móvil, ideal como segunda unidad de taller.",
+        "Recuperación, reciclado, vacío y carga de refrigerante en ciclos automáticos o manuales.",
+        "Inyección automática de aceite temporizada.",
+        "Exportación de reportes de servicio en formato PDF vía USB.",
+        "Función Oil Clean para asegurar correcta recuperación del aceite.",
+        "Fabricada por MAHLE – Brain Bee."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento completo de sistemas de aire acondicionado automotriz con R134a.",
+        "Recuperación y reciclado de refrigerante.",
+        "Generación de vacío y recarga precisa de sistemas A/C.",
+        "Uso como estación secundaria o solución móvil en talleres."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tipo de refrigerante: R134a.",
+        "Capacidad del tanque de refrigerante: 12 L.",
+        "Presión máxima de operación: 20 bar.",
+        "Bomba de vacío: 50 L/min.",
+        "Nivel de vacío: 0.02 mbar.",
+        "Compresor de recuperación: 8 cc.",
+        "Purga de gases no condensables: automática con descarga manual.",
+        "Botellas de aceite: 2 (aceite nuevo y aceite usado).",
+        "Longitud de mangueras HP/LP: 3 m.",
+        "Manómetros HP/LP: analógicos 80 mm.",
+        "Dimensiones (An x Prof x Al): 617 x 535 x 984 mm.",
+        "Peso en vacío: aprox. 65 kg.",
+        "Alimentación eléctrica: 230 V ~ 50 Hz.",
+        "Potencia: 800 W.",
+        "Temperatura de trabajo: 10 a 50 °C.",
+        "Humedad admisible: 10–90% HR (sin condensación)."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de uso",
+      "items": [
+        "Utilizar en áreas bien ventiladas o en exteriores.",
+        "Operar únicamente por personal capacitado en sistemas de refrigeración automotriz.",
+        "Conectar a red eléctrica con puesta a tierra y tensión nominal indicada.",
+        "No utilizar en ambientes con riesgo de explosión ni cerca de fuentes de calor.",
+        "Usar exclusivamente refrigerante R134a puro (no mezclas).",
+        "Verificar correcta conexión de mangueras HP y LP antes de iniciar los ciclos."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Funciones como test de fugas con nitrógeno, identificación de gas, Eco Lock y función híbridos requieren kits opcionales.",
+        "La impresora térmica es opcional; los reportes pueden exportarse en PDF mediante USB.",
+        "Las especificaciones pueden variar según versión o mercado."
+      ]
+    }
+  ]
+}

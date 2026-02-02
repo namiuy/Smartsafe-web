@@ -1,0 +1,165 @@
+{
+  "categorySlug": "linea-pesada",
+  "slug": "x-431-pro3-link-hd",
+  "title": "X-431 Pro 3 Link HD – Diagnóstico Profesional Línea Pesada",
+  "shortDescription": "Scanner flagship Launch para diagnóstico avanzado de vehículos comerciales y línea pesada, con diagnóstico local y remoto SmartLink, base de datos X-431 FIX, amplias funciones de servicio y cobertura multi-marca para camiones, ómnibus y maquinaria.",
+  "badge": "Flagship Línea Pesada",
+  "order": 1,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "scanner-de-diagnostico",
+    "tipo-de-vehiculo": "linea-pesada",
+    "aplicacion": "diagnostico-avanzado"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Scanner profesional flagship para diagnóstico de línea pesada",
+        "Diagnóstico de camiones, ómnibus, trailers, maquinaria agrícola, construcción y embarcaciones",
+        "Soporte de diagnóstico local y remoto mediante SmartLink",
+        "Base de datos X-431 FIX con diagramas eléctricos y guías de reparación",
+        "Amplias funciones de servicio para vehículos comerciales",
+        "Arquitectura modular con selección de región y fabricante",
+        "Compatible con protocolos CAN, CAN-FD, DoIP y J2534",
+        "Pantalla táctil de 10.1 pulgadas con protección Gorilla Glass"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Talleres especializados en línea pesada",
+        "Mantenimiento de flotas de transporte",
+        "Diagnóstico de camiones y ómnibus",
+        "Servicio técnico en maquinaria agrícola",
+        "Diagnóstico de maquinaria de construcción",
+        "Aplicaciones industriales y embarcaciones"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones de diagnóstico",
+      "items": [
+        "Lectura y borrado de códigos de falla (DTC)",
+        "Lectura de datos en tiempo real",
+        "Escaneo completo de sistemas",
+        "Diagnóstico local y remoto",
+        "Control bidireccional",
+        "Actualización inalámbrica de software",
+        "Acceso a información de reparación integrada",
+        "Soporte para calibración ADAS HD (opcional)"
+      ]
+    },
+    {
+      "type": "service-functions",
+      "title": "Funciones de servicio",
+      "items": [
+        "Regeneración de DPF",
+        "Ajuste de parámetros",
+        "Corte de cilindros / prueba de compresión",
+        "Reseteo de mantenimiento",
+        "Codificación de inyectores",
+        "Ajuste de velocidad",
+        "Ajuste de ralentí",
+        "Calibración de ventilador",
+        "Control remoto de acelerador",
+        "Reset de transmisión",
+        "Reset de frenos",
+        "Reemplazo de transmisión",
+        "Reset de sensores NOx",
+        "Tratamiento de post-emisiones",
+        "Inmovilizador",
+        "Suspensión",
+        "Cambio de idioma",
+        "Cambio de PTO",
+        "Limpieza profunda de DTC"
+      ]
+    },
+    {
+      "type": "connectors",
+      "title": "Conectores incluidos (HD III)",
+      "items": [
+        "OBD-16",
+        "BENZ-14",
+        "MITSUBISHI 12+16",
+        "CUMMINS-12",
+        "CAT-9",
+        "ISUZU-20",
+        "ISUZU-3",
+        "OBD-6",
+        "OBD-9",
+        "VOLVO-8",
+        "RENAULT-12",
+        "IVECO-30",
+        "IVECO-38",
+        "MAN-12",
+        "MAN-37",
+        "HYUNDAI-16",
+        "WP-3",
+        "DONGFENG-16"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Sistema operativo: Android 10",
+        "Pantalla: 10.1 pulgadas",
+        "Resolución: 1280 × 800",
+        "Procesador: Quad-Core 2.0 GHz",
+        "Memoria RAM: 4 GB",
+        "Almacenamiento interno: 64 GB",
+        "Batería: 7.6 V / 6300 mAh (47.88 Wh)",
+        "Cámara trasera: 8 MP",
+        "Conectividad: Wi-Fi 2.4 GHz, Bluetooth",
+        "Interfaces: USB Type-A y USB Type-C",
+        "Dimensiones: 274 × 190.5 × 40.5 mm"
+      ]
+    },
+    {
+      "type": "coverage",
+      "title": "Cobertura de vehículos",
+      "items": [
+        "Camiones y ómnibus",
+        "Vehículos comerciales",
+        "Maquinaria agrícola",
+        "Maquinaria de construcción",
+        "Embarcaciones",
+        "Cobertura multi-marca internacional",
+        "Más de 100 softwares de diagnóstico disponibles y en expansión"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "El diagnóstico de línea pesada se realiza mediante la interfaz X-431 HD III",
+        "La calibración ADAS HD es una función opcional",
+        "Algunas funciones requieren software adicional",
+        "La cobertura depende del fabricante, modelo y año del vehículo",
+        "Diseñado para uso profesional intensivo en talleres y flotas"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Launch X-431 Pro 3 Link HD Diagnóstico Línea Pesada",
+    "description": "Scanner profesional Launch X-431 Pro 3 Link HD para diagnóstico avanzado de línea pesada, con funciones de servicio, conectores HD III y cobertura multi-marca."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "service-functions",
+    "connectors",
+    "specs",
+    "coverage",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLAX431PRO3LKHD"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "traje-proteccion-ev",
+  "title": "Traje de protección aislante para trabajos en vehículos eléctricos",
+  "shortDescription": "Traje de protección personal diseñado para trabajos seguros en vehículos eléctricos, que incluye indumentaria aislante para intervenciones en sistemas de alto voltaje hasta 1000 V.",
+  "badge": "Seguridad EV",
+  "order": 3,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "equipo-de-proteccion-personal",
+    "aplicacion": "trabajo-seguro-ev",
+    "nivel-de-tension": "hasta-1000v"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Indumentaria de seguridad para trabajos EV",
+        "Diseñado para protección frente a alto voltaje",
+        "Incluye traje aislante y accesorios de protección",
+        "Uso recomendado en intervenciones sobre baterías",
+        "Elemento clave en protocolos de seguridad EV"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento de vehículos eléctricos",
+        "Intervenciones en baterías y sistemas HV",
+        "Trabajo seguro en talleres EV",
+        "Centros de diagnóstico y reparación especializados"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Recomendado para trabajos hasta 1000 V",
+        "Debe utilizarse junto con otros EPP EV",
+        "Uso exclusivo por personal capacitado"
+      ]
+    }
+  ],
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SSMESUIT"
+  }
+}

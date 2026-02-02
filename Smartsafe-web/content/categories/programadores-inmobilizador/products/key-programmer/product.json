@@ -1,0 +1,138 @@
+{
+  "categorySlug": "programadores-inmovilizador",
+  "slug": "key-programmer",
+  "title": "Key Programmer & Universal Keys",
+  "shortDescription": "Programador de llaves y chips LAUNCH para lectura, identificación, generación y prueba de transponders, compatible con scanners X-431 (Pro SE en adelante), incluyendo llaves universales y super chip.",
+  "badge": "IMMO Accesorio",
+  "order": 3,
+  "isFeatured": false,
+  "isActive": true,
+
+  "filters": {
+    "tipo-de-programacion": "chips-y-llaves",
+    "metodo": "induccion-usb",
+    "marca-vehiculo": "multimarca"
+  },
+
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Descripción general",
+      "items": [
+        "Programador de llaves y chips dedicado para sistemas IMMO",
+        "Compatible con X-431 IMMO PAD e IMMO Pro",
+        "Diseñado para lectura, identificación y generación de chips de llaves",
+        "Soporte para llaves universales y super chip",
+        "Comunicación directa mediante conexión USB Type-C",
+        "Herramienta auxiliar esencial para trabajos avanzados de inmovilizador"
+      ]
+    },
+
+    {
+      "type": "functions",
+      "title": "Funciones del Key Programmer",
+      "items": [
+        "Lectura de chips de llaves",
+        "Identificación del tipo de chip",
+        "Generación de chips",
+        "Prueba de frecuencia del chip",
+        "Soporte para lectura y escritura de chips antirrobo",
+        "Emparejamiento de control remoto",
+        "Lectura de contraseñas antirrobo",
+        "Reemplazo de componentes del sistema antirrobo"
+      ]
+    },
+
+    {
+      "type": "functions",
+      "title": "Funciones con llaves universales",
+      "items": [
+        "Generación de llaves universales mediante software X-431",
+        "Programación inalámbrica de llaves universales compatibles",
+        "Soporte para distintos modelos de llaves universales LAUNCH",
+        "Emparejamiento remoto con el vehículo",
+        "Uso conjunto con sistemas IMMO compatibles"
+      ]
+    },
+
+    {
+      "type": "functions",
+      "title": "Funciones del Super Chip",
+      "items": [
+        "Conversión de super chip para múltiples modelos de vehículos",
+        "Soporte para chips 8A, 8C, 8E, 4C, 4D, 4E",
+        "Soporte para chips 48, 7935, 7936, 7938, 7939",
+        "Soporte para chips 11, 12 y 13",
+        "Configuración del tipo de chip mediante menú dedicado",
+        "Uso del chip una vez generado correctamente"
+      ]
+    },
+
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Programación de llaves nuevas",
+        "Generación de llaves universales",
+        "Conversión de super chip",
+        "Trabajos de cerrajería automotriz",
+        "Soporte en escenarios All Keys Lost",
+        "Complemento para programación IMMO avanzada"
+      ]
+    },
+
+    {
+      "type": "specs",
+      "title": "Componentes incluidos",
+      "items": [
+        "Key Programmer",
+        "Cable de programación de llaves",
+        "Conector USB Type-C a USB",
+        "Set de llaves universales (4 unidades)",
+        "Super chip",
+        "Embalaje original LAUNCH"
+      ]
+    },
+
+    {
+      "type": "specs",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con LAUNCH X-431 IMMO PAD",
+        "Compatible con LAUNCH X-431 IMMO Pro",
+        "Integración directa con plataforma X-431",
+        "Funciones disponibles según sistema IMMO del vehículo"
+      ]
+    },
+
+    {
+      "type": "notes",
+      "title": "Notas importantes",
+      "items": [
+        "Las funciones dependen del sistema antirrobo del vehículo",
+        "No todas las llaves universales son compatibles con todos los modelos",
+        "La conversión del super chip debe realizarse siguiendo el procedimiento indicado",
+        "Uso exclusivo profesional",
+        "Requiere equipos X-431 compatibles para su funcionamiento"
+      ]
+    }
+  ],
+
+  "seo": {
+    "title": "LAUNCH X-431 Key Programmer y llaves universales",
+    "description": "Programador de llaves LAUNCH X-431 compatible con IMMO PAD e IMMO Pro para lectura, generación y prueba de chips, llaves universales y super chip."
+  },
+
+  "sectionsOrder": [
+    "highlights",
+    "functions",
+    "applications",
+    "specs",
+    "notes"
+  ],
+
+  "purchase": {
+    "label": "Consultar",
+    "url": ""
+  }
+}

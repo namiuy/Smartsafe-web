@@ -1,0 +1,87 @@
+{
+  "categorySlug": "gomeria",
+  "slug": "twc-321",
+  "title": "LAUNCH TWC-321 – Desenllantadora semiautomática",
+  "shortDescription": "Desenllantadora semiautomática de nivel inicial para automóviles, con brazo basculante (swing arm) y diseño robusto, apta para llantas de 11” a 19”.",
+  "badge": "Equipo profesional",
+  "order": 1,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH TWC-321 Desenllantadora semiautomática",
+    "description": "Desenllantadora LAUNCH TWC-321 semiautomática para automóviles, compatible con llantas de 11 a 19 pulgadas, ideal para gomerías y talleres."
+  },
+  "filters": {
+    "tipo-de-equipo": "desenllantadora",
+    "tipo-de-vehiculo": "automovil"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Ventajas principales",
+      "items": [
+        "Desenllantadora semiautomática para automóviles",
+        "Compatible con llantas de 11” a 19”",
+        "Brazo basculante (swing arm) para operación simple y rápida",
+        "Protectores plásticos en cabezal y mordazas para proteger la llanta",
+        "Sistema de pedales para un manejo cómodo",
+        "Estructura robusta fabricada en acero Q235 y componentes de aluminio"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Gomerías",
+        "Talleres mecánicos",
+        "Centros de servicio automotriz",
+        "Servicio de montaje y desmontaje de neumáticos de automóvil"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Montaje y desmontaje de neumáticos",
+        "Destalonado mediante brazo lateral",
+        "Sujeción de rueda mediante plato autocentrante",
+        "Operación controlada por pedal"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Diámetro de llanta admitido: 11” – 19”",
+        "Diámetro máximo de rueda: 980 mm",
+        "Ancho máximo de rueda: 3” – 12”",
+        "Velocidad de rotación del plato: 7 – 14 rpm",
+        "Presión de trabajo: 0.7 – 0.8 MPa",
+        "Alimentación eléctrica: 220 V / 380 V",
+        "Peso bruto / neto: 248 kg / 190 kg",
+        "Dimensiones del embalaje: 1000 × 920 × 980 mm"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo de nivel inicial orientado a mercados en desarrollo",
+        "Diseñada para neumáticos de automóviles",
+        "No incluye brazo auxiliar",
+        "Funcionamiento semiautomático"
+      ]
+    }
+  ],
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLATWC-321"
+  }
+}

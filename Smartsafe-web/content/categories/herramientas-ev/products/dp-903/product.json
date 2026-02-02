@@ -1,0 +1,119 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "dp-903",
+  "title": "DP-903 – Fuente de alimentación digital y cargador portátil para vehículos eléctricos",
+  "shortDescription": "Equipo inteligente de alta tensión que combina fuente de alimentación digital y cargador portátil, diseñado para pruebas offline, mantenimiento de sistemas de alto voltaje y carga móvil de vehículos eléctricos.",
+  "badge": "Equipo EV profesional",
+  "order": 16,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "fuente-y-cargador-ev",
+    "aplicacion": "mantenimiento-y-carga-movil-ev",
+    "nivel-de-tension": "50-1000v"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Equipo todo en uno: fuente de alimentación HV y cargador portátil",
+        "Amplio rango de voltaje de 50 a 1000 V",
+        "Alta potencia de salida de hasta 20 kW",
+        "Corriente máxima de carga de 67 A",
+        "Soporta carga completa del vehículo y carga directa de packs",
+        "Permite carga de baterías sin depender del BMS",
+        "Pantalla táctil HD de 10.1 pulgadas",
+        "Diseño portátil con ruedas plegables"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento y prueba de componentes de alto voltaje",
+        "Carga móvil de vehículos eléctricos en talleres o asistencia",
+        "Pruebas offline de sistemas EV",
+        "Carga de packs o módulos de batería fuera del vehículo",
+        "Soporte técnico en inspección y diagnóstico de baterías",
+        "Escenarios de carga de emergencia para vehículos eléctricos"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Salida de bajo voltaje para alimentación de componentes automotrices",
+        "Salida de alto voltaje con voltaje y corriente ajustables",
+        "Carga completa del vehículo mediante pistola de carga rápida estándar",
+        "Carga directa de packs de batería sin comunicación BMS (blind charging)",
+        "Adquisición de datos del BMS: SOC, voltaje, corriente, temperatura y estado de celdas",
+        "Visualización en tiempo real de parámetros eléctricos",
+        "Control completo desde interfaz táctil",
+        "Protecciones múltiples para operación segura en alto voltaje"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Rango de voltaje de carga: 50 ~ 1000 V",
+        "Corriente máxima de carga: 67 A",
+        "Potencia máxima: 20 kW",
+        "Salida de bajo voltaje: 12 V",
+        "Corriente de salida de bajo voltaje: hasta 5 A",
+        "Rango de corriente de fuente HV: 0.5 ~ 20 A",
+        "Precisión de voltaje: ±0.5% (rango 200 ~ 1000 V)",
+        "Precisión de corriente: ±1% (dentro del 20% al 100% de corriente nominal)",
+        "Pantalla: táctil capacitiva color de 10.1 pulgadas",
+        "Sistema operativo: Android 8.1",
+        "Comunicación: RS485, CAN, USB, Wi-Fi",
+        "Alimentación de entrada: AC 274 ~ 487 V, 45 ~ 55 Hz",
+        "Refrigeración: ventilación forzada",
+        "Protecciones:",
+        "  - Sobrecorriente",
+        "  - Cortocircuito",
+        "  - Subtensión",
+        "  - Sobrevoltaje",
+        "  - Sobretemperatura",
+        "  - Protección contra conexión inversa"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñado para uso profesional en sistemas EV",
+        "Protecciones eléctricas integrales para alto voltaje",
+        "Adecuado para mantenimiento y carga segura de vehículos eléctricos"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo apto para carga móvil y pruebas offline",
+        "Permite carga directa de packs sin comunicación BMS",
+        "Ideal para talleres EV, flotas y asistencia técnica",
+        "Debe ser operado por personal capacitado en sistemas de alto voltaje",
+        "Complementa equipos de diagnóstico y mantenimiento de baterías EV"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "DP-903 Fuente de alimentación digital y cargador portátil EV",
+    "description": "Equipo profesional de alta tensión para carga móvil, mantenimiento y pruebas offline de vehículos eléctricos, con rango de 50 a 1000 V y potencia de hasta 20 kW."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  }
+}

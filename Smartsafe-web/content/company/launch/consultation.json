@@ -1,0 +1,68 @@
+{
+  "title": "Consultar disponibilidad",
+  "description": "Contactate con nuestro equipo para asesoramiento y disponibilidad del producto.",
+  "locations": [
+    {
+      "slug": "centro",
+      "name": "Local Centro",
+      "map": {
+        "label": "Cómo llegar",
+        "embedHtml": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3272.247098938889!2d-56.189491611450855!3d-34.900248003201625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x959f812397dde80d%3A0x20c71ffaaed49ea4!2sNami!5e0!3m2!1ses-419!2suy!4v1769695013369!5m2!1ses-419!2suy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+      },
+      "contacts": [
+        {
+          "name": "Facundo Génova",
+          "role": ["Ventas", "Servicio Técnico"],
+          "phone": "092748865",
+          "whatsapp": "https://wa.me/59892748865"
+        },
+        {
+          "name": "Luis Panasco",
+          "role": ["Ventas", "Servicio Técnico"],
+          "phone": "098155763",
+          "whatsapp": "https://wa.me/59898155763"
+        },
+        {
+          "name": "Carlos Romero",
+          "role": ["Ventas"],
+          "phone": "099617694",
+          "whatsapp": "https://wa.me/59899617694"
+        },
+        {
+          "name": "Tadeo Morales",
+          "role": ["Ventas"],
+          "phone": "091033282",
+          "whatsapp": "https://wa.me/59891033282"
+        },
+        {
+          "name": "Sebastian Corajoría",
+          "role": ["Ventas"],
+          "phone": "091074329",
+          "whatsapp": "https://wa.me/59891074329"
+        }
+      ]
+    },
+    {
+      "slug": "bulevar",
+      "name": "Local Bulevar",
+      "map": {
+        "label": "Cómo llegar",
+        "embedHtml": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.428149214788!2d-56.17882272424795!3d-34.870593572859825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x959f80723da6282f%3A0x873db6ef78557d7!2sNami%20Bulevar!5e0!3m2!1ses-419!2suy!4v1769694988215!5m2!1ses-419!2suy\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+      },
+      "contacts": [
+        {
+          "name": "Luis Rodríguez",
+          "role": ["Ventas"],
+          "phone": "098829026",
+          "whatsapp": "https://wa.me/59898829026"
+        },
+        {
+          "name": "Bruno",
+          "role": ["Ventas"],
+          "phone": "098000600",
+          "whatsapp": "https://wa.me/59898000600"
+        }
+      ]
+    }
+  ]
+}

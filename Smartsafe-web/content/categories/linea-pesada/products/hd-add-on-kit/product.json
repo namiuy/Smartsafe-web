@@ -1,0 +1,92 @@
+{
+  "categorySlug": "linea-pesada",
+  "slug": "hd-add-on-kit",
+  "title": "HD Add-On Kit – Software y Conectores Línea Pesada",
+  "shortDescription": "Kit de expansión Launch para diagnóstico de línea pesada que incluye software HD por 1 año y set completo de conectores, diseñado para ampliar scanners X-431 compatibles. No incluye interfaz de diagnóstico.",
+  "badge": "Add-On Línea Pesada",
+  "order": 3,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "kit-de-expansion",
+    "tipo-de-vehiculo": "linea-pesada",
+    "aplicacion": "diagnostico"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Kit de expansión para diagnóstico de línea pesada",
+        "Incluye software de vehículos pesados por 1 año",
+        "Compatible con scanners Launch X-431 seleccionados",
+        "Incluye set completo de conectores para línea pesada",
+        "Ideal para ampliar equipos existentes sin comprar un kit completo",
+        "No incluye interfaz de diagnóstico (VCI)"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Actualización de scanners X-431 a línea pesada",
+        "Talleres que ya poseen interfaz HD",
+        "Flotas que desean habilitar diagnóstico HD por software",
+        "Centros de servicio que amplían cobertura a camiones y ómnibus"
+      ]
+    },
+    {
+      "type": "connectors",
+      "title": "Conectores incluidos",
+      "items": [
+        "OBD-16",
+        "BENZ-14",
+        "MITSUBISHI 12+16",
+        "CUMMINS-12",
+        "CAT-9",
+        "ISUZU-20",
+        "ISUZU-3",
+        "OBD-6",
+        "OBD-9",
+        "VOLVO-8",
+        "RENAULT-12",
+        "IVECO-30",
+        "IVECO-38",
+        "MAN-12",
+        "MAN-37",
+        "HYUNDAI-16",
+        "WP-3",
+        "DONGFENG-16"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas importantes",
+      "items": [
+        "Este kit NO incluye interfaz de diagnóstico (HD III u otra)",
+        "Requiere una interfaz compatible para operar",
+        "Incluye 1 año de actualizaciones de software de línea pesada",
+        "Finalizado el período, las actualizaciones pueden renovarse",
+        "Set de conectores idéntico al del X-431 HD III",
+        "Producto orientado a uso profesional"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "HD Add-On Kit Launch – Software y Conectores Línea Pesada",
+    "description": "Kit Launch HD Add-On para habilitar diagnóstico de línea pesada: incluye software por 1 año y set completo de conectores. No incluye interfaz."
+  },
+  "cta": {
+    "secondaryLabel": "Consultar compatibilidad"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "connectors",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLAHDADDON"
+  }
+}

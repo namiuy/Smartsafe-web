@@ -1,0 +1,92 @@
+{
+  "categorySlug": "aire-acondicionado",
+  "slug": "airnex-9410",
+  "title": "Brain Bee AIR-NEX 9410 – Estación de Servicio A/C (R1234yf)",
+  "shortDescription": "Estación A/C automática compacta y profesional para sistemas automotrices con refrigerante R1234yf. Diseñada para talleres que buscan alto nivel tecnológico sin grandes inversiones, ofrece operación guiada, exportación de reportes en PDF por USB y conectividad avanzada dentro de la línea AIR-NEX.",
+  "badge": "R1234yf",
+  "order": 5,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "Brain Bee AIR-NEX 9410 – Máquina de aire acondicionado automotriz (R1234yf)",
+    "description": "Estación A/C automática para R1234yf. Compacta, móvil y robusta, con recuperación, vacío y carga precisa, exportación de reportes PDF vía USB y diseño AIR-NEX de última generación."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SBBAIR-NEX9410"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Estación A/C automática para sistemas automotrices con refrigerante R1234yf.",
+        "Diseño compacto, móvil y robusto, ideal como equipo principal o unidad secundaria.",
+        "Interfaz simple e intuitiva que guía al operador durante todo el proceso.",
+        "Exportación de reportes de servicio en formato PDF mediante USB.",
+        "Inyección automática de aceite temporizada.",
+        "Sistema Oil Clean para recuperación eficaz del aceite.",
+        "Purga automática de gases no condensables.",
+        "Fabricada por MAHLE – Brain Bee."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento completo de sistemas de aire acondicionado automotriz con R1234yf.",
+        "Recuperación, vacío y recarga precisa del refrigerante.",
+        "Servicios de A/C en talleres que trabajan con vehículos modernos.",
+        "Solución móvil o segundo equipo para servicios A/C especializados."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tipo de refrigerante: R1234yf.",
+        "Inyección automática de aceite: temporizada.",
+        "Botellas de aceite: 2 (aceite nuevo y aceite usado).",
+        "Purga de gases no condensables: automática.",
+        "Exportación de reportes: PDF vía USB.",
+        "Capacidad del tanque de refrigerante: 12 L.",
+        "Dimensiones (An x Prof x Al): 544 x 617 x 957 mm.",
+        "Peso en vacío: aprox. 65 kg.",
+        "Eco Lock: opcional.",
+        "Impresora térmica: opcional.",
+        "Función híbridos: opcional.",
+        "Test de fugas N-Leak: mediante kit externo opcional.",
+        "Identificador de gas: opcional."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de uso",
+      "items": [
+        "Operar en áreas bien ventiladas.",
+        "Uso exclusivo por personal capacitado en A/C automotriz.",
+        "Verificar el tipo de refrigerante presente en el vehículo antes de cada servicio.",
+        "Conectar correctamente las mangueras de alta y baja presión.",
+        "Usar elementos de protección personal durante la operación.",
+        "Controlar periódicamente nivel de aceite y versión de software."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "El AIR-NEX 9410 trabaja exclusivamente con refrigerante R1234yf.",
+        "Funciones como Eco Lock, impresora térmica, híbridos y N-Leak requieren accesorios opcionales.",
+        "Los reportes pueden descargarse mediante USB sin necesidad de impresora.",
+        "Las especificaciones pueden variar según versión o mercado."
+      ]
+    }
+  ]
+}

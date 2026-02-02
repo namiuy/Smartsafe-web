@@ -1,0 +1,105 @@
+{
+  "categorySlug": "adas",
+  "slug": "adas-mobile-plus",
+  "title": "ADAS Mobile Plus – Sistema Portátil Avanzado de Calibración ADAS",
+  "shortDescription": "Sistema profesional portátil para calibración ADAS estática, diseñado para calibrar cámaras, radares y sensores de asistencia a la conducción. El ADAS Mobile Plus combina estructura plegable, posicionamiento preciso y compatibilidad avanzada con targets, ofreciendo máxima flexibilidad para talleres y servicios móviles.",
+  "badge": "Calibración Estática",
+  "order": 4,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "ADAS Mobile Plus – Equipo portátil avanzado de calibración ADAS",
+    "description": "Equipo profesional Launch ADAS Mobile Plus para calibración estática ADAS: cámaras, radares y sistemas de asistencia a la conducción con estructura portátil y targets avanzados."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "compatibility",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Sistema ADAS portátil con diseño plegable y liviano.",
+        "Optimizado para calibraciones estáticas de alta precisión.",
+        "Estructura robusta con microajustes para alineación exacta.",
+        "Preparación rápida y operación eficiente en espacios reducidos.",
+        "Compatible con amplia gama de targets ADAS Launch.",
+        "Ideal para talleres y servicios móviles de calibración."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Calibración de cámaras frontales ADAS (LDW, LKA, TSR).",
+        "Calibración de radares delanteros (ACC, FCW).",
+        "Calibración de radares laterales y traseros (BSD, RCW).",
+        "Calibración de sistemas AVM / 360°.",
+        "Calibración de sistemas de visión nocturna (NV)."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Compatible con software ADAS de Launch.",
+        "Soporte para múltiples marcas asiáticas, europeas y americanas.",
+        "Compatible con targets estándar Launch ADAS.",
+        "Requiere escáner Launch X-431 con función ADAS."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Superficie del piso nivelada.",
+        "Espacio frontal suficiente según procedimiento OEM.",
+        "Iluminación adecuada durante la calibración.",
+        "Uso obligatorio de escáner Launch compatible.",
+        "Técnico capacitado en sistemas ADAS."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Tipo de equipo: sistema portátil de calibración ADAS.",
+        "Tipo de calibración: estática.",
+        "Estructura: plegable y modular.",
+        "Peso aproximado: 21 kg.",
+        "Sistema de alineación: posicionamiento mecánico con microajustes.",
+        "Instalación: no requiere fijación permanente."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Configuración del sistema",
+      "items": [
+        "Estructura ADAS Mobile Plus.",
+        "Soportes y brazos de posicionamiento.",
+        "Accesorios de alineación y ajuste.",
+        "Targets incluidos según configuración seleccionada."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Los targets y accesorios varían según el kit adquirido.",
+        "Algunos sistemas ADAS requieren targets específicos por marca.",
+        "La cobertura depende de la versión del software ADAS Launch.",
+        "Equipo orientado a uso profesional."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Consultar disponibilidad",
+    "url": ""
+  }
+}

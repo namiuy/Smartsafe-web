@@ -1,0 +1,113 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "et-500",
+  "title": "ET-500 – Equipo de prueba de hermeticidad para baterías de vehículos eléctricos",
+  "shortDescription": "Equipo profesional de prueba de hermeticidad por presión para packs de baterías de vehículos eléctricos, diseñado para ensayos no destructivos de alta precisión en procesos de diagnóstico y control de calidad.",
+  "badge": "Equipo EV profesional",
+  "order": 8,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "prueba-de-hermeticidad",
+    "aplicacion": "control-de-calidad-baterias-ev",
+    "nivel-de-tension": "pack-de-bateria"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Equipo específico para prueba de hermeticidad en packs de baterías EV",
+        "Ensayo no destructivo mediante aire comprimido",
+        "Soporta pruebas de alta y baja presión",
+        "Alta sensibilidad y estabilidad en la detección de fugas",
+        "Pantalla táctil con visualización clara del proceso de prueba",
+        "Registro automático de parámetros y resultados"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Pruebas de sellado y estanqueidad en packs de baterías EV",
+        "Control de calidad en fabricación y ensamblaje de baterías",
+        "Detección de fugas en carcasas de baterías y sistemas de refrigeración líquida",
+        "Verificación de hermeticidad post-reparación de packs",
+        "Uso en talleres EV especializados y líneas de producción"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Prueba de hermeticidad mediante presión neumática",
+        "Modos de prueba de alta presión y baja presión",
+        "Configuración de parámetros: volumen del pack, presión objetivo, tiempos y límites de fuga",
+        "Visualización en tiempo real de presión y curva de ensayo",
+        "Indicador de estado del proceso de prueba por etapas",
+        "Alarmas visuales y sonoras ante fallas o valores fuera de rango",
+        "Gestión y almacenamiento de historial de pruebas",
+        "Exportación de datos mediante USB",
+        "Configuración del sistema y conexión Wi-Fi"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Modelo: ET-500",
+        "Método de prueba: Presión neumática",
+        "Rango de presión de prueba: 0 ~ 500 kPa",
+        "Resolución del sensor: 1 Pa",
+        "Precisión de medición: ±5 Pa",
+        "Potencia máxima: 35 W",
+        "Pantalla: LCD táctil de 7 pulgadas",
+        "Alimentación: AC 90–265 V / 50–60 Hz",
+        "Suministro de aire: 0.1 ~ 1.0 MPa (aire comprimido seco)",
+        "Conexiones de aire: Entrada φ6 mm / Salida φ6 mm",
+        "Interfaces de comunicación: RS485, USB",
+        "Almacenamiento de datos: Memoria interna y descarga por USB",
+        "Temperatura de trabajo: −10 °C ~ 55 °C",
+        "Humedad de trabajo: 10% ~ 90% (sin condensación)",
+        "Dimensiones: 281 × 281 × 370 mm",
+        "Peso: 7.2 kg"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñado para uso profesional en sistemas de baterías EV",
+        "Cumple normas de seguridad eléctrica industrial",
+        "Ensayo no destructivo y libre de contaminación"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo diseñado exclusivamente para pruebas de hermeticidad",
+        "No realiza mediciones eléctricas ni pruebas de aislamiento",
+        "Requiere suministro externo de aire comprimido limpio y seco",
+        "El pack de batería debe estar eléctricamente desconectado durante la prueba",
+        "Uso recomendado por personal técnico capacitado"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "ET-500 Prueba de hermeticidad para baterías de vehículos eléctricos",
+    "description": "Equipo profesional de prueba de hermeticidad por presión para packs de baterías de vehículos eléctricos, con alta precisión y registro de datos."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLAELT500"
+  }
+}

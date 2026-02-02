@@ -1,0 +1,107 @@
+{
+  "categorySlug": "alineadoras",
+  "slug": "x-861",
+  "title": "LAUNCH X-861 – Alineadora 3D",
+  "shortDescription": "Alineadora 3D profesional basada en visión por computadora, con cámaras HD y targets pasivos para medir y ajustar geometría delantera y trasera. Incluye procedimientos guiados, almacenamiento de históricos y base de datos vehicular para trabajar en talleres modernos.",
+  "badge": "Alineación 3D",
+  "order": 4,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH X-861 – Alineadora 3D profesional",
+    "description": "Alineadora 3D Launch X-861 para medición y ajuste de geometría vehicular: toe, camber, caster, SAI/kingpin y ángulo de empuje. Operación guiada y base de datos multimarca."
+  },
+  "purchaseUrl": null,
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "compatibility",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Medición 3D mediante visión computarizada: cámaras HD + análisis de targets.",
+        "Targets pasivos (sin electrónica): mayor durabilidad y menos puntos de falla.",
+        "Procedimiento de prueba simplificado con indicaciones guiadas.",
+        "Gestión de clientes e historial de mediciones.",
+        "Sistema de ayuda en pantalla y reportes imprimibles."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Alineación completa delantera y trasera (servicio de neumáticos, suspensión y dirección).",
+        "Diagnóstico de tironeo, desgaste irregular de neumáticos, volante descentrado o vibraciones.",
+        "Medición antes/después de reparación de tren delantero, reemplazo de componentes o impactos."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Parámetros medidos",
+      "items": [
+        "Toe (convergencia/divergencia) delantero y trasero.",
+        "Camber (caída) delantero y trasero.",
+        "Caster (avance) delantero.",
+        "SAI / Kingpin (inclinación del pivote).",
+        "Thrust Angle (ángulo de empuje).",
+        "Mediciones adicionales según procedimiento: wheelbase, tread, diagonal angle, etc."
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Instalación y operación por personal capacitado (alineación + uso básico de PC).",
+        "Evitar bloquear la línea de visión entre cámara y targets durante la medición.",
+        "Evitar humedad y luz solar directa/infrared sobre los targets.",
+        "Ambiente recomendado: 0–50 °C, humedad relativa ≤ 85%.",
+        "Plataforma/elevador: diferencia de altura frente/fondo < 2 mm."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación: 1PH AC220V ±10% 50Hz / AC110V ±10% 60Hz.",
+        "Principio de trabajo: 2 cámaras HD + 4 targets (montados con clamps).",
+        "Rango (según manual): Toe-in 0~±20° | Camber 0~±20° | SAI/Kingpin 0~±20° | Caster 0~±20° | Thrust Angle 0~±5°.",
+        "Diámetro de llanta soportado (según manual): 10\"–23\".",
+        "Base de datos vehicular: +20.000 modelos (según manual), con posibilidad de agregar datos."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Estructura principal: columna + viga (beam) con cámaras.",
+        "Gabinete / mueble.",
+        "Targets x4 + clamps x4.",
+        "Cables de comunicación (USB + alimentación entre PC y viga).",
+        "Platos giratorios (turntables) x2 (estándar).",
+        "Trabas y accesorios de movimiento (según kit).",
+        "Traba de volante (steering wheel holder).",
+        "Traba de pedal de freno (brake pedal depressor)."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "No abrir ni ajustar cámaras: vienen calibradas de fábrica; manipulación invalida garantía (según manual).",
+        "Targets y clamps son críticos: mantener limpios y sin deformaciones; limpiar con detergente neutro o etanol anhidro.",
+        "Si necesitás integrar con elevador/entorno específico del taller, definimos la configuración recomendada según espacio y flujo de trabajo."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Consultar disponibilidad",
+    "url": ""
+  }
+}

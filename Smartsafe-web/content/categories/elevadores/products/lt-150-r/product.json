@@ -1,0 +1,120 @@
+{
+  "categorySlug": "elevadores",
+  "slug": "lt-150-r",
+  "title": "LT-150-R – Plataforma elevadora para baterías EV",
+  "shortDescription": "Plataforma elevadora para desmontaje/instalación de packs de baterías y componentes en vehículos eléctricos. Diseño de bajo perfil (600 mm), control remoto y alimentación DC (12V/24V).",
+  "badge": "Baterías EV",
+  "order": 2,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LT-150-R (TLT610) – Plataforma elevadora EV 1000 kg",
+    "description": "Plataforma elevadora para baterías EV hasta 1000 kg. Altura mínima 600 mm, máxima 1900 mm, control remoto y alimentación DC 12/24V."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "capacity",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Plataforma elevadora para baterías EV y componentes (motor, caja, eje, tanque, suspensión y partes de chasis)",
+        "Altura mínima baja: 600 mm (ideal para maniobras bajo vehículo)",
+        "Control remoto por botonera portátil",
+        "Sistema de seguridad por traba mecánica accionada por electroimán",
+        "Diseño doble cilindro y puntos móviles con bujes autolubricados (oil-free)",
+        "Plataforma con ajuste de inclinación y ajuste de separación",
+        "Base con ruedas/rodillos y maneral tipo zorra para facilitar el traslado"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Desmontaje e instalación de packs de baterías en vehículos eléctricos (new energy)",
+        "Desmontaje/instalación de motor y componentes de tren motriz",
+        "Trabajos de mantenimiento con cargas por debajo de 1000 kg"
+      ]
+    },
+    {
+      "type": "capacity",
+      "title": "Capacidad y configuración",
+      "items": [
+        "Capacidad de elevación: 1000 kg",
+        "Altura mínima: 600 mm",
+        "Altura máxima: 1900 mm (sin pads de apoyo)",
+        "Plataforma: 800 mm (ancho) x 2200 mm (largo)",
+        "Tiempo de elevación: ≥30 s y ≤60 s",
+        "Tiempo de descenso: ≥35 s y ≤70 s",
+        "Inclinación: ≥3°"
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Alimentación: DC 12V o DC 24V (según versión)",
+        "Operación recomendada en superficie firme, plana y nivelada",
+        "Uso por personal capacitado, especialmente en trabajos con sistemas HV",
+        "Condiciones de trabajo: -5°C a +40°C (hasta 2000 m s.n.m.)"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Modelo de referencia (PDF): TLT610",
+        "Normas indicadas: JT155-2004 y BS EN 1570-1-2011 + A1-2014 (CE)",
+        "Diseño: doble cilindro, tuberías de poliuretano",
+        "Accionamiento: motor DC + bomba hidráulica neumática + cilindros",
+        "Desplazamiento lateral de mesa (side slip): 40 mm"
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Plataforma elevadora LT-150-R (TLT610)",
+        "Botonera de control portátil (control remoto)",
+        "Base con sistema de traslado (ruedas/rodillos) y maneral"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Los colores del equipo pueden variar según disponibilidad y lote de fabricación. Las imágenes son ilustrativas y pueden no coincidir exactamente con el producto entregado.",
+        "En documentación del fabricante puede figurar como TLT610. En Uruguay lo comercializamos como LT-150-R.",
+        "Algunas especificaciones pueden variar según versión o mercado."
+      ]
+    }
+  ],
+  "filters": {
+    "tipo-de-elevador": [
+      "baterias-ev"
+    ],
+    "capacidad": [
+      "1t"
+    ],
+    "aplicacion": [
+      "vehiculos-electricos"
+    ]
+  },
+  "tags": [
+    "elevador",
+    "baterias-ev",
+    "vehiculos-electricos",
+    "launch"
+  ]
+}

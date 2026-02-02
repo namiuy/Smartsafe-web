@@ -1,0 +1,40 @@
+{
+  "slug": "herramientas-ev",
+  "title": "Herramientas EV",
+  "shortDescription": "Herramientas y equipos especializados para diagnóstico, mantenimiento y trabajo seguro en vehículos eléctricos e híbridos.",
+  "order": 2,
+  "logo": "/images/products/herramientas-ev/logo/logo.svg",
+  "isActive": true,
+  "template": "ev-equipment",
+  "defaultSections": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "filters": [
+    "tipo-de-equipo",
+    "aplicacion",
+    "nivel-de-tension"
+  ],
+  "tags": [
+    "ev",
+    "vehiculos-electricos",
+    "baterias",
+    "aislamiento",
+    "ecualizacion",
+    "alta-tension"
+  ],
+  "seo": {
+    "title": "Herramientas y equipos para vehículos eléctricos",
+    "description": "Equipos profesionales para diagnóstico, mantenimiento y trabajo seguro en vehículos eléctricos: ecualizadores, medidores de aislamiento y kits EV."
+  },
+  "categoryBanner": {
+    "mode": "auto-from-products",
+    "imageIndex": 1,
+    "limit": 12
+  },
+  "featuredHeroProductSlug": "estacion-de-carga"
+}

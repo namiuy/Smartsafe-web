@@ -1,0 +1,41 @@
+{
+  "slug": "alineadoras",
+  "title": "Alineadoras",
+  "shortDescription": "Alineadoras profesionales, principalmente 3D, diseñadas para medición precisa y calibración de geometría vehicular en talleres modernos.",
+  "order": 5,
+  "logo": "/images/products/alineadoras/logo/logo.svg",
+  "isActive": true,
+  "template": "advanced-equipment",
+  "defaultSections": [
+    "highlights",
+    "applications",
+    "compatibility",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "filters": [
+    "tecnologia",
+    "tipo-de-vehiculo",
+    "integracion"
+  ],
+  "tags": [
+    "alineacion",
+    "alineadoras",
+    "3d",
+    "geometria",
+    "suspension",
+    "direccion"
+  ],
+  "seo": {
+    "title": "Alineadoras 3D para talleres automotrices",
+    "description": "Alineadoras 3D profesionales para medición y ajuste preciso de la geometría vehicular, compatibles con elevadores y estándares modernos."
+  },
+  "featuredHeroProductSlug": "x-613",
+  "categoryBanner": {
+    "mode": "auto-from-products",
+    "imageIndex": 1,
+    "limit": 12
+  }
+}

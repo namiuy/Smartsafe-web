@@ -1,0 +1,50 @@
+{
+  "company": {
+    "name": "Launch Uruguay",
+    "legalName": "Launch Uruguay",
+    "headline": "Somos Launch Uruguay",
+    "tagline": "Diagnóstico Sin Límites.",
+    "description": "Tecnología automotriz profesional: scanners, alineadoras, TPMS y más. Garantía oficial y soporte en Uruguay.",
+    "country": "Uruguay"
+  },
+
+  
+
+  "contact": {
+    "primaryWhatsapp": {
+      "number": "59898155763",
+      "url": "https://wa.me/59898155763",
+      "defaultMessage": "Hola, vengo desde la web de Launch Uruguay. Quería hacer una consulta."
+    },
+    "email": "ventas@nami.com.uy"
+  },
+
+  "social": {
+    "instagram": "https://www.instagram.com/launchuruguay/",
+    "tiktok": "https://www.tiktok.com/@launch.uruguay?is_from_webapp=1&sender_device=pc",
+    "youtube": "https://www.youtube.com/@namiuruguay277",
+    "facebook": "https://www.facebook.com/nami.ltda"
+  },
+
+  "seo": {
+    "defaultTitle": "Launch Uruguay | Diagnóstico automotriz profesional",
+    "defaultDescription": "Launch Uruguay: scanners automotrices, alineadoras, TPMS y equipamiento profesional. Diagnóstico sin límites, con garantía oficial y soporte local.",
+    "keywords": [
+      "Launch Uruguay",
+      "diagnóstico automotriz",
+      "scanner automotriz",
+      "alineadoras",
+      "TPMS",
+      "equipamiento automotriz profesional",
+      "garantía oficial Launch",
+      "soporte técnico Uruguay"
+    ]
+
+  },
+
+  "business": {
+    "timezone": "America/Montevideo",
+    "currency": "UYU",
+    "flagEmoji": "🇺🇾"
+  }
+}

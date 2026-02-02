@@ -1,0 +1,113 @@
+{
+  "categorySlug": "herramientas-ev",
+  "slug": "ecp-739",
+  "title": "ECP-739 – Equipo integral de prueba para compresores eléctricos",
+  "shortDescription": "Equipo profesional para prueba integral de compresores eléctricos de aire acondicionado en vehículos eléctricos e híbridos, que permite testeo eléctrico del circuito de accionamiento y prueba mecánica de estanqueidad y presión.",
+  "badge": "Equipo EV profesional",
+  "order": 17,
+  "isFeatured": false,
+  "isActive": true,
+  "filters": {
+    "tipo-de-equipo": "prueba-de-compresores-electricos",
+    "aplicacion": "diagnostico-de-climatizacion-ev",
+    "nivel-de-tension": "hasta-750v"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Equipo integral para prueba eléctrica y mecánica de compresores EV",
+        "Permite pruebas de circuito de accionamiento y funciones mecánicas",
+        "Pruebas de presurización y retención de presión",
+        "Cobertura para más de 900 modelos de compresores eléctricos",
+        "Funcionamiento offline que mejora la eficiencia y confiabilidad",
+        "Conexión inalámbrica para operación remota desde tablet",
+        "Incluye guía de reparación y casos de mantenimiento"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Diagnóstico de compresores eléctricos de aire acondicionado EV",
+        "Pruebas eléctricas del circuito de accionamiento del compresor",
+        "Pruebas mecánicas de estanqueidad y retención de presión",
+        "Soporte en reparación de sistemas de climatización en vehículos eléctricos",
+        "Uso en talleres EV, servicios oficiales y centros técnicos especializados"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Prueba eléctrica del circuito de accionamiento del compresor",
+        "Prueba mecánica de presurización y mantenimiento de presión",
+        "Diagnóstico offline sin necesidad de montar el compresor en el vehículo",
+        "Visualización en tiempo real del proceso de prueba",
+        "Guía de reparación basada en códigos de falla del compresor",
+        "Acceso online a diagramas de circuitos y casos de mantenimiento",
+        "Conexión inalámbrica para control remoto desde tablet",
+        "Proceso automático con un solo clic para prueba completa",
+        "Registro automático de resultados y generación de reportes",
+        "Actualización de software en línea sin uso de USB"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación de entrada: AC 90–264 V, 50–60 Hz",
+        "Potencia máxima de entrada: 7 kW",
+        "Salida de alto voltaje: DC 50–750 V",
+        "Corriente máxima de salida HV: 20 A",
+        "Salida de bajo voltaje: DC 12 V / 24 V",
+        "Corriente máxima de salida LV: 2 A",
+        "Capacidad del tanque de gas: 3 L",
+        "Presión máxima del equipo: 12 kgf/cm²",
+        "Comunicación: Wi-Fi + Bluetooth",
+        "Funciones de protección: Interruptor automático regulable 0–40 A",
+        "Temperatura de operación: −10 °C ~ 50 °C",
+        "Temperatura de almacenamiento: −20 °C ~ 70 °C",
+        "Humedad de operación: 20% ~ 90%",
+        "Humedad de almacenamiento: 10% ~ 90%"
+      ]
+    },
+    {
+      "type": "certifications",
+      "title": "Certificaciones",
+      "items": [
+        "Diseñado para uso profesional en sistemas de climatización EV",
+        "Protecciones eléctricas integrales para trabajo en alto voltaje",
+        "Apto para diagnóstico eléctrico y mecánico de compresores"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo orientado exclusivamente a compresores eléctricos",
+        "Permite diagnóstico completo sin instalar el compresor en el vehículo",
+        "Reduce tiempos de diagnóstico y evita reemplazos innecesarios",
+        "Requiere personal técnico capacitado en sistemas EV",
+        "Ideal para talleres especializados en climatización de vehículos eléctricos"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "ECP-739 Equipo de prueba para compresores eléctricos EV",
+    "description": "Equipo profesional para prueba eléctrica y mecánica de compresores eléctricos de aire acondicionado en vehículos eléctricos e híbridos."
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "certifications",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  }
+}

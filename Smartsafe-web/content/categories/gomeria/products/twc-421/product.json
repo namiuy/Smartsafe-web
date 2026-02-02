@@ -1,0 +1,88 @@
+{
+  "categorySlug": "gomeria",
+  "slug": "twc-421",
+  "title": "LAUNCH TWC-421 – Desenllantadora semiautomática",
+  "shortDescription": "Desenllantadora semiautomática para automóviles, con brazo basculante (swing arm), mesa autocentrante y opción de brazo auxiliar, ideal para gomerías que buscan mayor productividad.",
+  "badge": "Equipo profesional",
+  "order": 2,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH TWC-421 Desenllantadora semiautomática profesional",
+    "description": "Desenllantadora LAUNCH TWC-421 para automóviles, con mesa autocentrante, brazo basculante y opción de brazo auxiliar 4A."
+  },
+  "filters": {
+    "tipo-de-equipo": "desenllantadora",
+    "tipo-de-vehiculo": "automovil"
+  },
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Ventajas principales",
+      "items": [
+        "Desenllantadora semiautomática para automóviles",
+        "Brazo basculante (swing arm) para operación rápida",
+        "Mesa de trabajo autocentrante",
+        "Brazo auxiliar derecho 4A (opcional)",
+        "Sistema de pedales metálicos más estable y resistente",
+        "Cilindro destalonador de una vía que ahorra hasta 30% de aire y energía",
+        "Cabezal de montaje con diseño industrial duradero"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Gomerías",
+        "Talleres mecánicos",
+        "Centros de servicio automotriz",
+        "Montaje y desmontaje de neumáticos de automóvil"
+      ]
+    },
+    {
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Montaje y desmontaje de neumáticos",
+        "Destalonado mediante brazo lateral",
+        "Sujeción de rueda mediante mesa autocentrante",
+        "Operación mediante pedal"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Diámetro de llanta admitido: 9” – 22”",
+        "Diámetro máximo de rueda: 1050 mm",
+        "Ancho máximo de rueda: 4” – 13”",
+        "Presión de trabajo: 0.8 – 1 MPa",
+        "Alimentación eléctrica: 220 V / 230 V / 380 V / 400 V",
+        "Peso bruto / neto: 260 kg / 210 kg",
+        "Dimensiones del embalaje: 1150 × 900 × 950 mm",
+        "Fuerza máxima de sujeción: 360 kg"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Equipo de nivel intermedio",
+        "Orientada a neumáticos de automóviles",
+        "Brazo auxiliar 4A disponible como opcional",
+        "Funcionamiento semiautomático"
+      ]
+    }
+  ],
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "functions",
+    "specs",
+    "notes"
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLATWC-421"
+  }
+}

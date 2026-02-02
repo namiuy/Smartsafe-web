@@ -1,0 +1,131 @@
+{
+  "categorySlug": "elevadores",
+  "slug": "tlt-440-ew",
+  "title": "TLT-440-EW – Elevador de 4 columnas con alineación y gato central",
+  "shortDescription": "Elevador automotriz de cuatro columnas con kit de alineación y gato central integrado. Capacidad de 4 toneladas y sistema electrohidráulico sincronizado para talleres profesionales.",
+  "badge": "4 columnas · Alineación",
+  "order": 7,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "TLT-440-EW – Elevador 4 columnas con alineación y gato central",
+    "description": "Elevador 4 columnas 4T con kit de alineación y gato central. Control 24V, bloqueo mecánico y sincronización por cable de acero."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/STLT440EW"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "capacity",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Elevador automotriz de cuatro columnas con kit de alineación",
+        "Incluye gato central hidráulico (segundo elevador)",
+        "Cilindro hidráulico con sincronización por cable de acero para elevación/descenso estables",
+        "Excelente rendimiento de sincronización (4 cables de acero independientes)",
+        "Bloqueo mecánico completo por trinquete (full-range mechanical safety lock)",
+        "Sistema de seguridad por rotura de cable",
+        "Control eléctrico de elevación y descenso (24V seguridad de bajo voltaje)",
+        "Retorno por doble resorte para mayor confiabilidad del sistema de seguridad",
+        "Altura del sistema de bloqueo de seguridad ajustable para distintos entornos",
+        "Plataformas con distancia ajustable para diferentes trochas",
+        "Placa deslizante lateral con múltiples puntos de apoyo",
+        "Certificación CE"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Alineación de dirección",
+        "Mantenimiento general",
+        "Servicios de suspensión, frenos y tren delantero",
+        "Talleres que requieren elevación completa y eje libre (por gato central)"
+      ]
+    },
+    {
+      "type": "capacity",
+      "title": "Capacidad y configuración",
+      "items": [
+        "Capacidad del elevador principal: 4000 kg",
+        "Altura máxima de elevación (principal): 1850 mm",
+        "Altura mínima: 220 mm",
+        "Tiempo de elevación (principal): ≤ 60 s",
+        "Capacidad del gato central: 2000 kg",
+        "Altura máxima de elevación (gato): 450 mm",
+        "Tiempo de elevación (gato): ≤ 45 s"
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Alimentación eléctrica: trifásico 380V o monofásico 220V",
+        "Instalación sobre piso firme y nivelado",
+        "Uso en interiores",
+        "Recomendado para talleres de alineación"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Modelo: TLT-440-EW",
+        "Tipo: elevador 4 columnas con kit de alineación",
+        "Accionamiento: electrohidráulico",
+        "Potencia del motor: 2.2 kW",
+        "Nivel de ruido: ≤ 70 dB(A)",
+        "Presión hidráulica de trabajo: 20 MPa",
+        "Certificación CE"
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Elevador TLT-440-EW (4 columnas)",
+        "Kit de alineación",
+        "Gato central hidráulico",
+        "Plataformas de rodadura",
+        "Unidad hidráulica",
+        "Consola de control"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Los colores del equipo pueden variar según disponibilidad y lote de fabricación. Las imágenes son ilustrativas y pueden no coincidir exactamente con el producto entregado.",
+        "Las especificaciones pueden variar según versión o mercado."
+      ]
+    }
+  ],
+  "filters": {
+    "tipo-de-elevador": [
+      "4-columnas"
+    ],
+    "capacidad": [
+      "4t"
+    ],
+    "aplicacion": [
+      "alineacion"
+    ]
+  },
+  "tags": [
+    "elevador",
+    "4-columnas",
+    "alineacion",
+    "gato-central",
+    "taller"
+  ]
+}

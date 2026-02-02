@@ -1,0 +1,70 @@
+{
+  "categorySlug": "accesorios",
+  "slug": "vsp-600",
+  "title": "LAUNCH VSP-600",
+  "shortDescription": "VideoScope HD tipo endoscopio para inspección en zonas inaccesibles: transmite video en vivo, permite capturar fotos y grabar, y funciona con scanners LAUNCH X-431 compatibles o dispositivos Android/Windows.",
+  "badge": "VideoScope",
+  "order": 100,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "LAUNCH VSP-600 – Cámara de inspección (VideoScope) HD",
+    "description": "VideoScope LAUNCH VSP-600: endoscopio HD IP67 con iluminación regulable, captura de fotos y video. Compatible con scanners LAUNCH X-431 (pantallas 8\" o más) y dispositivos Android/Windows."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SVSP-600"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "compatibility",
+    "specs",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Cámara de inspección tipo endoscopio para visualizar zonas estrechas y de difícil acceso.",
+        "Transmisión de video en vivo, con opción de ver, capturar y guardar imágenes y videos.",
+        "Iluminación LED con 6 niveles de intensidad para trabajar en ambientes oscuros.",
+        "Sonda delgada y grado de protección IP67 para inspecciones exigentes."
+      ]
+    },
+    {
+      "type": "compatibility",
+      "title": "Compatibilidad",
+      "items": [
+        "Scanners LAUNCH X-431 compatibles (pantalla de 8\" o más) con opción de endoscopio dentro de la app del equipo.",
+        "Dispositivos Android o Windows mediante app de videoscopio/endoscopía (según dispositivo).",
+        "Conexión por USB (incluye adaptadores Type-C y Micro USB)."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Resolución: 1280 × 720 (HD).",
+        "Tamaño de sensor: 1/9\".",
+        "Diámetro exterior de lente: 5.5 mm.",
+        "Diámetro exterior del tubo: 4.8 mm.",
+        "Longitud del tubo: 800 mm.",
+        "Temperatura de operación: 0 °C a 65 °C.",
+        "Alimentación: 5 V.",
+        "Conectores/puertos: USB 2.0 / Type-C / Micro USB.",
+        "Iluminación: 6 LEDs con intensidad ajustable.",
+        "Incluye: adaptador Type-C, adaptador Micro USB, gancho, espejo, imán y manual."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Para usarlo en scanners X-431, ingresar a la opción de endoscopio dentro de la app del equipo (según modelo).",
+        "Algunos accesorios (gancho/espejo/imán) requieren retirar el capuchón protector del cabezal LED para su colocación.",
+        "La lente puede venir con film protector; retirar antes de usar."
+      ]
+    }
+  ]
+}

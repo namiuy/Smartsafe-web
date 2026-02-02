@@ -1,0 +1,97 @@
+{
+  "categorySlug": "carros-de-herramientas",
+  "slug": "twt-100",
+  "title": "TWT-100 (MPT-100) – Carro de apoyo multifunción",
+  "shortDescription": "Carro multifunción de 5 niveles para apoyar laptop, scanners y equipos en el taller. Incluye bandeja superior inclinable, placa metálica disipadora, cajón con cerradura y soporte para cables.",
+  "badge": "Carro multifunción • 5 niveles",
+  "order": 4,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "TWT-100 – Carro de apoyo multifunción para taller",
+    "description": "Carro de apoyo Launch TWT-100 (MPT-100) con 5 niveles, bandeja superior inclinable, placa disipadora, cajón con cerradura, gancho para cables y ruedas 360°."
+  },
+  "purchaseUrl": "https://www.herramientas.nami.com.uy/productos/SLATWT-100",
+  "filters": {
+    "tipo": [
+      "carro-de-apoyo"
+    ],
+    "cantidad-de-piezas": [
+      "0"
+    ],
+    "aplicacion": [
+      "diagnostico",
+      "programacion",
+      "taller"
+    ]
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Diseño de 5 niveles para ordenar y apoyar equipos/herramientas.",
+        "Bandeja superior inclinable para operar más cómodo (laptop/tablet).",
+        "Placa metálica disipadora para ayudar a eliminar calor de laptop/equipos.",
+        "Cajón con cerradura para almacenamiento más seguro.",
+        "Hook rack (gancho/porta-cables) para ordenar cables.",
+        "Manija push/pull para moverlo fácilmente por el taller.",
+        "Ruedas con giro 360° para movilidad total.",
+        "Estructura en acero de alta calidad (espesor mínimo 2 mm)."
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Soporte de laptop/tablet para diagnosis y programación.",
+        "Apoyo de scanners, fuentes de flashing/programación y equipos auxiliares.",
+        "Carro móvil para organizar módulos, herramientas livianas y consumibles alrededor del puesto de trabajo."
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones (generales)",
+      "items": [
+        "Niveles: 5 capas (bandejas/estantes).",
+        "Material: acero de alta calidad (≥ 2 mm de espesor).",
+        "Movilidad: ruedas con giro 360° + manija de empuje/tirón.",
+        "Dimensiones aproximadas (según gráfico): alto 1250 mm; base 630 × 675 mm.",
+        "Ancho útil indicado en el gráfico: 500 mm."
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Carro multifunción de 5 niveles.",
+        "Bandeja superior inclinable.",
+        "Placa metálica disipadora.",
+        "Cajón con cerradura (keyed locking system).",
+        "Hook rack (porta-cables).",
+        "Manija push/pull.",
+        "Ruedas 360°."
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "En el material puede figurar como MPT-100; corresponde al mismo carro que comercializamos como TWT-100.",
+        "No es un kit de herramientas: es un carro de apoyo/organización para equipos.",
+        "Laptop, scanner y equipos mostrados en imágenes son ilustrativos y no están incluidos."
+      ]
+    }
+  ],
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/SLATWT-100"
+  }
+}

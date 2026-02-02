@@ -1,0 +1,100 @@
+{
+  "categorySlug": "aceites-y-fluidos",
+  "slug": "atf-501",
+  "title": "ATF-501",
+  "shortDescription": "Máquina profesional para limpieza y recambio de ATF en transmisiones automáticas, con control electrónico de intercambio equivalente y reconocimiento automático de flujo.",
+  "badge": "Equipo profesional",
+  "order": 1,
+  "isFeatured": false,
+  "isActive": true,
+  "seo": {
+    "title": "ATF-501 – Máquina para recambio de ATF y limpieza de transmisión",
+    "description": "Equipo para limpieza y recambio de fluido ATF en transmisiones automáticas: intercambio equivalente automático, reconocimiento de entrada/salida, medición de presión y temperatura, y función de impresión multi-idioma."
+  },
+  "cta": {
+    "secondaryLabel": "Ver especificaciones"
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": ""
+  },
+  "sectionsOrder": [
+    "highlights",
+    "functions",
+    "applications",
+    "specs",
+    "requirements",
+    "notes"
+  ],
+  "sections": [
+    {
+      "id": "highlights",
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Intercambio equivalente automático de ATF (control electrónico).",
+        "Reconocimiento automático del sentido de flujo (entrada/salida).",
+        "Limpieza por recirculación con carga de detergente.",
+        "Visualización de presión de fluido y temperatura de ATF.",
+        "Impresión multi-idioma de resultados."
+      ]
+    },
+    {
+      "id": "functions",
+      "type": "functions",
+      "title": "Funciones",
+      "items": [
+        "Add detergent: carga de detergente para limpieza.",
+        "Exchange: recambio/intercambio de ATF.",
+        "Adjust fluid level: ajuste de nivel/cantidad de fluido.",
+        "Empty new tank: drenaje de remanente en tanque de fluido nuevo.",
+        "Empty used tank: drenaje de tanque de fluido usado.",
+        "System setting: calibración y parámetros (incluye idioma y gestión de base de datos)."
+      ]
+    },
+    {
+      "id": "applications",
+      "type": "applications",
+      "title": "Aplicaciones",
+      "text": "Diseñada para limpieza (flush) e intercambio de ATF en transmisión, convertidor de par y radiador/enfriador de ATF. Según el manual, puede completar el proceso en ~20 minutos y lograr una tasa de intercambio cercana al 100% (según condiciones de operación)."
+    },
+    {
+      "id": "specs",
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Alimentación: 110–127V~ 50/60Hz o 220–230V~ 50/60Hz",
+        "Potencia máxima: 150W",
+        "Manómetro: 0–150 psi",
+        "Manguera de salida: 2.5 m",
+        "Manguera de retorno: 2.5 m",
+        "Manguera de drenaje: 1.2 m",
+        "Precisión de filtrado: 5 μm",
+        "Vida útil del filtro: ~1 año (uso estimado 1 vez/día)",
+        "Tanques de fluido: 20 L × 2",
+        "Error de intercambio equivalente: ±100 ml",
+        "Velocidad media de intercambio: 2 L/min",
+        "Ruido: < 70 dB",
+        "Peso neto: 70 kg (bruto: 78 kg)",
+        "Dimensiones: 590 × 700 × 1037 mm"
+      ]
+    },
+    {
+      "id": "requirements",
+      "type": "requirements",
+      "title": "Requisitos y condiciones de uso",
+      "items": [
+        "Condiciones de trabajo: -10 a +50°C; humedad relativa < 90%.",
+        "Para operación: elevar el vehículo con rueda motriz al menos 200 mm, aplicar freno de mano y calzar ruedas.",
+        "Conexión: se conecta en el circuito entre radiador/enfriador de ATF y transmisión (según configuración del vehículo).",
+        "Recomendación de seguridad: verificar fugas durante el intercambio y detener la operación ante cualquier pérdida."
+      ]
+    },
+    {
+      "id": "notes",
+      "type": "notes",
+      "title": "Notas",
+      "text": "En documentación puede figurar como CAT-501S / iSmartATF 501 según mercado/versión. La configuración de adaptadores y la base de datos puede variar por región."
+    }
+  ]
+}

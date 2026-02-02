@@ -1,0 +1,126 @@
+{
+  "categorySlug": "elevadores",
+  "slug": "tlt-240-sb",
+  "title": "TLT-240-SB – Elevador de dos columnas",
+  "shortDescription": "Elevador automotriz de dos columnas con capacidad de 4 toneladas, sistema electrohidráulico con doble cilindro y desbloqueo manual bilateral. Diseñado para talleres profesionales y mantenimiento general.",
+  "badge": "2 columnas",
+  "order": 4,
+  "isFeatured": true,
+  "isActive": true,
+  "seo": {
+    "title": "TLT-240-SB – Elevador 2 columnas 4T",
+    "description": "Elevador de dos columnas 4 toneladas, doble cilindro hidráulico, desbloqueo manual bilateral y estructura reforzada para uso profesional."
+  },
+  "purchase": {
+    "label": "Comprar en Nami",
+    "url": "https://www.herramientas.nami.com.uy/productos/STLT240SB"
+  },
+  "sectionsOrder": [
+    "highlights",
+    "applications",
+    "capacity",
+    "requirements",
+    "specs",
+    "included",
+    "notes"
+  ],
+  "sections": [
+    {
+      "type": "highlights",
+      "title": "Puntos destacados",
+      "items": [
+        "Elevador automotriz de dos columnas",
+        "Capacidad de elevación de hasta 4.0 toneladas",
+        "Sistema de desbloqueo manual bilateral",
+        "Doble cilindro hidráulico con transmisión por cadena de alta resistencia",
+        "Sistema de sincronización por cables (wire rope equalization)",
+        "Control eléctrico con protección de bajo voltaje (24V)",
+        "Diseño robusto con soldadura automatizada y cañerías ocultas"
+      ]
+    },
+    {
+      "type": "applications",
+      "title": "Aplicaciones",
+      "items": [
+        "Mantenimiento general de vehículos livianos",
+        "Trabajos de mecánica, frenos y suspensión",
+        "Servicios rápidos y talleres profesionales",
+        "Vehículos de uso particular y comercial liviano"
+      ]
+    },
+    {
+      "type": "capacity",
+      "title": "Capacidad y configuración",
+      "items": [
+        "Capacidad máxima de elevación: 4000 kg",
+        "Altura máxima de elevación: 1920 mm",
+        "Altura mínima de elevación: 110 mm",
+        "Tiempo de elevación: ≤ 55 s",
+        "Tiempo de descenso: ≥ 20 s y ≤ 40 s",
+        "Ancho de paso entre columnas: 2770 mm",
+        "Ancho de paso (instalación simétrica): 2486 mm"
+      ]
+    },
+    {
+      "type": "requirements",
+      "title": "Requisitos de instalación y uso",
+      "items": [
+        "Alimentación eléctrica: 3 fases 380V o monofásico 220V",
+        "Instalación sobre piso de hormigón reforzado",
+        "Espesor mínimo recomendado de losa: 200 mm",
+        "Uso en interiores",
+        "Instalación y operación por personal capacitado"
+      ]
+    },
+    {
+      "type": "specs",
+      "title": "Especificaciones técnicas",
+      "items": [
+        "Modelo de referencia: TLT240SB",
+        "Tipo: elevador de dos columnas",
+        "Accionamiento: electrohidráulico",
+        "Potencia del motor: 2.2 kW",
+        "Nivel de ruido: ≤ 75 dB",
+        "Presión hidráulica de trabajo: 18 MPa",
+        "Certificación CE"
+      ]
+    },
+    {
+      "type": "included",
+      "title": "Incluye",
+      "items": [
+        "Elevador TLT-240-SB (dos columnas)",
+        "Brazos de elevación de 2 etapas",
+        "Unidad hidráulica",
+        "Sistema de desbloqueo manual bilateral",
+        "Almohadillas de elevación y protecciones de goma"
+      ]
+    },
+    {
+      "type": "notes",
+      "title": "Notas",
+      "items": [
+        "Los colores del equipo pueden variar según disponibilidad y lote de fabricación. Las imágenes son ilustrativas y pueden no coincidir exactamente con el producto entregado.",
+        "Las especificaciones pueden variar según versión o mercado.",
+        "Las opciones de instalación pueden ser simétricas o asimétricas según configuración."
+      ]
+    }
+  ],
+  "filters": {
+    "tipo-de-elevador": [
+      "2-columnas"
+    ],
+    "capacidad": [
+      "4t"
+    ],
+    "aplicacion": [
+      "mantenimiento"
+    ]
+  },
+  "tags": [
+    "elevador",
+    "2-columnas",
+    "taller",
+    "automotriz"
+  ]
+}
