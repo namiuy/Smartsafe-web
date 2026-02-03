@@ -56,7 +56,7 @@ export function Footer() {
 
 
     return (
-        <footer className="bg-ui-bg-primary text-ui-text-muted border-t border-white/5 font-[family-name:var(--font-space-grotesk)] relative">
+        <footer className="bg-ui-bg-primary text-ui-text-muted border-t border-brand-accent/60 shadow-[0_-2px_20px_-2px_rgba(74,222,128,0.3)] font-[family-name:var(--font-space-grotesk)] relative">
             <Container className="py-12 md:py-16">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-16">
                     {/* 1. Brand */}

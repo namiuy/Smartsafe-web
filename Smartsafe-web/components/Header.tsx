@@ -21,7 +21,7 @@ export function Header({ consultationData }: { consultationData: ConsultationDat
 
     return (
         <>
-            <header className="sticky top-0 z-50 w-full bg-ui-bg-primary text-ui-text-primary shadow-md font-[family-name:var(--font-space-grotesk)] border-b border-white/5">
+            <header className="sticky top-0 z-50 w-full bg-ui-bg-primary text-ui-text-primary shadow-[0_2px_20px_-2px_rgba(74,222,128,0.3)] font-[family-name:var(--font-space-grotesk)] border-b border-brand-accent/60">
                 <Container>
                     <div className="flex h-14 items-center justify-between">
                         {/* Logo / Brand */}
